@@ -1,0 +1,1059 @@
+Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Host_Country
+1930.0,1930-07-13 15:00:00,Group Stage,Pocitos,Montevideo ,France,4.0,1.0,Mexico,,Uruguay
+1930.0,1930-07-13 15:00:00,Group Stage,Parque Central,Montevideo ,United States,3.0,0.0,Belgium,,Uruguay
+1930.0,1930-07-14 12:45:00,Group Stage,Parque Central,Montevideo ,Yugoslavia,2.0,1.0,Brazil,,Uruguay
+1930.0,1930-07-14 14:50:00,Group Stage,Pocitos,Montevideo ,Romania,3.0,1.0,Peru,,Uruguay
+1930.0,1930-07-15 16:00:00,Group Stage,Parque Central,Montevideo ,Argentina,1.0,0.0,France,,Uruguay
+1930.0,1930-07-16 14:45:00,Group Stage,Parque Central,Montevideo ,Chile,3.0,0.0,Mexico,,Uruguay
+1930.0,1930-07-17 12:45:00,Group Stage,Parque Central,Montevideo ,Yugoslavia,4.0,0.0,Bolivia,,Uruguay
+1930.0,1930-07-17 14:45:00,Group Stage,Parque Central,Montevideo ,United States,3.0,0.0,Paraguay,,Uruguay
+1930.0,1930-07-18 14:30:00,Group Stage,Estadio Centenario,Montevideo ,Uruguay,1.0,0.0,Peru,,Uruguay
+1930.0,1930-07-19 12:50:00,Group Stage,Estadio Centenario,Montevideo ,Chile,1.0,0.0,France,,Uruguay
+1930.0,1930-07-19 15:00:00,Group Stage,Estadio Centenario,Montevideo ,Argentina,6.0,3.0,Mexico,,Uruguay
+1930.0,1930-07-20 13:00:00,Group Stage,Estadio Centenario,Montevideo ,Brazil,4.0,0.0,Bolivia,,Uruguay
+1930.0,1930-07-20 15:00:00,Group Stage,Estadio Centenario,Montevideo ,Paraguay,1.0,0.0,Belgium,,Uruguay
+1930.0,1930-07-21 14:50:00,Group Stage,Estadio Centenario,Montevideo ,Uruguay,4.0,0.0,Romania,,Uruguay
+1930.0,1930-07-22 14:45:00,Group Stage,Estadio Centenario,Montevideo ,Argentina,3.0,1.0,Chile,,Uruguay
+1930.0,1930-07-26 14:45:00,Semi-finals,Estadio Centenario,Montevideo ,Argentina,6.0,1.0,United States,,Uruguay
+1930.0,1930-07-27 14:45:00,Semi-finals,Estadio Centenario,Montevideo ,Uruguay,6.0,1.0,Yugoslavia,,Uruguay
+1930.0,1930-07-30 14:15:00,Final,Estadio Centenario,Montevideo ,Uruguay,4.0,2.0,Argentina,,Uruguay
+1934.0,1934-05-27 16:30:00,Group Stage,Stadio Benito Mussolini,Turin ,Austria,3.0,2.0,France,Austria win after extra time,Italy
+1934.0,1934-05-27 16:30:00,Group Stage,Giorgio Ascarelli,Naples ,Hungary,4.0,2.0,Egypt,,Italy
+1934.0,1934-05-27 16:30:00,Group Stage,San Siro,Milan ,Switzerland,3.0,2.0,Netherlands,,Italy
+1934.0,1934-05-27 16:30:00,Group Stage,Littorale,Bologna ,Sweden,3.0,2.0,Argentina,,Italy
+1934.0,1934-05-27 16:30:00,Group Stage,Giovanni Berta,Florence ,Germany,5.0,2.0,Belgium,,Italy
+1934.0,1934-05-27 16:30:00,Group Stage,Luigi Ferraris,Genoa ,Spain,3.0,1.0,Brazil,,Italy
+1934.0,1934-05-27 16:30:00,Group Stage,Nazionale PNF,Rome ,Italy,7.0,1.0,United States,,Italy
+1934.0,1934-05-27 16:30:00,Group Stage,Littorio,Trieste ,Czechoslovakia,2.0,1.0,Romania,,Italy
+1934.0,1934-05-31 16:30:00,Quarter-finals,Stadio Benito Mussolini,Turin ,Czechoslovakia,3.0,2.0,Switzerland,,Italy
+1934.0,1934-05-31 16:30:00,Quarter-finals,San Siro,Milan ,Germany,2.0,1.0,Sweden,,Italy
+1934.0,1934-05-31 16:30:00,Quarter-finals,Giovanni Berta,Florence ,Italy,1.0,1.0,Spain,,Italy
+1934.0,1934-05-31 16:30:00,Quarter-finals,Littorale,Bologna ,Austria,2.0,1.0,Hungary,,Italy
+1934.0,1934-06-01 16:30:00,Quarter-finals,Giovanni Berta,Florence ,Italy,1.0,0.0,Spain,,Italy
+1934.0,1934-06-03 16:30:00,Semi-finals,San Siro,Milan ,Italy,1.0,0.0,Austria,,Italy
+1934.0,1934-06-03 16:30:00,Semi-finals,Nazionale PNF,Rome ,Czechoslovakia,3.0,1.0,Germany,,Italy
+1934.0,1934-06-07 18:00:00,Third Place Match,Giorgio Ascarelli,Naples ,Germany,3.0,2.0,Austria,,Italy
+1934.0,1934-06-10 17:30:00,Final,Nazionale PNF,Rome ,Italy,2.0,1.0,Czechoslovakia,Italy win after extra time,Italy
+1938.0,1938-06-04 17:00:00,Group Stage,Parc des Princes,Paris ,Switzerland,1.0,1.0,Germany,,France
+1938.0,1938-06-05 17:00:00,Group Stage,Velodrome Municipale,Reims ,Hungary,6.0,0.0,Dutch East Indies,,France
+1938.0,1938-06-05 17:00:00,Group Stage,Stade Olympique,Colombes ,France,3.0,1.0,Belgium,,France
+1938.0,1938-06-05 17:00:00,Group Stage,Stade Municipal,Toulouse ,Cuba,3.0,3.0,Romania,,France
+1938.0,1938-06-05 17:00:00,Group Stage,Stade V�lodrome,Marseilles ,Italy,2.0,1.0,Norway,Italy win after extra time,France
+1938.0,1938-06-05 17:30:00,Group Stage,Stade de la Meinau,Strasbourg ,Brazil,6.0,5.0,Poland,Brazil win after extra time,France
+1938.0,1938-06-05 18:30:00,Group Stage,Cavee Verte,Le Havre ,Czechoslovakia,3.0,0.0,Netherlands,Czechoslovakia win after extra time,France
+1938.0,1938-06-09 18:00:00,Group Stage,Stade Municipal,Toulouse ,Cuba,2.0,1.0,Romania,,France
+1938.0,1938-06-09 18:00:00,Group Stage,Parc des Princes,Paris ,Switzerland,4.0,2.0,Germany,,France
+1938.0,1938-06-12 17:00:00,Quarter-finals,Stade du Parc Lescure,Bordeaux ,Brazil,1.0,1.0,Czechoslovakia,,France
+1938.0,1938-06-12 17:00:00,Quarter-finals,Victor Boucquey,Lille ,Hungary,2.0,0.0,Switzerland,,France
+1938.0,1938-06-12 17:00:00,Quarter-finals,Fort Carree,Antibes ,Sweden,8.0,0.0,Cuba,,France
+1938.0,1938-06-12 17:00:00,Quarter-finals,Stade Olympique,Colombes ,Italy,3.0,1.0,France,,France
+1938.0,1938-06-14 18:00:00,Quarter-finals,Stade du Parc Lescure,Bordeaux ,Brazil,2.0,1.0,Czechoslovakia,,France
+1938.0,1938-06-16 18:00:00,Semi-finals,Parc des Princes,Paris ,Hungary,5.0,1.0,Sweden,,France
+1938.0,1938-06-16 18:00:00,Semi-finals,Stade V�lodrome,Marseilles ,Italy,2.0,1.0,Brazil,,France
+1938.0,1938-06-19 17:00:00,Third Place Match,Stade du Parc Lescure,Bordeaux ,Brazil,4.0,2.0,Sweden,,France
+1938.0,1938-06-19 17:00:00,Final,Stade Olympique,Colombes ,Italy,4.0,2.0,Hungary,,France
+1950.0,1950-06-24 15:00:00,Group Stage,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Brazil,4.0,0.0,Mexico,,Brazil
+1950.0,1950-06-25 15:00:00,Group Stage,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,England,2.0,0.0,Chile,,Brazil
+1950.0,1950-06-25 15:00:00,Group Stage,Durival de Brito,Curitiba ,Spain,3.0,1.0,United States,,Brazil
+1950.0,1950-06-25 15:00:00,Group Stage,Pacaembu,Sao Paulo ,Sweden,3.0,2.0,Italy,,Brazil
+1950.0,1950-06-25 15:00:00,Group Stage,Independencia,Belo Horizonte ,Yugoslavia,3.0,0.0,Switzerland,,Brazil
+1950.0,1950-06-28 15:00:00,Group Stage,Pacaembu,Sao Paulo ,Brazil,2.0,2.0,Switzerland,,Brazil
+1950.0,1950-06-28 15:00:00,Group Stage,Eucaliptos,Porto Alegre ,Yugoslavia,4.0,1.0,Mexico,,Brazil
+1950.0,1950-06-29 15:00:00,Group Stage,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Spain,2.0,0.0,Chile,,Brazil
+1950.0,1950-06-29 15:30:00,Group Stage,Durival de Brito,Curitiba ,Sweden,2.0,2.0,Paraguay,,Brazil
+1950.0,1950-06-29 15:00:00,Group Stage,Independencia,Belo Horizonte ,United States,1.0,0.0,England,,Brazil
+1950.0,1950-07-01 15:00:00,Group Stage,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Brazil,2.0,0.0,Yugoslavia,,Brazil
+1950.0,1950-07-02 15:00:00,Group Stage,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Spain,1.0,0.0,England,,Brazil
+1950.0,1950-07-02 15:00:00,Group Stage,Pacaembu,Sao Paulo ,Italy,2.0,0.0,Paraguay,,Brazil
+1950.0,1950-07-02 15:00:00,Group Stage,Independencia,Belo Horizonte ,Uruguay,8.0,0.0,Bolivia,,Brazil
+1950.0,1950-07-02 15:40:00,Group Stage,Eucaliptos,Porto Alegre ,Switzerland,2.0,1.0,Mexico,,Brazil
+1950.0,1950-07-02 15:00:00,Group Stage,Ilha do Retiro,Recife ,Chile,5.0,2.0,United States,,Brazil
+1950.0,1950-07-09 15:00:00,Group Stage,Pacaembu,Sao Paulo ,Uruguay,2.0,2.0,Spain,,Brazil
+1950.0,1950-07-09 15:00:00,Group Stage,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Brazil,7.0,1.0,Sweden,,Brazil
+1950.0,1950-07-13 15:00:00,Group Stage,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Brazil,6.0,1.0,Spain,,Brazil
+1950.0,1950-07-13 15:00:00,Group Stage,Pacaembu,Sao Paulo ,Uruguay,3.0,2.0,Sweden,,Brazil
+1950.0,1950-07-16 15:00:00,Group Stage,Pacaembu,Sao Paulo ,Sweden,3.0,1.0,Spain,,Brazil
+1950.0,1950-07-16 15:00:00,Group Stage,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Uruguay,2.0,1.0,Brazil,,Brazil
+1954.0,1954-06-16 18:00:00,Group Stage,Wankdorf Stadium,Berne ,Uruguay,2.0,0.0,Czechoslovakia,,Switzerland
+1954.0,1954-06-16 18:00:00,Group Stage,Hardturm,Zurich ,Austria,1.0,0.0,Scotland,,Switzerland
+1954.0,1954-06-16 18:00:00,Group Stage,Charmilles,Geneva ,Brazil,5.0,0.0,Mexico,,Switzerland
+1954.0,1954-06-16 18:00:00,Group Stage,La Pontaise,Lausanne ,Yugoslavia,1.0,0.0,France,,Switzerland
+1954.0,1954-06-17 18:00:00,Group Stage,Wankdorf Stadium,Berne ,Germany FR,4.0,1.0,Turkey,,Switzerland
+1954.0,1954-06-17 18:00:00,Group Stage,Hardturm,Zurich ,Hungary,9.0,0.0,Republic of Korea,,Switzerland
+1954.0,1954-06-17 18:10:00,Group Stage,St. Jakob,Basel ,England,4.0,4.0,Belgium,,Switzerland
+1954.0,1954-06-17 17:50:00,Group Stage,La Pontaise,Lausanne ,Switzerland,2.0,1.0,Italy,,Switzerland
+1954.0,1954-06-19 16:50:00,Group Stage,St. Jakob,Basel ,Uruguay,7.0,0.0,Scotland,,Switzerland
+1954.0,1954-06-19 17:00:00,Group Stage,Hardturm,Zurich ,Austria,5.0,0.0,Czechoslovakia,,Switzerland
+1954.0,1954-06-19 17:10:00,Group Stage,Charmilles,Geneva ,France,3.0,2.0,Mexico,,Switzerland
+1954.0,1954-06-19 17:00:00,Group Stage,La Pontaise,Lausanne ,Brazil,1.0,1.0,Yugoslavia,,Switzerland
+1954.0,1954-06-20 16:50:00,Group Stage,St. Jakob,Basel ,Hungary,8.0,3.0,Germany FR,,Switzerland
+1954.0,1954-06-20 17:00:00,Group Stage,Charmilles,Geneva ,Turkey,7.0,0.0,Republic of Korea,,Switzerland
+1954.0,1954-06-20 17:10:00,Group Stage,Wankdorf Stadium,Berne ,England,2.0,0.0,Switzerland,,Switzerland
+1954.0,1954-06-20 17:00:00,Group Stage,Comunale di Cornaredo,Lugano ,Italy,4.0,1.0,Belgium,,Switzerland
+1954.0,1954-06-23 18:00:00,Group Stage,Hardturm,Zurich ,Germany FR,7.0,2.0,Turkey,,Switzerland
+1954.0,1954-06-23 18:00:00,Group Stage,St. Jakob,Basel ,Switzerland,4.0,1.0,Italy,,Switzerland
+1954.0,1954-06-26 17:00:00,Quarter-finals,St. Jakob,Basel ,Uruguay,4.0,2.0,England,,Switzerland
+1954.0,1954-06-26 17:00:00,Quarter-finals,La Pontaise,Lausanne ,Austria,7.0,5.0,Switzerland,,Switzerland
+1954.0,1954-06-27 17:00:00,Quarter-finals,Charmilles,Geneva ,Germany FR,2.0,0.0,Yugoslavia,,Switzerland
+1954.0,1954-06-27 17:00:00,Quarter-finals,Wankdorf Stadium,Berne ,Hungary,4.0,2.0,Brazil,,Switzerland
+1954.0,1954-06-30 18:00:00,Semi-finals,St. Jakob,Basel ,Germany FR,6.0,1.0,Austria,,Switzerland
+1954.0,1954-06-30 18:00:00,Semi-finals,La Pontaise,Lausanne ,Hungary,4.0,2.0,Uruguay,Hungary win after extra time,Switzerland
+1954.0,1954-07-03 17:00:00,Third Place Match,Hardturm,Zurich ,Austria,3.0,1.0,Uruguay,,Switzerland
+1954.0,1954-07-04 17:00:00,Final,Wankdorf Stadium,Berne ,Germany FR,3.0,2.0,Hungary,,Switzerland
+1958.0,1958-06-08 14:00:00,Group Stage,Rasunda Stadium,Solna ,Sweden,3.0,0.0,Mexico,,Sweden
+1958.0,1958-06-08 19:00:00,Group Stage,Nya Ullevi,Gothenburg ,Soviet Union,2.0,2.0,England,,Sweden
+1958.0,1958-06-08 19:00:00,Group Stage,Malmo Stadion,Malm� ,Argentina,1.0,3.0,Germany FR,,Sweden
+1958.0,1958-06-08 19:00:00,Group Stage,Jarnvallen,Sandviken ,Hungary,1.0,1.0,Wales,,Sweden
+1958.0,1958-06-08 19:00:00,Group Stage,Idrottsparken,Norrk�Ping ,France,7.0,3.0,Paraguay,,Sweden
+1958.0,1958-06-08 19:00:00,Group Stage,Arosvallen,Vasteras ,Yugoslavia,1.0,1.0,Scotland,,Sweden
+1958.0,1958-06-08 19:00:00,Group Stage,Rimnersvallen,Udevalla ,Brazil,3.0,0.0,Austria,,Sweden
+1958.0,1958-06-08 19:00:00,Group Stage,Orjans Vall,Halmstad ,Northern Ireland,1.0,0.0,Czechoslovakia,,Sweden
+1958.0,1958-06-11 19:00:00,Group Stage,Nya Ullevi,Gothenburg ,Brazil,0.0,0.0,England,,Sweden
+1958.0,1958-06-11 19:00:00,Group Stage,Rasunda Stadium,Solna ,Mexico,1.0,1.0,Wales,,Sweden
+1958.0,1958-06-11 19:00:00,Group Stage,Idrottsparken,Norrk�Ping ,Paraguay,3.0,2.0,Scotland,,Sweden
+1958.0,1958-06-11 19:00:00,Group Stage,Arosvallen,Vasteras ,Yugoslavia,3.0,2.0,France,,Sweden
+1958.0,1958-06-11 19:00:00,Group Stage,Ryavallen,Boras ,Soviet Union,2.0,0.0,Austria,,Sweden
+1958.0,1958-06-11 19:00:00,Group Stage,Olympia Stadium,Helsingborg ,Germany FR,2.0,2.0,Czechoslovakia,,Sweden
+1958.0,1958-06-11 19:00:00,Group Stage,Orjans Vall,Halmstad ,Argentina,3.0,1.0,Northern Ireland,,Sweden
+1958.0,1958-06-12 19:00:00,Group Stage,Rasunda Stadium,Solna ,Sweden,2.0,1.0,Hungary,,Sweden
+1958.0,1958-06-15 14:00:00,Group Stage,Rasunda Stadium,Solna ,Sweden,0.0,0.0,Wales,,Sweden
+1958.0,1958-06-15 19:00:00,Group Stage,Nya Ullevi,Gothenburg ,Brazil,2.0,0.0,Soviet Union,,Sweden
+1958.0,1958-06-15 19:00:00,Group Stage,Malmo Stadion,Malm� ,Germany FR,2.0,2.0,Northern Ireland,,Sweden
+1958.0,1958-06-15 19:00:00,Group Stage,Jarnvallen,Sandviken ,Hungary,4.0,0.0,Mexico,,Sweden
+1958.0,1958-06-15 19:00:00,Group Stage,Tunavallen,Eskilstuna ,Paraguay,3.0,3.0,Yugoslavia,,Sweden
+1958.0,1958-06-15 19:00:00,Group Stage,Eyravallen,Orebro ,France,2.0,1.0,Scotland,,Sweden
+1958.0,1958-06-15 19:00:00,Group Stage,Ryavallen,Boras ,England,2.0,2.0,Austria,,Sweden
+1958.0,1958-06-15 19:00:00,Group Stage,Olympia Stadium,Helsingborg ,Czechoslovakia,6.0,1.0,Argentina,,Sweden
+1958.0,1958-06-17 19:00:00,Group Stage,Nya Ullevi,Gothenburg ,Soviet Union,1.0,0.0,England,,Sweden
+1958.0,1958-06-17 19:00:00,Group Stage,Malmo Stadion,Malm� ,Northern Ireland,2.0,1.0,Czechoslovakia,Northern Ireland win after extra time,Sweden
+1958.0,1958-06-17 19:00:00,Group Stage,Rasunda Stadium,Solna ,Wales,2.0,1.0,Hungary,,Sweden
+1958.0,1958-06-19 19:00:00,Quarter-finals,Nya Ullevi,Gothenburg ,Brazil,1.0,0.0,Wales,,Sweden
+1958.0,1958-06-19 19:00:00,Quarter-finals,Malmo Stadion,Malm� ,Germany FR,1.0,0.0,Yugoslavia,,Sweden
+1958.0,1958-06-19 19:00:00,Quarter-finals,Rasunda Stadium,Solna ,Sweden,2.0,0.0,Soviet Union,,Sweden
+1958.0,1958-06-19 19:00:00,Quarter-finals,Idrottsparken,Norrk�Ping ,France,4.0,0.0,Northern Ireland,,Sweden
+1958.0,1958-06-24 19:00:00,Semi-finals,Nya Ullevi,Gothenburg ,Sweden,3.0,1.0,Germany FR,,Sweden
+1958.0,1958-06-24 19:00:00,Semi-finals,Rasunda Stadium,Solna ,Brazil,5.0,2.0,France,,Sweden
+1958.0,1958-06-28 17:00:00,Third Place Match,Nya Ullevi,Gothenburg ,France,6.0,3.0,Germany FR,,Sweden
+1958.0,1958-06-29 15:00:00,Final,Rasunda Stadium,Solna ,Brazil,5.0,2.0,Sweden,,Sweden
+1962.0,1962-05-30 15:00:00,Group Stage,Carlos Dittborn,Arica ,Uruguay,2.0,1.0,Colombia,,Chile
+1962.0,1962-05-30 15:00:00,Group Stage,Estadio Sausalito,Vina Del Mar ,Brazil,2.0,0.0,Mexico,,Chile
+1962.0,1962-05-30 15:00:00,Group Stage,Estadio El Teniente-Codelco,Rancagua ,Argentina,1.0,0.0,Bulgaria,,Chile
+1962.0,1962-05-30 15:00:00,Group Stage,Nacional,Santiago De Chile ,Chile,3.0,1.0,Switzerland,,Chile
+1962.0,1962-05-31 15:00:00,Group Stage,Carlos Dittborn,Arica ,Soviet Union,2.0,0.0,Yugoslavia,,Chile
+1962.0,1962-05-31 15:00:00,Group Stage,Estadio Sausalito,Vina Del Mar ,Czechoslovakia,1.0,0.0,Spain,,Chile
+1962.0,1962-05-31 15:00:00,Group Stage,Estadio El Teniente-Codelco,Rancagua ,Hungary,2.0,1.0,England,,Chile
+1962.0,1962-05-31 15:00:00,Group Stage,Nacional,Santiago De Chile ,Germany FR,0.0,0.0,Italy,,Chile
+1962.0,1962-06-02 15:00:00,Group Stage,Carlos Dittborn,Arica ,Yugoslavia,3.0,1.0,Uruguay,,Chile
+1962.0,1962-06-02 15:00:00,Group Stage,Estadio Sausalito,Vina Del Mar ,Brazil,0.0,0.0,Czechoslovakia,,Chile
+1962.0,1962-06-02 15:00:00,Group Stage,Estadio El Teniente-Codelco,Rancagua ,England,3.0,1.0,Argentina,,Chile
+1962.0,1962-06-02 15:00:00,Group Stage,Nacional,Santiago De Chile ,Chile,2.0,0.0,Italy,,Chile
+1962.0,1962-06-03 15:00:00,Group Stage,Carlos Dittborn,Arica ,Soviet Union,4.0,4.0,Colombia,,Chile
+1962.0,1962-06-03 15:00:00,Group Stage,Estadio Sausalito,Vina Del Mar ,Spain,1.0,0.0,Mexico,,Chile
+1962.0,1962-06-03 15:00:00,Group Stage,Estadio El Teniente-Codelco,Rancagua ,Hungary,6.0,1.0,Bulgaria,,Chile
+1962.0,1962-06-03 15:00:00,Group Stage,Nacional,Santiago De Chile ,Germany FR,2.0,1.0,Switzerland,,Chile
+1962.0,1962-06-06 15:00:00,Group Stage,Carlos Dittborn,Arica ,Soviet Union,2.0,1.0,Uruguay,,Chile
+1962.0,1962-06-06 15:00:00,Group Stage,Estadio Sausalito,Vina Del Mar ,Brazil,2.0,1.0,Spain,,Chile
+1962.0,1962-06-06 15:00:00,Group Stage,Estadio El Teniente-Codelco,Rancagua ,Hungary,0.0,0.0,Argentina,,Chile
+1962.0,1962-06-06 15:00:00,Group Stage,Nacional,Santiago De Chile ,Germany FR,2.0,0.0,Chile,,Chile
+1962.0,1962-06-07 15:00:00,Group Stage,Carlos Dittborn,Arica ,Yugoslavia,5.0,0.0,Colombia,,Chile
+1962.0,1962-06-07 15:00:00,Group Stage,Estadio Sausalito,Vina Del Mar ,Mexico,3.0,1.0,Czechoslovakia,,Chile
+1962.0,1962-06-07 15:00:00,Group Stage,Estadio El Teniente-Codelco,Rancagua ,England,0.0,0.0,Bulgaria,,Chile
+1962.0,1962-06-07 15:00:00,Group Stage,Nacional,Santiago De Chile ,Italy,3.0,0.0,Switzerland,,Chile
+1962.0,1962-06-10 14:30:00,Quarter-finals,Carlos Dittborn,Arica ,Chile,2.0,1.0,Soviet Union,,Chile
+1962.0,1962-06-10 14:30:00,Quarter-finals,Estadio Sausalito,Vina Del Mar ,Brazil,3.0,1.0,England,,Chile
+1962.0,1962-06-10 14:30:00,Quarter-finals,Estadio El Teniente-Codelco,Rancagua ,Czechoslovakia,1.0,0.0,Hungary,,Chile
+1962.0,1962-06-10 14:30:00,Quarter-finals,Nacional,Santiago De Chile ,Yugoslavia,1.0,0.0,Germany FR,,Chile
+1962.0,1962-06-13 14:30:00,Semi-finals,Estadio Sausalito,Vina Del Mar ,Czechoslovakia,3.0,1.0,Yugoslavia,,Chile
+1962.0,1962-06-13 14:30:00,Semi-finals,Nacional,Santiago De Chile ,Brazil,4.0,2.0,Chile,,Chile
+1962.0,1962-06-16 14:30:00,Third Place Match,Nacional,Santiago De Chile ,Chile,1.0,0.0,Yugoslavia,,Chile
+1962.0,1962-06-17 14:30:00,Final,Nacional,Santiago De Chile ,Brazil,3.0,1.0,Czechoslovakia,,Chile
+1966.0,1966-07-11 19:30:00,Group Stage,Wembley Stadium,London ,England,0.0,0.0,Uruguay,,England
+1966.0,1966-07-12 19:30:00,Group Stage,Hillsborough,Sheffield ,Germany FR,5.0,0.0,Switzerland,,England
+1966.0,1966-07-12 19:30:00,Group Stage,Goodison Park,Liverpool ,Brazil,2.0,0.0,Bulgaria,,England
+1966.0,1966-07-12 19:30:00,Group Stage,Ayresome Park,Middlesbrough ,Soviet Union,3.0,0.0,Korea DPR,,England
+1966.0,1966-07-13 19:30:00,Group Stage,Wembley Stadium,London ,France,1.0,1.0,Mexico,,England
+1966.0,1966-07-13 19:30:00,Group Stage,Old Trafford Stadium,Manchester ,Portugal,3.0,1.0,Hungary,,England
+1966.0,1966-07-13 19:30:00,Group Stage,Villa Park,Birmingham ,Argentina,2.0,1.0,Spain,,England
+1966.0,1966-07-13 19:30:00,Group Stage,Roker Park Ground,Sunderland ,Italy,2.0,0.0,Chile,,England
+1966.0,1966-07-15 19:30:00,Group Stage,White City,London ,Uruguay,2.0,1.0,France,,England
+1966.0,1966-07-15 19:30:00,Group Stage,Hillsborough,Sheffield ,Spain,2.0,1.0,Switzerland,,England
+1966.0,1966-07-15 19:30:00,Group Stage,Goodison Park,Liverpool ,Hungary,3.0,1.0,Brazil,,England
+1966.0,1966-07-15 19:30:00,Group Stage,Ayresome Park,Middlesbrough ,Korea DPR,1.0,1.0,Chile,,England
+1966.0,1966-07-16 15:00:00,Group Stage,Old Trafford Stadium,Manchester ,Portugal,3.0,0.0,Bulgaria,,England
+1966.0,1966-07-16 15:00:00,Group Stage,Villa Park,Birmingham ,Germany FR,0.0,0.0,Argentina,,England
+1966.0,1966-07-16 15:00:00,Group Stage,Roker Park Ground,Sunderland ,Soviet Union,1.0,0.0,Italy,,England
+1966.0,1966-07-16 19:30:00,Group Stage,Wembley Stadium,London ,England,2.0,0.0,Mexico,,England
+1966.0,1966-07-19 16:30:00,Group Stage,Wembley Stadium,London ,Uruguay,0.0,0.0,Mexico,,England
+1966.0,1966-07-19 19:30:00,Group Stage,Hillsborough,Sheffield ,Argentina,2.0,0.0,Switzerland,,England
+1966.0,1966-07-19 19:30:00,Group Stage,Goodison Park,Liverpool ,Portugal,3.0,1.0,Brazil,,England
+1966.0,1966-07-19 19:30:00,Group Stage,Ayresome Park,Middlesbrough ,Korea DPR,1.0,0.0,Italy,,England
+1966.0,1966-07-20 19:30:00,Group Stage,Wembley Stadium,London ,England,2.0,0.0,France,,England
+1966.0,1966-07-20 19:30:00,Group Stage,Old Trafford Stadium,Manchester ,Hungary,3.0,1.0,Bulgaria,,England
+1966.0,1966-07-20 19:30:00,Group Stage,Villa Park,Birmingham ,Germany FR,2.0,1.0,Spain,,England
+1966.0,1966-07-20 19:30:00,Group Stage,Roker Park Ground,Sunderland ,Soviet Union,2.0,1.0,Chile,,England
+1966.0,1966-07-23 15:00:00,Quarter-finals,Wembley Stadium,London ,England,1.0,0.0,Argentina,,England
+1966.0,1966-07-23 15:00:00,Quarter-finals,Hillsborough,Sheffield ,Germany FR,4.0,0.0,Uruguay,,England
+1966.0,1966-07-23 15:00:00,Quarter-finals,Roker Park Ground,Sunderland ,Soviet Union,2.0,1.0,Hungary,,England
+1966.0,1966-07-23 15:00:00,Quarter-finals,Goodison Park,Liverpool ,Portugal,5.0,3.0,Korea DPR,,England
+1966.0,1966-07-25 19:30:00,Semi-finals,Goodison Park,Liverpool ,Germany FR,2.0,1.0,Soviet Union,,England
+1966.0,1966-07-26 19:30:00,Semi-finals,Wembley Stadium,London ,England,2.0,1.0,Portugal,,England
+1966.0,1966-07-28 19:30:00,Third Place Match,Wembley Stadium,London ,Portugal,2.0,1.0,Soviet Union,,England
+1966.0,1966-07-30 15:00:00,Final,Wembley Stadium,London ,England,4.0,2.0,Germany FR,England win after extra time,England
+1970.0,1970-05-31 12:00:00,Group Stage,Estadio Azteca,Mexico City ,Mexico,0.0,0.0,Soviet Union,,Mexico
+1970.0,1970-06-02 16:00:00,Group Stage,Cuauhtemoc,Puebla ,Uruguay,2.0,0.0,Israel,,Mexico
+1970.0,1970-06-02 16:00:00,Group Stage,Nou Camp - Estadio Le�n,Leon ,Peru,3.0,2.0,Bulgaria,,Mexico
+1970.0,1970-06-02 16:00:00,Group Stage,Jalisco,Guadalajara ,England,1.0,0.0,Romania,,Mexico
+1970.0,1970-06-03 16:00:00,Group Stage,Luis Dosal,Toluca ,Italy,1.0,0.0,Sweden,,Mexico
+1970.0,1970-06-03 16:00:00,Group Stage,Nou Camp - Estadio Le�n,Leon ,Germany FR,2.0,1.0,Morocco,,Mexico
+1970.0,1970-06-03 16:00:00,Group Stage,Jalisco,Guadalajara ,Brazil,4.0,1.0,Czechoslovakia,,Mexico
+1970.0,1970-06-03 16:00:00,Group Stage,Estadio Azteca,Mexico City ,Belgium,3.0,0.0,El Salvador,,Mexico
+1970.0,1970-06-06 16:00:00,Group Stage,Cuauhtemoc,Puebla ,Uruguay,0.0,0.0,Italy,,Mexico
+1970.0,1970-06-06 16:00:00,Group Stage,Nou Camp - Estadio Le�n,Leon ,Peru,3.0,0.0,Morocco,,Mexico
+1970.0,1970-06-06 16:00:00,Group Stage,Jalisco,Guadalajara ,Romania,2.0,1.0,Czechoslovakia,,Mexico
+1970.0,1970-06-06 16:00:00,Group Stage,Estadio Azteca,Mexico City ,Soviet Union,4.0,1.0,Belgium,,Mexico
+1970.0,1970-06-07 12:00:00,Group Stage,Luis Dosal,Toluca ,Sweden,1.0,1.0,Israel,,Mexico
+1970.0,1970-06-07 12:00:00,Group Stage,Nou Camp - Estadio Le�n,Leon ,Germany FR,5.0,2.0,Bulgaria,,Mexico
+1970.0,1970-06-07 12:00:00,Group Stage,Jalisco,Guadalajara ,Brazil,1.0,0.0,England,,Mexico
+1970.0,1970-06-07 12:00:00,Group Stage,Estadio Azteca,Mexico City ,Mexico,4.0,0.0,El Salvador,,Mexico
+1970.0,1970-06-10 16:00:00,Group Stage,Cuauhtemoc,Puebla ,Sweden,1.0,0.0,Uruguay,,Mexico
+1970.0,1970-06-10 16:00:00,Group Stage,Nou Camp - Estadio Le�n,Leon ,Germany FR,3.0,1.0,Peru,,Mexico
+1970.0,1970-06-10 16:00:00,Group Stage,Jalisco,Guadalajara ,Brazil,3.0,2.0,Romania,,Mexico
+1970.0,1970-06-10 16:00:00,Group Stage,Estadio Azteca,Mexico City ,Soviet Union,2.0,0.0,El Salvador,,Mexico
+1970.0,1970-06-11 16:00:00,Group Stage,Luis Dosal,Toluca ,Italy,0.0,0.0,Israel,,Mexico
+1970.0,1970-06-11 16:00:00,Group Stage,Nou Camp - Estadio Le�n,Leon ,Bulgaria,1.0,1.0,Morocco,,Mexico
+1970.0,1970-06-11 16:00:00,Group Stage,Jalisco,Guadalajara ,England,1.0,0.0,Czechoslovakia,,Mexico
+1970.0,1970-06-11 16:00:00,Group Stage,Estadio Azteca,Mexico City ,Mexico,1.0,0.0,Belgium,,Mexico
+1970.0,1970-06-14 12:00:00,Quarter-finals,Luis Dosal,Toluca ,Italy,4.0,1.0,Mexico,,Mexico
+1970.0,1970-06-14 12:00:00,Quarter-finals,Nou Camp - Estadio Le�n,Leon ,Germany FR,3.0,2.0,England,Germany FR win after extra time,Mexico
+1970.0,1970-06-14 12:00:00,Quarter-finals,Jalisco,Guadalajara ,Brazil,4.0,2.0,Peru,,Mexico
+1970.0,1970-06-14 12:00:00,Quarter-finals,Estadio Azteca,Mexico City ,Uruguay,1.0,0.0,Soviet Union,Uruguay win after extra time,Mexico
+1970.0,1970-06-17 16:00:00,Semi-finals,Jalisco,Guadalajara ,Brazil,3.0,1.0,Uruguay,,Mexico
+1970.0,,Semi-finals,Estadio Azteca,Mexico City ,Italy,4.0,3.0,Germany FR,Italy win after extra time,Mexico
+1970.0,1970-06-20 16:00:00,Third Place Match,Estadio Azteca,Mexico City ,Germany FR,1.0,0.0,Uruguay,,Mexico
+1970.0,1970-06-21 12:00:00,Final,Estadio Azteca,Mexico City ,Brazil,4.0,1.0,Italy,,Mexico
+1974.0,1974-06-13 17:00:00,Group Stage,Waldstadion,Frankfurt/Main ,Brazil,0.0,0.0,Yugoslavia,,Germany FR
+1974.0,1974-06-14 16:00:00,Group Stage,Olympiastadion,Berlin West ,Germany FR,1.0,0.0,Chile,,Germany FR
+1974.0,1974-06-14 19:30:00,Group Stage,Volksparkstadion,Hamburg ,German DR,2.0,0.0,Australia,,Germany FR
+1974.0,1974-06-14 19:30:00,Group Stage,Westfalenstadion,Dortmund ,Zaire,0.0,2.0,Scotland,,Germany FR
+1974.0,1974-06-15 16:00:00,Group Stage,Niedersachsenstadion,Hanover ,Uruguay,0.0,2.0,Netherlands,,Germany FR
+1974.0,1974-06-15 16:00:00,Group Stage,Rheinstadion,D�Sseldorf ,Sweden,0.0,0.0,Bulgaria,,Germany FR
+1974.0,1974-06-15 18:00:00,Group Stage,Olympiastadion,Munich ,Italy,3.0,1.0,Haiti,,Germany FR
+1974.0,1974-06-15 18:00:00,Group Stage,Neckarstadion,Stuttgart ,Poland,3.0,2.0,Argentina,,Germany FR
+1974.0,1974-06-18 16:00:00,Group Stage,Volksparkstadion,Hamburg ,Australia,0.0,3.0,Germany FR,,Germany FR
+1974.0,1974-06-18 19:30:00,Group Stage,Waldstadion,Frankfurt/Main ,Scotland,0.0,0.0,Brazil,,Germany FR
+1974.0,1974-06-18 19:30:00,Group Stage,Olympiastadion,Berlin West ,Chile,1.0,1.0,German DR,,Germany FR
+1974.0,1974-06-18 19:30:00,Group Stage,Parkstadion,Gelsenkirchen ,Yugoslavia,9.0,0.0,Zaire,,Germany FR
+1974.0,1974-06-19 19:30:00,Group Stage,Westfalenstadion,Dortmund ,Netherlands,0.0,0.0,Sweden,,Germany FR
+1974.0,1974-06-19 19:30:00,Group Stage,Niedersachsenstadion,Hanover ,Bulgaria,1.0,1.0,Uruguay,,Germany FR
+1974.0,1974-06-19 19:30:00,Group Stage,Olympiastadion,Munich ,Haiti,0.0,7.0,Poland,,Germany FR
+1974.0,1974-06-19 19:30:00,Group Stage,Neckarstadion,Stuttgart ,Argentina,1.0,1.0,Italy,,Germany FR
+1974.0,1974-06-22 16:00:00,Group Stage,Waldstadion,Frankfurt/Main ,Scotland,1.0,1.0,Yugoslavia,,Germany FR
+1974.0,1974-06-22 16:00:00,Group Stage,Olympiastadion,Berlin West ,Australia,0.0,0.0,Chile,,Germany FR
+1974.0,1974-06-22 16:00:00,Group Stage,Parkstadion,Gelsenkirchen ,Zaire,0.0,3.0,Brazil,,Germany FR
+1974.0,,Group Stage,Volksparkstadion,Hamburg ,German DR,1.0,0.0,Germany FR,,Germany FR
+1974.0,1974-06-23 16:00:00,Group Stage,Westfalenstadion,Dortmund ,Bulgaria,1.0,4.0,Netherlands,,Germany FR
+1974.0,1974-06-23 16:00:00,Group Stage,Olympiastadion,Munich ,Argentina,4.0,1.0,Haiti,,Germany FR
+1974.0,1974-06-23 16:00:00,Group Stage,Rheinstadion,D�Sseldorf ,Sweden,3.0,0.0,Uruguay,,Germany FR
+1974.0,1974-06-23 16:00:00,Group Stage,Neckarstadion,Stuttgart ,Poland,2.0,1.0,Italy,,Germany FR
+1974.0,1974-06-26 16:00:00,Group Stage,Rheinstadion,D�Sseldorf ,Yugoslavia,0.0,2.0,Germany FR,,Germany FR
+1974.0,1974-06-26 19:30:00,Group Stage,Niedersachsenstadion,Hanover ,Brazil,1.0,0.0,German DR,,Germany FR
+1974.0,1974-06-26 19:30:00,Group Stage,Parkstadion,Gelsenkirchen ,Netherlands,4.0,0.0,Argentina,,Germany FR
+1974.0,1974-06-26 19:30:00,Group Stage,Neckarstadion,Stuttgart ,Sweden,0.0,1.0,Poland,,Germany FR
+1974.0,1974-06-30 16:00:00,Group Stage,Niedersachsenstadion,Hanover ,Argentina,1.0,2.0,Brazil,,Germany FR
+1974.0,1974-06-30 16:00:00,Group Stage,Waldstadion,Frankfurt/Main ,Poland,2.0,1.0,Yugoslavia,,Germany FR
+1974.0,1974-06-30 16:00:00,Group Stage,Parkstadion,Gelsenkirchen ,German DR,0.0,2.0,Netherlands,,Germany FR
+1974.0,1974-06-30 19:30:00,Group Stage,Rheinstadion,D�Sseldorf ,Germany FR,4.0,2.0,Sweden,,Germany FR
+1974.0,1974-07-03 17:00:00,Group Stage,Waldstadion,Frankfurt/Main ,Poland,0.0,1.0,Germany FR,,Germany FR
+1974.0,1974-07-03 19:30:00,Group Stage,Westfalenstadion,Dortmund ,Netherlands,2.0,0.0,Brazil,,Germany FR
+1974.0,1974-07-03 19:30:00,Group Stage,Parkstadion,Gelsenkirchen ,Argentina,1.0,1.0,German DR,,Germany FR
+1974.0,1974-07-03 19:30:00,Group Stage,Rheinstadion,D�Sseldorf ,Sweden,2.0,1.0,Yugoslavia,,Germany FR
+1974.0,1974-07-06 16:00:00,Third Place Match,Olympiastadion,Munich ,Brazil,0.0,1.0,Poland,,Germany FR
+1974.0,,Final,Olympiastadion,Munich ,Netherlands,1.0,2.0,Germany FR,,Germany FR
+1978.0,1978-06-01 15:00:00,Group Stage,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Germany FR,0.0,0.0,Poland,,Argentina
+1978.0,1978-06-02 13:45:00,Group Stage,Estadio Jos� Mar�a Minella,Mar Del Plata ,Italy,2.0,1.0,France,,Argentina
+1978.0,1978-06-02 16:45:00,Group Stage,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Tunisia,3.0,1.0,Mexico,,Argentina
+1978.0,1978-06-02 19:15:00,Group Stage,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Argentina,2.0,1.0,Hungary,,Argentina
+1978.0,1978-06-03 13:45:00,Group Stage,Estadio Jos� Mar�a Minella,Mar Del Plata ,Sweden,1.0,1.0,Brazil,,Argentina
+1978.0,1978-06-03 13:45:00,Group Stage,Jose Amalfitani,Buenos Aires ,Austria,2.0,1.0,Spain,,Argentina
+1978.0,1978-06-03 16:45:00,Group Stage,Estadio Ol�mpico Chateau Carreras,Cordoba ,Peru,3.0,1.0,Scotland,,Argentina
+1978.0,1978-06-03 16:45:00,Group Stage,San Martin,Mendoza ,Netherlands,3.0,0.0,Iran,,Argentina
+1978.0,1978-06-06 13:45:00,Group Stage,Estadio Jos� Mar�a Minella,Mar Del Plata ,Italy,3.0,1.0,Hungary,,Argentina
+1978.0,1978-06-06 16:45:00,Group Stage,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Poland,1.0,0.0,Tunisia,,Argentina
+1978.0,1978-06-06 16:45:00,Group Stage,Estadio Ol�mpico Chateau Carreras,Cordoba ,Germany FR,6.0,0.0,Mexico,,Argentina
+1978.0,1978-06-06 19:15:00,Group Stage,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Argentina,2.0,1.0,France,,Argentina
+1978.0,1978-06-07 13:45:00,Group Stage,Estadio Jos� Mar�a Minella,Mar Del Plata ,Brazil,0.0,0.0,Spain,,Argentina
+1978.0,1978-06-07 13:45:00,Group Stage,Jose Amalfitani,Buenos Aires ,Austria,1.0,0.0,Sweden,,Argentina
+1978.0,1978-06-07 16:45:00,Group Stage,Estadio Ol�mpico Chateau Carreras,Cordoba ,Scotland,1.0,1.0,Iran,,Argentina
+1978.0,1978-06-07 16:45:00,Group Stage,San Martin,Mendoza ,Netherlands,0.0,0.0,Peru,,Argentina
+1978.0,1978-06-10 15:10:00,Group Stage,Estadio Jos� Mar�a Minella,Mar Del Plata ,France,3.0,1.0,Hungary,,Argentina
+1978.0,1978-06-10 16:45:00,Group Stage,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Poland,3.0,1.0,Mexico,,Argentina
+1978.0,1978-06-10 16:45:00,Group Stage,Estadio Ol�mpico Chateau Carreras,Cordoba ,Germany FR,0.0,0.0,Tunisia,,Argentina
+1978.0,1978-06-10 19:15:00,Group Stage,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Italy,1.0,0.0,Argentina,,Argentina
+1978.0,1978-06-11 13:45:00,Group Stage,Estadio Jos� Mar�a Minella,Mar Del Plata ,Brazil,1.0,0.0,Austria,,Argentina
+1978.0,1978-06-11 13:45:00,Group Stage,Jose Amalfitani,Buenos Aires ,Spain,1.0,0.0,Sweden,,Argentina
+1978.0,1978-06-11 16:45:00,Group Stage,Estadio Ol�mpico Chateau Carreras,Cordoba ,Peru,4.0,1.0,Iran,,Argentina
+1978.0,1978-06-11 16:45:00,Group Stage,San Martin,Mendoza ,Scotland,3.0,2.0,Netherlands,,Argentina
+1978.0,1978-06-14 13:45:00,Group Stage,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Germany FR,0.0,0.0,Italy,,Argentina
+1978.0,1978-06-14 13:45:00,Group Stage,Estadio Ol�mpico Chateau Carreras,Cordoba ,Netherlands,5.0,1.0,Austria,,Argentina
+1978.0,1978-06-14 16:45:00,Group Stage,San Martin,Mendoza ,Brazil,3.0,0.0,Peru,,Argentina
+1978.0,1978-06-14 19:15:00,Group Stage,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Argentina,2.0,0.0,Poland,,Argentina
+1978.0,1978-06-18 13:45:00,Group Stage,San Martin,Mendoza ,Poland,1.0,0.0,Peru,,Argentina
+1978.0,1978-06-18 16:45:00,Group Stage,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Italy,1.0,0.0,Austria,,Argentina
+1978.0,1978-06-18 16:45:00,Group Stage,Estadio Ol�mpico Chateau Carreras,Cordoba ,Germany FR,2.0,2.0,Netherlands,,Argentina
+1978.0,1978-06-18 19:15:00,Group Stage,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Argentina,0.0,0.0,Brazil,,Argentina
+1978.0,1978-06-21 13:45:00,Group Stage,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Netherlands,2.0,1.0,Italy,,Argentina
+1978.0,1978-06-21 13:45:00,Group Stage,Estadio Ol�mpico Chateau Carreras,Cordoba ,Austria,3.0,2.0,Germany FR,,Argentina
+1978.0,1978-06-21 16:45:00,Group Stage,San Martin,Mendoza ,Brazil,3.0,1.0,Poland,,Argentina
+1978.0,1978-06-21 19:15:00,Group Stage,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Argentina,6.0,0.0,Peru,,Argentina
+1978.0,1978-06-24 15:00:00,Third Place Match,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Brazil,2.0,1.0,Italy,,Argentina
+1978.0,1978-06-25 15:00:00,Final,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Argentina,3.0,1.0,Netherlands,Argentina win after extra time,Argentina
+1982.0,1982-06-13 20:00:00,Group Stage,Camp Nou,Barcelona ,Argentina,0.0,1.0,Belgium,,Spain
+1982.0,1982-06-14 17:15:00,Group Stage,Estadio Municipal de Bala�dos,Vigo ,Italy,0.0,0.0,Poland,,Spain
+1982.0,1982-06-14 21:00:00,Group Stage,Ramon Sanchez Pizjuan,Seville ,Brazil,2.0,1.0,Soviet Union,,Spain
+1982.0,1982-06-15 17:15:00,Group Stage,Riazor,La Coru�A ,Peru,0.0,0.0,Cameroon,,Spain
+1982.0,1982-06-15 21:00:00,Group Stage,Nuevo Estadio,Elche ,Hungary,10.0,1.0,El Salvador,,Spain
+1982.0,1982-06-15 21:00:00,Group Stage,La Rosaleda,Malaga ,Scotland,5.0,2.0,New Zealand,,Spain
+1982.0,1982-06-16 17:15:00,Group Stage,El Molinon,Gijon ,Germany FR,1.0,2.0,Algeria,,Spain
+1982.0,1982-06-16 17:15:00,Group Stage,San Mames,Bilbao ,England,3.0,1.0,France,,Spain
+1982.0,1982-06-16 21:00:00,Group Stage,Luis Casanova,Valencia ,Spain,1.0,1.0,Honduras,,Spain
+1982.0,1982-06-17 17:15:00,Group Stage,Carlos Tartiere,Oviedo ,Chile,0.0,1.0,Austria,,Spain
+1982.0,1982-06-17 17:45:00,Group Stage,Jose Zorrilla,Valladolid ,Czechoslovakia,1.0,1.0,Kuwait,,Spain
+1982.0,1982-06-17 21:00:00,Group Stage,La Romareda,Zaragoza ,Yugoslavia,0.0,0.0,Northern Ireland,,Spain
+1982.0,1982-06-18 17:15:00,Group Stage,Estadio Municipal de Bala�dos,Vigo ,Italy,1.0,1.0,Peru,,Spain
+1982.0,1982-06-18 21:00:00,Group Stage,Jose Rico Perez,Alicante ,Argentina,4.0,1.0,Hungary,,Spain
+1982.0,1982-06-18 21:00:00,Group Stage,Benito Villamarin,Seville ,Brazil,4.0,1.0,Scotland,,Spain
+1982.0,1982-06-19 19:15:00,Group Stage,Riazor,La Coru�A ,Poland,0.0,0.0,Cameroon,,Spain
+1982.0,1982-06-19 21:00:00,Group Stage,Nuevo Estadio,Elche ,Belgium,1.0,0.0,El Salvador,,Spain
+1982.0,1982-06-19 21:00:00,Group Stage,La Rosaleda,Malaga ,Soviet Union,3.0,0.0,New Zealand,,Spain
+1982.0,1982-06-20 17:15:00,Group Stage,El Molinon,Gijon ,Germany FR,4.0,1.0,Chile,,Spain
+1982.0,1982-06-20 17:15:00,Group Stage,San Mames,Bilbao ,England,2.0,0.0,Czechoslovakia,,Spain
+1982.0,1982-06-20 21:00:00,Group Stage,Luis Casanova,Valencia ,Spain,2.0,1.0,Yugoslavia,,Spain
+1982.0,1982-06-21 17:15:00,Group Stage,Carlos Tartiere,Oviedo ,Algeria,0.0,2.0,Austria,,Spain
+1982.0,1982-06-21 17:15:00,Group Stage,Jose Zorrilla,Valladolid ,France,4.0,1.0,Kuwait,,Spain
+1982.0,1982-06-21 21:00:00,Group Stage,La Romareda,Zaragoza ,Honduras,1.0,1.0,Northern Ireland,,Spain
+1982.0,1982-06-22 17:15:00,Group Stage,Riazor,La Coru�A ,Poland,5.0,1.0,Peru,,Spain
+1982.0,1982-06-22 21:00:00,Group Stage,Nuevo Estadio,Elche ,Belgium,1.0,1.0,Hungary,,Spain
+1982.0,1982-06-22 21:00:00,Group Stage,La Rosaleda,Malaga ,Soviet Union,2.0,2.0,Scotland,,Spain
+1982.0,1982-06-23 17:15:00,Group Stage,Estadio Municipal de Bala�dos,Vigo ,Italy,1.0,1.0,Cameroon,,Spain
+1982.0,1982-06-23 21:00:00,Group Stage,Jose Rico Perez,Alicante ,Argentina,2.0,0.0,El Salvador,,Spain
+1982.0,1982-06-23 21:00:00,Group Stage,Benito Villamarin,Seville ,Brazil,4.0,0.0,New Zealand,,Spain
+1982.0,1982-06-24 17:15:00,Group Stage,Carlos Tartiere,Oviedo ,Algeria,3.0,2.0,Chile,,Spain
+1982.0,1982-06-24 17:15:00,Group Stage,Jose Zorrilla,Valladolid ,France,1.0,1.0,Czechoslovakia,,Spain
+1982.0,1982-06-24 21:00:00,Group Stage,La Romareda,Zaragoza ,Honduras,0.0,1.0,Yugoslavia,,Spain
+1982.0,1982-06-25 17:15:00,Group Stage,El Molinon,Gijon ,Germany FR,1.0,0.0,Austria,,Spain
+1982.0,1982-06-25 17:15:00,Group Stage,San Mames,Bilbao ,England,1.0,0.0,Kuwait,,Spain
+1982.0,1982-06-25 21:00:00,Group Stage,Luis Casanova,Valencia ,Northern Ireland,1.0,0.0,Spain,,Spain
+1982.0,1982-06-28 17:15:00,Group Stage,Vicente Calderon,Madrid ,Austria,0.0,1.0,France,,Spain
+1982.0,1982-06-28 21:00:00,Group Stage,Camp Nou,Barcelona ,Poland,3.0,0.0,Belgium,,Spain
+1982.0,1982-06-29 17:15:00,Group Stage,Sarria,Barcelona ,Italy,2.0,1.0,Argentina,,Spain
+1982.0,1982-06-29 21:00:00,Group Stage,Santiago Bernabeu,Madrid ,Germany FR,0.0,0.0,England,,Spain
+1982.0,1982-07-01 17:15:00,Group Stage,Vicente Calderon,Madrid ,Austria,2.0,2.0,Northern Ireland,,Spain
+1982.0,1982-07-01 21:00:00,Group Stage,Camp Nou,Barcelona ,Belgium,0.0,1.0,Soviet Union,,Spain
+1982.0,1982-07-02 17:15:00,Group Stage,Sarria,Barcelona ,Argentina,1.0,3.0,Brazil,,Spain
+1982.0,1982-07-02 21:00:00,Group Stage,Santiago Bernabeu,Madrid ,Germany FR,2.0,1.0,Spain,,Spain
+1982.0,1982-07-04 17:15:00,Group Stage,Vicente Calderon,Madrid ,France,4.0,1.0,Northern Ireland,,Spain
+1982.0,1982-07-04 21:00:00,Group Stage,Camp Nou,Barcelona ,Poland,0.0,0.0,Soviet Union,,Spain
+1982.0,1982-07-05 17:15:00,Group Stage,Sarria,Barcelona ,Italy,3.0,2.0,Brazil,,Spain
+1982.0,1982-07-05 21:00:00,Group Stage,Santiago Bernabeu,Madrid ,Spain,0.0,0.0,England,,Spain
+1982.0,1982-07-08 17:15:00,Semi-finals,Camp Nou,Barcelona ,Poland,0.0,2.0,Italy,,Spain
+1982.0,1982-07-08 21:00:00,Semi-finals,Ramon Sanchez Pizjuan,Seville ,Germany FR,3.0,3.0,France,win on penalties (5 - 4),Spain
+1982.0,1982-07-10 20:00:00,Third Place Match,Jose Rico Perez,Alicante ,Poland,3.0,2.0,France,,Spain
+1982.0,1982-07-11 20:00:00,Final,Santiago Bernabeu,Madrid ,Italy,3.0,1.0,Germany FR,,Spain
+1986.0,1986-05-31 12:00:00,Group Stage,Estadio Azteca,Mexico City ,Bulgaria,1.0,1.0,Italy,,Mexico
+1986.0,1986-06-01 16:00:00,Group Stage,Nou Camp - Estadio Le�n,Leon ,Canada,0.0,1.0,France,,Mexico
+1986.0,1986-06-01 12:00:00,Group Stage,Jalisco,Guadalajara ,Spain,0.0,1.0,Brazil,,Mexico
+1986.0,1986-06-02 12:00:00,Group Stage,Estadio Irapuato,Irapuato ,Soviet Union,6.0,0.0,Hungary,,Mexico
+1986.0,1986-06-02 12:00:00,Group Stage,Estadio Ol�mpico Universitario,Mexico City ,Argentina,3.0,1.0,Republic of Korea,,Mexico
+1986.0,1986-06-02 16:00:00,Group Stage,Estadio Universitario,Monterrey ,Morocco,0.0,0.0,Poland,,Mexico
+1986.0,1986-06-03 12:00:00,Group Stage,Tres de Marzo,Guadalajara ,Algeria,1.0,1.0,Northern Ireland,,Mexico
+1986.0,1986-06-03 12:00:00,Group Stage,Estadio Azteca,Mexico City ,Belgium,1.0,2.0,Mexico,,Mexico
+1986.0,1986-06-03 16:00:00,Group Stage,Tecnologico,Monterrey ,Portugal,1.0,0.0,England,,Mexico
+1986.0,1986-06-04 12:00:00,Group Stage,Bombonera - Estadio Nemesio Diez,Toluca ,Paraguay,1.0,0.0,Iraq,,Mexico
+1986.0,1986-06-04 16:00:00,Group Stage,Neza,Nezahualcoyotl ,Scotland,0.0,1.0,Denmark,,Mexico
+1986.0,1986-06-04 12:00:00,Group Stage,Estadio Corregidora,Queretaro ,Uruguay,1.0,1.0,Germany FR,,Mexico
+1986.0,1986-06-05 12:00:00,Group Stage,Cuauhtemoc,Puebla ,Italy,1.0,1.0,Argentina,,Mexico
+1986.0,1986-06-05 12:00:00,Group Stage,Nou Camp - Estadio Le�n,Leon ,France,1.0,1.0,Soviet Union,,Mexico
+1986.0,1986-06-05 16:00:00,Group Stage,Estadio Ol�mpico Universitario,Mexico City ,Republic of Korea,1.0,1.0,Bulgaria,,Mexico
+1986.0,1986-06-06 12:00:00,Group Stage,Estadio Irapuato,Irapuato ,Hungary,2.0,0.0,Canada,,Mexico
+1986.0,1986-06-06 12:00:00,Group Stage,Jalisco,Guadalajara ,Brazil,1.0,0.0,Algeria,,Mexico
+1986.0,1986-06-06 16:00:00,Group Stage,Tecnologico,Monterrey ,England,0.0,0.0,Morocco,,Mexico
+1986.0,1986-06-07 12:00:00,Group Stage,Tres de Marzo,Guadalajara ,Northern Ireland,1.0,2.0,Spain,,Mexico
+1986.0,1986-06-07 12:00:00,Group Stage,Estadio Azteca,Mexico City ,Mexico,1.0,1.0,Paraguay,,Mexico
+1986.0,1986-06-07 16:00:00,Group Stage,Estadio Universitario,Monterrey ,Poland,1.0,0.0,Portugal,,Mexico
+1986.0,1986-06-08 12:00:00,Group Stage,Bombonera - Estadio Nemesio Diez,Toluca ,Iraq,1.0,2.0,Belgium,,Mexico
+1986.0,1986-06-08 16:00:00,Group Stage,Neza,Nezahualcoyotl ,Denmark,6.0,1.0,Uruguay,,Mexico
+1986.0,1986-06-08 12:00:00,Group Stage,Estadio Corregidora,Queretaro ,Germany FR,2.0,1.0,Scotland,,Mexico
+1986.0,1986-06-09 12:00:00,Group Stage,Nou Camp - Estadio Le�n,Leon ,Hungary,0.0,3.0,France,,Mexico
+1986.0,1986-06-09 12:00:00,Group Stage,Estadio Irapuato,Irapuato ,Soviet Union,2.0,0.0,Canada,,Mexico
+1986.0,1986-06-10 12:00:00,Group Stage,Cuauhtemoc,Puebla ,Republic of Korea,2.0,3.0,Italy,,Mexico
+1986.0,1986-06-10 12:00:00,Group Stage,Estadio Ol�mpico Universitario,Mexico City ,Argentina,2.0,0.0,Bulgaria,,Mexico
+1986.0,1986-06-11 12:00:00,Group Stage,Bombonera - Estadio Nemesio Diez,Toluca ,Paraguay,2.0,2.0,Belgium,,Mexico
+1986.0,1986-06-11 12:00:00,Group Stage,Estadio Azteca,Mexico City ,Iraq,0.0,1.0,Mexico,,Mexico
+1986.0,1986-06-11 16:00:00,Group Stage,Tres de Marzo,Guadalajara ,Portugal,1.0,3.0,Morocco,,Mexico
+1986.0,1986-06-11 16:00:00,Group Stage,Tecnologico,Monterrey ,England,3.0,0.0,Poland,,Mexico
+1986.0,1986-06-12 12:00:00,Group Stage,Jalisco,Guadalajara ,Northern Ireland,0.0,3.0,Brazil,,Mexico
+1986.0,1986-06-12 12:00:00,Group Stage,Tecnologico,Monterrey ,Algeria,0.0,3.0,Spain,,Mexico
+1986.0,1986-06-13 12:00:00,Group Stage,Neza,Nezahualcoyotl ,Scotland,0.0,0.0,Uruguay,,Mexico
+1986.0,1986-06-13 12:00:00,Group Stage,Estadio Corregidora,Queretaro ,Denmark,2.0,0.0,Germany FR,,Mexico
+1986.0,1986-06-15 16:00:00,Round of 16,Nou Camp - Estadio Le�n,Leon ,Soviet Union,3.0,4.0,Belgium,Belgium win after extra time,Mexico
+1986.0,1986-06-15 12:00:00,Round of 16,Estadio Azteca,Mexico City ,Mexico,2.0,0.0,Bulgaria,,Mexico
+1986.0,1986-06-16 16:00:00,Round of 16,Cuauhtemoc,Puebla ,Argentina,1.0,0.0,Uruguay,,Mexico
+1986.0,1986-06-16 12:00:00,Round of 16,Jalisco,Guadalajara ,Brazil,4.0,0.0,Poland,,Mexico
+1986.0,1986-06-17 12:00:00,Round of 16,Estadio Ol�mpico Universitario,Mexico City ,Italy,0.0,2.0,France,,Mexico
+1986.0,1986-06-17 16:00:00,Round of 16,Estadio Universitario,Monterrey ,Morocco,0.0,1.0,Germany FR,,Mexico
+1986.0,1986-06-18 12:00:00,Round of 16,Estadio Azteca,Mexico City ,England,3.0,0.0,Paraguay,,Mexico
+1986.0,1986-06-18 16:00:00,Round of 16,Estadio Corregidora,Queretaro ,Denmark,1.0,5.0,Spain,,Mexico
+1986.0,1986-06-21 12:00:00,Quarter-finals,Jalisco,Guadalajara ,Brazil,1.0,1.0,France,France win on penalties (3 - 4),Mexico
+1986.0,1986-06-21 16:00:00,Quarter-finals,Estadio Universitario,Monterrey ,Germany FR,0.0,0.0,Mexico,Germany FR win on penalties (4 - 1),Mexico
+1986.0,1986-06-22 16:00:00,Quarter-finals,Cuauhtemoc,Puebla ,Spain,1.0,1.0,Belgium,Belgium win on penalties (4 - 5),Mexico
+1986.0,1986-06-22 12:00:00,Quarter-finals,Estadio Azteca,Mexico City ,Argentina,2.0,1.0,England,,Mexico
+1986.0,1986-06-25 12:00:00,Semi-finals,Jalisco,Guadalajara ,France,0.0,2.0,Germany FR,,Mexico
+1986.0,1986-06-25 16:00:00,Semi-finals,Estadio Azteca,Mexico City ,Argentina,2.0,0.0,Belgium,,Mexico
+1986.0,1986-06-28 12:00:00,Third Place Match,Cuauhtemoc,Puebla ,France,4.0,2.0,Belgium,France win after extra time,Mexico
+1986.0,1986-06-29 12:00:00,Final,Estadio Azteca,Mexico City ,Argentina,3.0,2.0,Germany FR,,Mexico
+1990.0,1990-06-08 18:00:00,Group Stage,Giuseppe Meazza,Milan ,Argentina,0.0,1.0,Cameroon,,Italy
+1990.0,1990-06-09 17:00:00,Group Stage,Stadio San Nicola,Bari ,Soviet Union,0.0,2.0,Romania,,Italy
+1990.0,1990-06-09 17:00:00,Group Stage,Renato Dall Ara,Bologna ,United Arab Emirates,0.0,2.0,Colombia,,Italy
+1990.0,1990-06-09 21:00:00,Group Stage,Stadio Olimpico,Rome ,Italy,1.0,0.0,Austria,,Italy
+1990.0,1990-06-10 17:00:00,Group Stage,Comunale,Florence ,United States,1.0,5.0,Czechoslovakia,,Italy
+1990.0,1990-06-10 21:00:00,Group Stage,Stadio delle Alpi,Turin ,Brazil,2.0,1.0,Sweden,,Italy
+1990.0,1990-06-10 21:00:00,Group Stage,Giuseppe Meazza,Milan ,Germany FR,4.0,1.0,Yugoslavia,,Italy
+1990.0,1990-06-11 17:00:00,Group Stage,Luigi Ferraris,Genoa ,Costa Rica,1.0,0.0,Scotland,,Italy
+1990.0,1990-06-11 21:00:00,Group Stage,Sant Elia,Cagliari ,England,1.0,1.0,Republic of Ireland,,Italy
+1990.0,1990-06-12 17:00:00,Group Stage,Marc Antonio Bentegodi,Verona ,Belgium,2.0,0.0,Republic of Korea,,Italy
+1990.0,1990-06-12 21:00:00,Group Stage,Della Favorita,Palermo ,Netherlands,1.0,1.0,Egypt,,Italy
+1990.0,1990-06-13 17:00:00,Group Stage,Dacia Arena,Udine ,Uruguay,0.0,0.0,Spain,,Italy
+1990.0,1990-06-13 21:00:00,Group Stage,San Paolo,Naples ,Argentina,2.0,0.0,Soviet Union,,Italy
+1990.0,1990-06-14 17:00:00,Group Stage,Stadio San Nicola,Bari ,Cameroon,2.0,1.0,Romania,,Italy
+1990.0,1990-06-14 17:00:00,Group Stage,Renato Dall Ara,Bologna ,Yugoslavia,1.0,0.0,Colombia,,Italy
+1990.0,1990-06-14 21:00:00,Group Stage,Stadio Olimpico,Rome ,Italy,1.0,0.0,United States,,Italy
+1990.0,1990-06-15 17:00:00,Group Stage,Comunale,Florence ,Austria,0.0,1.0,Czechoslovakia,,Italy
+1990.0,1990-06-15 21:00:00,Group Stage,Giuseppe Meazza,Milan ,Germany FR,5.0,1.0,United Arab Emirates,,Italy
+1990.0,1990-06-16 17:00:00,Group Stage,Stadio delle Alpi,Turin ,Brazil,1.0,0.0,Costa Rica,,Italy
+1990.0,1990-06-16 21:00:00,Group Stage,Luigi Ferraris,Genoa ,Sweden,1.0,2.0,Scotland,,Italy
+1990.0,1990-06-16 21:00:00,Group Stage,Sant Elia,Cagliari ,England,0.0,0.0,Netherlands,,Italy
+1990.0,1990-06-17 17:00:00,Group Stage,Della Favorita,Palermo ,Republic of Ireland,0.0,0.0,Egypt,,Italy
+1990.0,1990-06-17 21:00:00,Group Stage,Dacia Arena,Udine ,Republic of Korea,1.0,3.0,Spain,,Italy
+1990.0,1990-06-17 21:00:00,Group Stage,Marc Antonio Bentegodi,Verona ,Belgium,3.0,1.0,Uruguay,,Italy
+1990.0,1990-06-18 21:00:00,Group Stage,San Paolo,Naples ,Argentina,1.0,1.0,Romania,,Italy
+1990.0,1990-06-18 21:00:00,Group Stage,Stadio San Nicola,Bari ,Cameroon,0.0,4.0,Soviet Union,,Italy
+1990.0,1990-06-19 17:00:00,Group Stage,Giuseppe Meazza,Milan ,Germany FR,1.0,1.0,Colombia,,Italy
+1990.0,1990-06-19 17:00:00,Group Stage,Renato Dall Ara,Bologna ,Yugoslavia,4.0,1.0,United Arab Emirates,,Italy
+1990.0,1990-06-19 21:00:00,Group Stage,Stadio Olimpico,Rome ,Italy,2.0,0.0,Czechoslovakia,,Italy
+1990.0,1990-06-19 21:00:00,Group Stage,Comunale,Florence ,Austria,2.0,1.0,United States,,Italy
+1990.0,1990-06-20 21:00:00,Group Stage,Stadio delle Alpi,Turin ,Brazil,1.0,0.0,Scotland,,Italy
+1990.0,1990-06-20 21:00:00,Group Stage,Luigi Ferraris,Genoa ,Sweden,1.0,2.0,Costa Rica,,Italy
+1990.0,1990-06-21 17:00:00,Group Stage,Friuli,Udine ,Republic of Korea,0.0,1.0,Uruguay,,Italy
+1990.0,1990-06-21 17:00:00,Group Stage,Marc Antonio Bentegodi,Verona ,Belgium,1.0,2.0,Spain,,Italy
+1990.0,1990-06-21 21:00:00,Group Stage,Della Favorita,Palermo ,Republic of Ireland,1.0,1.0,Netherlands,,Italy
+1990.0,1990-06-21 21:00:00,Group Stage,Sant Elia,Cagliari ,England,1.0,0.0,Egypt,,Italy
+1990.0,1990-06-23 17:00:00,Round of 16,San Paolo,Naples ,Cameroon,2.0,1.0,Colombia,Cameroon win after extra time,Italy
+1990.0,1990-06-23 21:00:00,Round of 16,Stadio San Nicola,Bari ,Czechoslovakia,4.0,1.0,Costa Rica,,Italy
+1990.0,1990-06-24 17:00:00,Round of 16,Stadio delle Alpi,Turin ,Brazil,0.0,1.0,Argentina,,Italy
+1990.0,1990-06-24 21:00:00,Round of 16,Giuseppe Meazza,Milan ,Germany FR,2.0,1.0,Netherlands,,Italy
+1990.0,1990-06-25 17:00:00,Round of 16,Luigi Ferraris,Genoa ,Republic of Ireland,0.0,0.0,Romania,Republic of Ireland win on penalties (5 - 4),Italy
+1990.0,1990-06-25 21:00:00,Round of 16,Stadio Olimpico,Rome ,Italy,2.0,0.0,Uruguay,,Italy
+1990.0,1990-06-26 17:00:00,Round of 16,Marc Antonio Bentegodi,Verona ,Spain,1.0,2.0,Yugoslavia,Yugoslavia win after extra time,Italy
+1990.0,1990-06-26 21:00:00,Round of 16,Renato Dall Ara,Bologna ,England,1.0,0.0,Belgium,England win after extra time,Italy
+1990.0,1990-06-30 17:00:00,Quarter-finals,Comunale,Florence ,Yugoslavia,0.0,0.0,Argentina,win on penalties (2 - 3),Italy
+1990.0,1990-06-30 21:00:00,Quarter-finals,Stadio Olimpico,Rome ,Italy,1.0,0.0,Republic of Ireland,,Italy
+1990.0,1990-07-01 17:00:00,Quarter-finals,Giuseppe Meazza,Milan ,Germany FR,1.0,0.0,Czechoslovakia,,Italy
+1990.0,1990-07-01 21:00:00,Quarter-finals,San Paolo,Naples ,England,3.0,2.0,Cameroon,England win after extra time,Italy
+1990.0,1990-07-03 20:00:00,Semi-finals,San Paolo,Naples ,Italy,1.0,1.0,Argentina,win on penalties (3 - 4),Italy
+1990.0,1990-07-04 20:00:00,Semi-finals,Stadio delle Alpi,Turin ,Germany FR,1.0,1.0,England,win on penalties (4 - 3),Italy
+1990.0,1990-07-07 20:00:00,Third Place Match,Stadio San Nicola,Bari ,Italy,2.0,1.0,England,,Italy
+1990.0,1990-07-08 20:00:00,Final,Stadio Olimpico,Rome ,Germany FR,1.0,0.0,Argentina,,Italy
+1994.0,1994-06-17 19:30:00,Group Stage,Cotton Bowl,Dallas ,Spain,2.0,2.0,Republic of Korea,,United States
+1994.0,1994-06-17 15:00:00,Group Stage,Soldier Field,Chicago ,Germany,1.0,0.0,Bolivia,,United States
+1994.0,1994-06-18 11:30:00,Group Stage,Pontiac Silverdome,Detroit ,United States,1.0,1.0,Switzerland,,United States
+1994.0,1994-06-18 16:00:00,Group Stage,Giants Stadium,New York/New Jersey ,Italy,0.0,1.0,Republic of Ireland,,United States
+1994.0,1994-06-18 19:30:00,Group Stage,Rose Bowl,Los Angeles ,Colombia,1.0,3.0,Romania,,United States
+1994.0,1994-06-19 12:30:00,Group Stage,Citrus Bowl,Orlando ,Belgium,1.0,0.0,Morocco,,United States
+1994.0,1994-06-19 16:00:00,Group Stage,RFK Stadium,Washington Dc ,Norway,1.0,0.0,Mexico,,United States
+1994.0,1994-06-19 19:30:00,Group Stage,Rose Bowl,Los Angeles ,Cameroon,2.0,2.0,Sweden,,United States
+1994.0,1994-06-20 19:30:00,Group Stage,RFK Stadium,Washington Dc ,Netherlands,2.0,1.0,Saudi Arabia,,United States
+1994.0,1994-06-20 16:00:00,Group Stage,Stanford Stadium,San Francisco ,Brazil,2.0,0.0,Russia,,United States
+1994.0,1994-06-21 12:30:00,Group Stage,Foxboro Stadium,Boston ,Argentina,4.0,0.0,Greece,,United States
+1994.0,1994-06-21 19:30:00,Group Stage,Cotton Bowl,Dallas ,Nigeria,3.0,0.0,Bulgaria,,United States
+1994.0,1994-06-21 16:00:00,Group Stage,Soldier Field,Chicago ,Germany,1.0,1.0,Spain,,United States
+1994.0,1994-06-22 16:00:00,Group Stage,Pontiac Silverdome,Detroit ,Romania,1.0,4.0,Switzerland,,United States
+1994.0,1994-06-22 19:30:00,Group Stage,Rose Bowl,Los Angeles ,United States,2.0,1.0,Colombia,,United States
+1994.0,1994-06-23 16:00:00,Group Stage,Giants Stadium,New York/New Jersey ,Italy,1.0,0.0,Norway,,United States
+1994.0,1994-06-23 19:30:00,Group Stage,Foxboro Stadium,Boston ,Republic of Korea,0.0,0.0,Bolivia,,United States
+1994.0,1994-06-24 12:30:00,Group Stage,Citrus Bowl,Orlando ,Mexico,2.0,1.0,Republic of Ireland,,United States
+1994.0,1994-06-24 19:30:00,Group Stage,Pontiac Silverdome,Detroit ,Sweden,3.0,1.0,Russia,,United States
+1994.0,1994-06-24 16:00:00,Group Stage,Stanford Stadium,San Francisco ,Brazil,3.0,0.0,Cameroon,,United States
+1994.0,1994-06-25 12:30:00,Group Stage,Citrus Bowl,Orlando ,Belgium,1.0,0.0,Netherlands,,United States
+1994.0,1994-06-25 12:30:00,Group Stage,Giants Stadium,New York/New Jersey ,Saudi Arabia,2.0,1.0,Morocco,,United States
+1994.0,1994-06-25 16:00:00,Group Stage,Foxboro Stadium,Boston ,Argentina,2.0,1.0,Nigeria,,United States
+1994.0,1994-06-26 12:30:00,Group Stage,Soldier Field,Chicago ,Bulgaria,4.0,0.0,Greece,,United States
+1994.0,1994-06-26 16:00:00,Group Stage,Rose Bowl,Los Angeles ,United States,0.0,1.0,Romania,,United States
+1994.0,1994-06-26 16:00:00,Group Stage,Stanford Stadium,San Francisco ,Switzerland,0.0,2.0,Colombia,,United States
+1994.0,1994-06-27 16:00:00,Group Stage,Cotton Bowl,Dallas ,Germany,3.0,2.0,Republic of Korea,,United States
+1994.0,1994-06-27 16:00:00,Group Stage,Soldier Field,Chicago ,Bolivia,1.0,3.0,Spain,,United States
+1994.0,1994-06-28 12:30:00,Group Stage,Giants Stadium,New York/New Jersey ,Republic of Ireland,0.0,0.0,Norway,,United States
+1994.0,1994-06-28 16:00:00,Group Stage,Pontiac Silverdome,Detroit ,Brazil,1.0,1.0,Sweden,,United States
+1994.0,1994-06-28 12:30:00,Group Stage,RFK Stadium,Washington Dc ,Italy,1.0,1.0,Mexico,,United States
+1994.0,1994-06-28 16:00:00,Group Stage,Stanford Stadium,San Francisco ,Russia,6.0,1.0,Cameroon,,United States
+1994.0,1994-06-29 12:30:00,Group Stage,Citrus Bowl,Orlando ,Morocco,1.0,2.0,Netherlands,,United States
+1994.0,1994-06-29 12:30:00,Group Stage,RFK Stadium,Washington Dc ,Belgium,0.0,1.0,Saudi Arabia,,United States
+1994.0,1994-06-30 19:30:00,Group Stage,Foxboro Stadium,Boston ,Greece,0.0,2.0,Nigeria,,United States
+1994.0,1994-06-30 19:30:00,Group Stage,Cotton Bowl,Dallas ,Argentina,0.0,2.0,Bulgaria,,United States
+1994.0,1994-07-02 12:00:00,Round of 16,Soldier Field,Chicago ,Germany,3.0,2.0,Belgium,,United States
+1994.0,1994-07-02 16:30:00,Round of 16,RFK Stadium,Washington Dc ,Spain,3.0,0.0,Switzerland,,United States
+1994.0,1994-07-03 12:00:00,Round of 16,Cotton Bowl,Dallas ,Saudi Arabia,1.0,3.0,Sweden,,United States
+1994.0,1994-07-03 13:30:00,Round of 16,Rose Bowl,Los Angeles ,Romania,3.0,2.0,Argentina,,United States
+1994.0,1994-07-04 12:00:00,Round of 16,Citrus Bowl,Orlando ,Netherlands,2.0,0.0,Republic of Ireland,,United States
+1994.0,1994-07-04 12:30:00,Round of 16,Stanford Stadium,San Francisco ,Brazil,1.0,0.0,United States,,United States
+1994.0,1994-07-05 13:00:00,Round of 16,Foxboro Stadium,Boston ,Nigeria,1.0,2.0,Italy,Italy win after extra time,United States
+1994.0,1994-07-05 16:30:00,Round of 16,Giants Stadium,New York/New Jersey ,Mexico,1.0,1.0,Bulgaria,Bulgaria win on penalties (1 - 3),United States
+1994.0,1994-07-09 12:00:00,Quarter-finals,Foxboro Stadium,Boston ,Italy,2.0,1.0,Spain,,United States
+1994.0,1994-07-09 14:30:00,Quarter-finals,Cotton Bowl,Dallas ,Netherlands,2.0,3.0,Brazil,,United States
+1994.0,1994-07-10 12:00:00,Quarter-finals,Giants Stadium,New York/New Jersey ,Bulgaria,2.0,1.0,Germany,,United States
+1994.0,1994-07-10 12:30:00,Quarter-finals,Stanford Stadium,San Francisco ,Romania,2.0,2.0,Sweden,Sweden win on penalties (4 - 5),United States
+1994.0,1994-07-13 16:00:00,Semi-finals,Giants Stadium,New York/New Jersey ,Bulgaria,1.0,2.0,Italy,,United States
+1994.0,1994-07-13 16:30:00,Semi-finals,Rose Bowl,Los Angeles ,Sweden,0.0,1.0,Brazil,,United States
+1994.0,1994-07-16 12:30:00,Third Place Match,Rose Bowl,Los Angeles ,Sweden,4.0,0.0,Bulgaria,,United States
+1994.0,1994-07-17 12:30:00,Final,Rose Bowl,Los Angeles ,Brazil,0.0,0.0,Italy,Brazil win on penalties (3 - 2),United States
+1998.0,1998-06-10 17:30:00,Group Stage,Stade de France,Saint-Denis ,Brazil,2.0,1.0,Scotland,,France
+1998.0,1998-06-10 21:00:00,Group Stage,La Mosson,Montpellier ,Morocco,2.0,2.0,Norway,,France
+1998.0,1998-06-11 17:30:00,Group Stage,Stade du Parc Lescure,Bordeaux ,Italy,2.0,2.0,Chile,,France
+1998.0,1998-06-11 21:00:00,Group Stage,Stade Municipal,Toulouse ,Cameroon,1.0,1.0,Austria,,France
+1998.0,1998-06-12 14:30:00,Group Stage,La Mosson,Montpellier ,Paraguay,0.0,0.0,Bulgaria,,France
+1998.0,1998-06-12 17:30:00,Group Stage,Stade Felix Bollaert,Lens ,Saudi Arabia,0.0,1.0,Denmark,,France
+1998.0,1998-06-12 21:00:00,Group Stage,Stade V�lodrome,Marseilles ,France,3.0,0.0,South Africa,,France
+1998.0,1998-06-13 14:30:00,Group Stage,La Beaujoire,Nantes ,Spain,2.0,3.0,Nigeria,,France
+1998.0,1998-06-13 17:30:00,Group Stage,Stade de Gerland,Lyon ,Republic of Korea,1.0,3.0,Mexico,,France
+1998.0,1998-06-13 21:00:00,Group Stage,Stade de France,Saint-Denis ,Netherlands,0.0,0.0,Belgium,,France
+1998.0,1998-06-14 14:30:00,Group Stage,Stade Municipal,Toulouse ,Argentina,1.0,0.0,Japan,,France
+1998.0,1998-06-14 17:30:00,Group Stage,Stade Geoffroy Guichard,Saint-Etienne ,Yugoslavia,1.0,0.0,Iran,,France
+1998.0,1998-06-14 21:00:00,Group Stage,Stade Felix Bollaert,Lens ,Jamaica,1.0,3.0,Croatia,,France
+1998.0,1998-06-15 14:30:00,Group Stage,Stade V�lodrome,Marseilles ,England,2.0,0.0,Tunisia,,France
+1998.0,1998-06-15 17:30:00,Group Stage,Stade de Gerland,Lyon ,Romania,1.0,0.0,Colombia,,France
+1998.0,1998-06-15 21:00:00,Group Stage,Parc des Princes,Paris ,Germany,2.0,0.0,United States,,France
+1998.0,1998-06-16 17:30:00,Group Stage,Stade du Parc Lescure,Bordeaux ,Scotland,1.0,1.0,Norway,,France
+1998.0,1998-06-16 21:00:00,Group Stage,La Beaujoire,Nantes ,Brazil,3.0,0.0,Morocco,,France
+1998.0,1998-06-17 17:30:00,Group Stage,Stade Geoffroy Guichard,Saint-Etienne ,Chile,1.0,1.0,Austria,,France
+1998.0,1998-06-17 21:00:00,Group Stage,La Mosson,Montpellier ,Italy,3.0,0.0,Cameroon,,France
+1998.0,1998-06-18 17:30:00,Group Stage,Stade Municipal,Toulouse ,South Africa,1.0,1.0,Denmark,,France
+1998.0,1998-06-18 21:00:00,Group Stage,Stade de France,Saint-Denis ,France,4.0,0.0,Saudi Arabia,,France
+1998.0,1998-06-19 17:30:00,Group Stage,Parc des Princes,Paris ,Nigeria,1.0,0.0,Bulgaria,,France
+1998.0,1998-06-19 21:00:00,Group Stage,Stade Geoffroy Guichard,Saint-Etienne ,Spain,0.0,0.0,Paraguay,,France
+1998.0,1998-06-20 14:30:00,Group Stage,La Beaujoire,Nantes ,Japan,0.0,1.0,Croatia,,France
+1998.0,1998-06-20 17:30:00,Group Stage,Stade du Parc Lescure,Bordeaux ,Belgium,2.0,2.0,Mexico,,France
+1998.0,1998-06-20 21:00:00,Group Stage,Stade V�lodrome,Marseilles ,Netherlands,5.0,0.0,Republic of Korea,,France
+1998.0,1998-06-21 14:30:00,Group Stage,Stade Felix Bollaert,Lens ,Germany,2.0,2.0,Yugoslavia,,France
+1998.0,1998-06-21 17:30:00,Group Stage,Parc des Princes,Paris ,Argentina,5.0,0.0,Jamaica,,France
+1998.0,1998-06-21 21:00:00,Group Stage,Stade de Gerland,Lyon ,United States,1.0,2.0,Iran,,France
+1998.0,1998-06-22 17:30:00,Group Stage,La Mosson,Montpellier ,Colombia,1.0,0.0,Tunisia,,France
+1998.0,1998-06-22 21:00:00,Group Stage,Stade Municipal,Toulouse ,Romania,2.0,1.0,England,,France
+1998.0,1998-06-23 16:00:00,Group Stage,Stade de France,Saint-Denis ,Italy,2.0,1.0,Austria,,France
+1998.0,1998-06-23 16:00:00,Group Stage,La Beaujoire,Nantes ,Chile,1.0,1.0,Cameroon,,France
+1998.0,1998-06-23 21:00:00,Group Stage,Stade Geoffroy Guichard,Saint-Etienne ,Scotland,0.0,3.0,Morocco,,France
+1998.0,1998-06-23 21:00:00,Group Stage,Stade V�lodrome,Marseilles ,Brazil,1.0,2.0,Norway,,France
+1998.0,1998-06-24 16:00:00,Group Stage,Stade de Gerland,Lyon ,France,2.0,1.0,Denmark,,France
+1998.0,1998-06-24 16:00:00,Group Stage,Stade du Parc Lescure,Bordeaux ,South Africa,2.0,2.0,Saudi Arabia,,France
+1998.0,1998-06-24 21:00:00,Group Stage,Stade Felix Bollaert,Lens ,Spain,6.0,1.0,Bulgaria,,France
+1998.0,1998-06-24 21:00:00,Group Stage,Stade Municipal,Toulouse ,Nigeria,1.0,3.0,Paraguay,,France
+1998.0,1998-06-25 16:00:00,Group Stage,Parc des Princes,Paris ,Belgium,1.0,1.0,Republic of Korea,,France
+1998.0,1998-06-25 16:00:00,Group Stage,Stade Geoffroy Guichard,Saint-Etienne ,Netherlands,2.0,2.0,Mexico,,France
+1998.0,1998-06-25 21:00:00,Group Stage,La Mosson,Montpellier ,Germany,2.0,0.0,Iran,,France
+1998.0,1998-06-25 21:00:00,Group Stage,La Beaujoire,Nantes ,United States,0.0,1.0,Yugoslavia,,France
+1998.0,1998-06-26 16:00:00,Group Stage,Stade de Gerland,Lyon ,Japan,1.0,2.0,Jamaica,,France
+1998.0,1998-06-26 16:00:00,Group Stage,Stade du Parc Lescure,Bordeaux ,Argentina,1.0,0.0,Croatia,,France
+1998.0,1998-06-26 21:00:00,Group Stage,Stade de France,Saint-Denis ,Romania,1.0,1.0,Tunisia,,France
+1998.0,1998-06-26 21:00:00,Group Stage,Stade Felix Bollaert,Lens ,Colombia,0.0,2.0,England,,France
+1998.0,1998-06-27 16:30:00,Round of 16,Stade V�lodrome,Marseilles ,Italy,1.0,0.0,Norway,,France
+1998.0,1998-06-27 21:00:00,Round of 16,Parc des Princes,Paris ,Brazil,4.0,1.0,Chile,,France
+1998.0,1998-06-28 16:30:00,Round of 16,Stade Felix Bollaert,Lens ,France,1.0,0.0,Paraguay,France win after extra time,France
+1998.0,1998-06-28 21:00:00,Round of 16,Stade de France,Saint-Denis ,Nigeria,1.0,4.0,Denmark,,France
+1998.0,1998-06-29 16:30:00,Round of 16,La Mosson,Montpellier ,Germany,2.0,1.0,Mexico,,France
+1998.0,1998-06-29 21:00:00,Round of 16,Stade Municipal,Toulouse ,Netherlands,2.0,1.0,Yugoslavia,,France
+1998.0,1998-06-30 16:30:00,Round of 16,Stade du Parc Lescure,Bordeaux ,Romania,0.0,1.0,Croatia,,France
+1998.0,1998-06-30 21:00:00,Round of 16,Stade Geoffroy Guichard,Saint-Etienne ,Argentina,2.0,2.0,England,Argentina win on penalties (4 - 3),France
+1998.0,1998-07-03 16:30:00,Quarter-finals,Stade de France,Saint-Denis ,Italy,0.0,0.0,France,France win on penalties (3 - 4),France
+1998.0,1998-07-03 21:00:00,Quarter-finals,La Beaujoire,Nantes ,Brazil,3.0,2.0,Denmark,,France
+1998.0,1998-07-04 16:30:00,Quarter-finals,Stade V�lodrome,Marseilles ,Netherlands,2.0,1.0,Argentina,,France
+1998.0,1998-07-04 21:00:00,Quarter-finals,Stade de Gerland,Lyon ,Germany,0.0,3.0,Croatia,,France
+1998.0,1998-07-07 21:00:00,Semi-finals,Stade V�lodrome,Marseilles ,Brazil,1.0,1.0,Netherlands,Brazil win on penalties (4 - 2),France
+1998.0,1998-07-08 21:00:00,Semi-finals,Stade de France,Saint-Denis ,France,2.0,1.0,Croatia,,France
+1998.0,1998-07-11 21:00:00,Third Place Match,Parc des Princes,Paris ,Netherlands,1.0,2.0,Croatia,,France
+1998.0,1998-07-12 21:00:00,Final,Stade de France,Saint-Denis ,Brazil,0.0,3.0,France,,France
+2002.0,2002-05-31 20:30:00,Group Stage,Seoul World Cup Stadium,Seoul ,France,0.0,1.0,Senegal,,Republic of Korea/Japan
+2002.0,2002-06-01 18:00:00,Group Stage,Munsu Football Stadium,Ulsan ,Uruguay,1.0,2.0,Denmark,,Republic of Korea/Japan
+2002.0,2002-06-01 15:30:00,Group Stage,Niigata Stadium Big Swan,Niigata ,Republic of Ireland,1.0,1.0,Cameroon,,Republic of Korea/Japan
+2002.0,2002-06-01 20:30:00,Group Stage,Sapporo Dome,Sapporo ,Germany,8.0,0.0,Saudi Arabia,,Republic of Korea/Japan
+2002.0,2002-06-02 14:30:00,Group Stage,Kashima Stadium,Ibaraki ,Argentina,1.0,0.0,Nigeria,,Republic of Korea/Japan
+2002.0,2002-06-02 16:30:00,Group Stage,Busan Asiad Main Stadium,Busan ,Paraguay,2.0,2.0,South Africa,,Republic of Korea/Japan
+2002.0,2002-06-02 18:30:00,Group Stage,Saitama Stadium 2002,Saitama ,England,1.0,1.0,Sweden,,Republic of Korea/Japan
+2002.0,2002-06-02 20:30:00,Group Stage,Gwangju World Cup Stadium,Gwangju ,Spain,3.0,1.0,Slovenia,,Republic of Korea/Japan
+2002.0,,Group Stage,Munsu Football Stadium,Ulsan ,Brazil,2.0,1.0,Turkey,,Republic of Korea/Japan
+2002.0,2002-06-03 20:30:00,Group Stage,Sapporo Dome,Sapporo ,Italy,2.0,0.0,Ecuador,,Republic of Korea/Japan
+2002.0,2002-06-03 15:30:00,Group Stage,Niigata Stadium Big Swan,Niigata ,Croatia,0.0,1.0,Mexico,,Republic of Korea/Japan
+2002.0,,Group Stage,Gwangju World Cup Stadium,Gwangju ,China PR,0.0,2.0,Costa Rica,,Republic of Korea/Japan
+2002.0,,Group Stage,Saitama Stadium 2002,Saitama ,Japan,2.0,2.0,Belgium,,Republic of Korea/Japan
+2002.0,2002-06-04 20:30:00,Group Stage,Busan Asiad Main Stadium,Busan ,Republic of Korea,2.0,0.0,Poland,,Republic of Korea/Japan
+2002.0,2002-06-05 15:30:00,Group Stage,Kobe Wing Stadium,Kobe ,Russia,2.0,0.0,Tunisia,,Republic of Korea/Japan
+2002.0,2002-06-05 18:00:00,Group Stage,Suwon World Cup Stadium,Suwon ,United States,3.0,2.0,Portugal,,Republic of Korea/Japan
+2002.0,2002-06-05 20:30:00,Group Stage,Kashima Stadium,Ibaraki ,Germany,1.0,1.0,Republic of Ireland,,Republic of Korea/Japan
+2002.0,2002-06-06 15:30:00,Group Stage,Daegu World Cup Stadium,Daegu ,Denmark,1.0,1.0,Senegal,,Republic of Korea/Japan
+2002.0,2002-06-06 18:00:00,Group Stage,Saitama Stadium 2002,Saitama ,Cameroon,1.0,0.0,Saudi Arabia,,Republic of Korea/Japan
+2002.0,2002-06-06 20:30:00,Group Stage,Busan Asiad Main Stadium,Busan ,France,0.0,0.0,Uruguay,,Republic of Korea/Japan
+2002.0,2002-06-07 15:30:00,Group Stage,Kobe Wing Stadium,Kobe ,Sweden,2.0,1.0,Nigeria,,Republic of Korea/Japan
+2002.0,2002-06-07 20:30:00,Group Stage,Sapporo Dome,Sapporo ,Argentina,0.0,1.0,England,,Republic of Korea/Japan
+2002.0,,Group Stage,Jeonju World Cup Stadium,Jeonju ,Spain,3.0,1.0,Paraguay,,Republic of Korea/Japan
+2002.0,2002-06-08 15:30:00,Group Stage,Daegu World Cup Stadium,Daegu ,South Africa,1.0,0.0,Slovenia,,Republic of Korea/Japan
+2002.0,2002-06-08 20:30:00,Group Stage,Jeju World Cup Stadium,Jeju ,Brazil,4.0,0.0,China PR,,Republic of Korea/Japan
+2002.0,,Group Stage,Kashima Stadium,Ibaraki ,Italy,1.0,2.0,Croatia,,Republic of Korea/Japan
+2002.0,2002-06-09 18:00:00,Group Stage,Incheon Football Stadium,Incheon ,Costa Rica,1.0,1.0,Turkey,,Republic of Korea/Japan
+2002.0,2002-06-09 20:30:00,Group Stage,International Stadium Yokohama,Yokohama ,Japan,1.0,0.0,Russia,,Republic of Korea/Japan
+2002.0,2002-06-09 15:30:00,Group Stage,Miyagi Stadium,Rifu ,Mexico,2.0,1.0,Ecuador,,Republic of Korea/Japan
+2002.0,2002-06-10 15:30:00,Group Stage,Daegu World Cup Stadium,Daegu ,Republic of Korea,1.0,1.0,United States,,Republic of Korea/Japan
+2002.0,2002-06-10 20:30:00,Group Stage,Jeonju World Cup Stadium,Jeonju ,Portugal,4.0,0.0,Poland,,Republic of Korea/Japan
+2002.0,2002-06-10 18:00:00,Group Stage,Oita Stadium Big Eye,Oita ,Tunisia,1.0,1.0,Belgium,,Republic of Korea/Japan
+2002.0,2002-06-11 15:30:00,Group Stage,Incheon Football Stadium,Incheon ,Denmark,2.0,0.0,France,,Republic of Korea/Japan
+2002.0,,Group Stage,Suwon World Cup Stadium,Suwon ,Senegal,3.0,3.0,Uruguay,,Republic of Korea/Japan
+2002.0,2002-06-11 20:30:00,Group Stage,International Stadium Yokohama,Yokohama ,Saudi Arabia,0.0,3.0,Republic of Ireland,,Republic of Korea/Japan
+2002.0,2002-06-11 20:30:00,Group Stage,Shizuoka Stadium Ecopa,Shizuoka ,Cameroon,0.0,2.0,Germany,,Republic of Korea/Japan
+2002.0,2002-06-12 15:30:00,Group Stage,Miyagi Stadium,Rifu ,Sweden,1.0,1.0,Argentina,,Republic of Korea/Japan
+2002.0,2002-06-12 15:30:00,Group Stage,Osaka Nagai Stadium,Osaka ,Nigeria,0.0,0.0,England,,Republic of Korea/Japan
+2002.0,2002-06-12 20:30:00,Group Stage,Jeju World Cup Stadium,Jeju ,Slovenia,1.0,3.0,Paraguay,,Republic of Korea/Japan
+2002.0,2002-06-12 20:30:00,Group Stage,Daejeon World Cup Stadium,Daejeon ,South Africa,2.0,3.0,Spain,,Republic of Korea/Japan
+2002.0,2002-06-13 15:30:00,Group Stage,Suwon World Cup Stadium,Suwon ,Costa Rica,2.0,5.0,Brazil,,Republic of Korea/Japan
+2002.0,2002-06-13 15:30:00,Group Stage,Seoul World Cup Stadium,Seoul ,Turkey,3.0,0.0,China PR,,Republic of Korea/Japan
+2002.0,2002-06-13 20:30:00,Group Stage,International Stadium Yokohama,Yokohama ,Ecuador,1.0,0.0,Croatia,,Republic of Korea/Japan
+2002.0,2002-06-13 20:30:00,Group Stage,Oita Stadium Big Eye,Oita ,Mexico,1.0,1.0,Italy,,Republic of Korea/Japan
+2002.0,2002-06-14 15:30:00,Group Stage,Osaka Nagai Stadium,Osaka ,Tunisia,0.0,2.0,Japan,,Republic of Korea/Japan
+2002.0,2002-06-14 20:30:00,Group Stage,Incheon Football Stadium,Incheon ,Portugal,0.0,1.0,Republic of Korea,,Republic of Korea/Japan
+2002.0,2002-06-14 20:30:00,Group Stage,Daejeon World Cup Stadium,Daejeon ,Poland,3.0,1.0,United States,,Republic of Korea/Japan
+2002.0,2002-06-14 15:30:00,Group Stage,Shizuoka Stadium Ecopa,Shizuoka ,Belgium,3.0,2.0,Russia,,Republic of Korea/Japan
+2002.0,2002-06-15 20:30:00,Round of 16,Niigata Stadium Big Swan,Niigata ,Denmark,0.0,3.0,England,,Republic of Korea/Japan
+2002.0,2002-06-15 15:30:00,Round of 16,Jeju World Cup Stadium,Jeju ,Germany,1.0,0.0,Paraguay,,Republic of Korea/Japan
+2002.0,2002-06-16 20:30:00,Round of 16,Suwon World Cup Stadium,Suwon ,Spain,1.0,1.0,Republic of Ireland,Spain win on penalties (3 - 2),Republic of Korea/Japan
+2002.0,2002-06-16 15:30:00,Round of 16,Oita Stadium Big Eye,Oita ,Sweden,1.0,2.0,Senegal,Win on Golden Goal,Republic of Korea/Japan
+2002.0,2002-06-17 20:30:00,Round of 16,Kobe Wing Stadium,Kobe ,Brazil,2.0,0.0,Belgium,,Republic of Korea/Japan
+2002.0,,Round of 16,Jeonju World Cup Stadium,Jeonju ,Mexico,0.0,2.0,United States,,Republic of Korea/Japan
+2002.0,2002-06-18 15:30:00,Round of 16,Miyagi Stadium,Rifu ,Japan,0.0,1.0,Turkey,,Republic of Korea/Japan
+2002.0,2002-06-18 20:30:00,Round of 16,Daejeon World Cup Stadium,Daejeon ,Republic of Korea,2.0,1.0,Italy,Win on Golden Goal,Republic of Korea/Japan
+2002.0,2002-06-21 15:30:00,Quarter-finals,Shizuoka Stadium Ecopa,Shizuoka ,England,1.0,2.0,Brazil,,Republic of Korea/Japan
+2002.0,2002-06-21 20:30:00,Quarter-finals,Munsu Football Stadium,Ulsan ,Germany,1.0,0.0,United States,,Republic of Korea/Japan
+2002.0,2002-06-22 20:30:00,Quarter-finals,Osaka Nagai Stadium,Osaka ,Senegal,0.0,1.0,Turkey,Win on Golden Goal,Republic of Korea/Japan
+2002.0,2002-06-22 15:30:00,Quarter-finals,Gwangju World Cup Stadium,Gwangju ,Spain,0.0,0.0,Republic of Korea,Korea Republic win on penalties (3 - 5),Republic of Korea/Japan
+2002.0,2002-06-25 20:30:00,Semi-finals,Seoul World Cup Stadium,Seoul ,Germany,1.0,0.0,Republic of Korea,,Republic of Korea/Japan
+2002.0,2002-06-26 20:30:00,Semi-finals,Saitama Stadium 2002,Saitama ,Brazil,1.0,0.0,Turkey,,Republic of Korea/Japan
+2002.0,2002-06-29 20:00:00,Third Place Match,Daegu World Cup Stadium,Daegu ,Republic of Korea,2.0,3.0,Turkey,,Republic of Korea/Japan
+2002.0,2002-06-30 20:00:00,Final,International Stadium Yokohama,Yokohama ,Germany,0.0,2.0,Brazil,,Republic of Korea/Japan
+2006.0,2006-06-09 18:00:00,Group Stage,"FIFA World Cup Stadium, Munich",Munich ,Germany,4.0,2.0,Costa Rica,,Germany
+2006.0,2006-06-09 21:00:00,Group Stage,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Poland,0.0,2.0,Ecuador,,Germany
+2006.0,2006-06-10 15:00:00,Group Stage,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,England,1.0,0.0,Paraguay,,Germany
+2006.0,2006-06-10 18:00:00,Group Stage,"FIFA World Cup Stadium, Dortmund",Dortmund ,Trinidad and Tobago,0.0,0.0,Sweden,,Germany
+2006.0,2006-06-10 21:00:00,Group Stage,"FIFA World Cup Stadium, Hamburg",Hamburg ,Argentina,2.0,1.0,CCôte d'Ivoire,,Germany
+2006.0,2006-06-11 15:00:00,Group Stage,Zentralstadion,Leipzig ,Serbia and Montenegro,0.0,1.0,Netherlands,,Germany
+2006.0,2006-06-11 18:00:00,Group Stage,Franken-Stadion,Nuremberg ,Mexico,3.0,1.0,Iran,,Germany
+2006.0,2006-06-11 21:00:00,Group Stage,"FIFA World Cup Stadium, Cologne",Cologne ,Angola,0.0,1.0,Portugal,,Germany
+2006.0,2006-06-12 15:00:00,Group Stage,Fritz-Walter-Stadion,Kaiserslautern ,Australia,3.0,1.0,Japan,,Germany
+2006.0,2006-06-12 18:00:00,Group Stage,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,United States,0.0,3.0,Czechia,,Germany
+2006.0,2006-06-12 21:00:00,Group Stage,"FIFA World Cup Stadium, Hanover",Hanover ,Italy,2.0,0.0,Ghana,,Germany
+2006.0,2006-06-13 15:00:00,Group Stage,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Republic of Korea,2.0,1.0,Togo,,Germany
+2006.0,2006-06-13 18:00:00,Group Stage,Gottlieb-Daimler-Stadion,Stuttgart ,France,0.0,0.0,Switzerland,,Germany
+2006.0,2006-06-13 21:00:00,Group Stage,Olympiastadion,Berlin ,Brazil,1.0,0.0,Croatia,,Germany
+2006.0,2006-06-14 15:00:00,Group Stage,Zentralstadion,Leipzig ,Spain,4.0,0.0,Ukraine,,Germany
+2006.0,2006-06-14 18:00:00,Group Stage,"FIFA World Cup Stadium, Munich",Munich ,Tunisia,2.0,2.0,Saudi Arabia,,Germany
+2006.0,2006-06-14 21:00:00,Group Stage,"FIFA World Cup Stadium, Dortmund",Dortmund ,Germany,1.0,0.0,Poland,,Germany
+2006.0,2006-06-15 15:00:00,Group Stage,"FIFA World Cup Stadium, Hamburg",Hamburg ,Ecuador,3.0,0.0,Costa Rica,,Germany
+2006.0,2006-06-15 18:00:00,Group Stage,Franken-Stadion,Nuremberg ,England,2.0,0.0,Trinidad and Tobago,,Germany
+2006.0,2006-06-15 21:00:00,Group Stage,Olympiastadion,Berlin ,Sweden,1.0,0.0,Paraguay,,Germany
+2006.0,2006-06-16 15:00:00,Group Stage,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Argentina,6.0,0.0,Serbia and Montenegro,,Germany
+2006.0,2006-06-16 18:00:00,Group Stage,Gottlieb-Daimler-Stadion,Stuttgart ,Netherlands,2.0,1.0,CCôte d'Ivoire,,Germany
+2006.0,2006-06-16 21:00:00,Group Stage,"FIFA World Cup Stadium, Hanover",Hanover ,Mexico,0.0,0.0,Angola,,Germany
+2006.0,2006-06-17 15:00:00,Group Stage,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Portugal,2.0,0.0,Iran,,Germany
+2006.0,2006-06-17 18:00:00,Group Stage,"FIFA World Cup Stadium, Cologne",Cologne ,Czechia,0.0,2.0,Ghana,,Germany
+2006.0,2006-06-17 21:00:00,Group Stage,Fritz-Walter-Stadion,Kaiserslautern ,Italy,1.0,1.0,United States,,Germany
+2006.0,2006-06-18 15:00:00,Group Stage,Franken-Stadion,Nuremberg ,Japan,0.0,0.0,Croatia,,Germany
+2006.0,2006-06-18 18:00:00,Group Stage,"FIFA World Cup Stadium, Munich",Munich ,Brazil,2.0,0.0,Australia,,Germany
+2006.0,2006-06-18 21:00:00,Group Stage,Zentralstadion,Leipzig ,France,1.0,1.0,Republic of Korea,,Germany
+2006.0,2006-06-19 15:00:00,Group Stage,"FIFA World Cup Stadium, Dortmund",Dortmund ,Togo,0.0,2.0,Switzerland,,Germany
+2006.0,2006-06-19 18:00:00,Group Stage,"FIFA World Cup Stadium, Hamburg",Hamburg ,Saudi Arabia,0.0,4.0,Ukraine,,Germany
+2006.0,2006-06-19 21:00:00,Group Stage,Gottlieb-Daimler-Stadion,Stuttgart ,Spain,3.0,1.0,Tunisia,,Germany
+2006.0,2006-06-20 16:00:00,Group Stage,Olympiastadion,Berlin ,Ecuador,0.0,3.0,Germany,,Germany
+2006.0,2006-06-20 16:00:00,Group Stage,"FIFA World Cup Stadium, Hanover",Hanover ,Costa Rica,1.0,2.0,Poland,,Germany
+2006.0,2006-06-20 21:00:00,Group Stage,"FIFA World Cup Stadium, Cologne",Cologne ,Sweden,2.0,2.0,England,,Germany
+2006.0,2006-06-20 21:00:00,Group Stage,Fritz-Walter-Stadion,Kaiserslautern ,Paraguay,2.0,0.0,Trinidad and Tobago,,Germany
+2006.0,2006-06-21 16:00:00,Group Stage,Zentralstadion,Leipzig ,Iran,1.0,1.0,Angola,,Germany
+2006.0,2006-06-21 16:00:00,Group Stage,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Portugal,2.0,1.0,Mexico,,Germany
+2006.0,2006-06-21 21:00:00,Group Stage,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Netherlands,0.0,0.0,Argentina,,Germany
+2006.0,2006-06-21 21:00:00,Group Stage,"FIFA World Cup Stadium, Munich",Munich ,CCôte d'Ivoire,3.0,2.0,Serbia and Montenegro,,Germany
+2006.0,2006-06-22 16:00:00,Group Stage,"FIFA World Cup Stadium, Hamburg",Hamburg ,Czechia,0.0,2.0,Italy,,Germany
+2006.0,2006-06-22 16:00:00,Group Stage,Franken-Stadion,Nuremberg ,Ghana,2.0,1.0,United States,,Germany
+2006.0,2006-06-22 21:00:00,Group Stage,"FIFA World Cup Stadium, Dortmund",Dortmund ,Japan,1.0,4.0,Brazil,,Germany
+2006.0,2006-06-22 21:00:00,Group Stage,Gottlieb-Daimler-Stadion,Stuttgart ,Croatia,2.0,2.0,Australia,,Germany
+2006.0,2006-06-23 16:00:00,Group Stage,Olympiastadion,Berlin ,Ukraine,1.0,0.0,Tunisia,,Germany
+2006.0,2006-06-23 16:00:00,Group Stage,Fritz-Walter-Stadion,Kaiserslautern ,Saudi Arabia,0.0,1.0,Spain,,Germany
+2006.0,2006-06-23 21:00:00,Group Stage,"FIFA World Cup Stadium, Cologne",Cologne ,Togo,0.0,2.0,France,,Germany
+2006.0,2006-06-23 21:00:00,Group Stage,"FIFA World Cup Stadium, Hanover",Hanover ,Switzerland,2.0,0.0,Republic of Korea,,Germany
+2006.0,2006-06-24 17:00:00,Round of 16,"FIFA World Cup Stadium, Munich",Munich ,Germany,2.0,0.0,Sweden,,Germany
+2006.0,2006-06-24 21:00:00,Round of 16,Zentralstadion,Leipzig ,Argentina,2.0,1.0,Mexico,Argentina win after extra time,Germany
+2006.0,2006-06-25 17:00:00,Round of 16,Gottlieb-Daimler-Stadion,Stuttgart ,England,1.0,0.0,Ecuador,,Germany
+2006.0,2006-06-25 21:00:00,Round of 16,Franken-Stadion,Nuremberg ,Portugal,1.0,0.0,Netherlands,,Germany
+2006.0,2006-06-26 17:00:00,Round of 16,Fritz-Walter-Stadion,Kaiserslautern ,Italy,1.0,0.0,Australia,,Germany
+2006.0,2006-06-26 21:00:00,Round of 16,"FIFA World Cup Stadium, Cologne",Cologne ,Switzerland,0.0,0.0,Ukraine,Ukraine win on penalties (0 - 3),Germany
+2006.0,2006-06-27 17:00:00,Round of 16,"FIFA World Cup Stadium, Dortmund",Dortmund ,Brazil,3.0,0.0,Ghana,,Germany
+2006.0,2006-06-27 21:00:00,Round of 16,"FIFA World Cup Stadium, Hanover",Hanover ,Spain,1.0,3.0,France,,Germany
+2006.0,2006-06-30 17:00:00,Quarter-finals,Olympiastadion,Berlin ,Germany,1.0,1.0,Argentina,Germany win on penalties (4 - 2),Germany
+2006.0,2006-06-30 21:00:00,Quarter-finals,"FIFA World Cup Stadium, Hamburg",Hamburg ,Italy,3.0,0.0,Ukraine,,Germany
+2006.0,2006-07-01 17:00:00,Quarter-finals,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,England,0.0,0.0,Portugal,Portugal win on penalties (1 - 3),Germany
+2006.0,2006-07-01 21:00:00,Quarter-finals,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Brazil,0.0,1.0,France,,Germany
+2006.0,2006-07-04 21:00:00,Semi-finals,"FIFA World Cup Stadium, Dortmund",Dortmund ,Germany,0.0,2.0,Italy,Italy win after extra time,Germany
+2006.0,2006-07-05 21:00:00,Semi-finals,"FIFA World Cup Stadium, Munich",Munich ,Portugal,0.0,1.0,France,,Germany
+2006.0,2006-07-08 21:00:00,Third Place Match,Gottlieb-Daimler-Stadion,Stuttgart ,Germany,3.0,1.0,Portugal,,Germany
+2006.0,2006-07-09 20:00:00,Final,Olympiastadion,Berlin ,Italy,1.0,1.0,France,Italy win on penalties (5 - 3),Germany
+2010.0,2010-06-11 16:00:00,Group Stage,Soccer City Stadium,Johannesburg ,South Africa,1.0,1.0,Mexico,,South Africa
+2010.0,2010-06-11 20:30:00,Group Stage,Cape Town Stadium,Cape Town ,Uruguay,0.0,0.0,France,,South Africa
+2010.0,2010-06-12 13:30:00,Group Stage,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Republic of Korea,2.0,0.0,Greece,,South Africa
+2010.0,2010-06-12 16:00:00,Group Stage,Ellis Park Stadium,Johannesburg ,Argentina,1.0,0.0,Nigeria,,South Africa
+2010.0,2010-06-12 20:30:00,Group Stage,Royal Bafokeng Sports Palace,Phokeng ,England,1.0,1.0,United States,,South Africa
+2010.0,2010-06-13 13:30:00,Group Stage,Peter Mokaba Stadium,Polokwane ,Algeria,0.0,1.0,Slovenia,,South Africa
+2010.0,2010-06-13 16:00:00,Group Stage,Loftus Versfeld Stadium,Tshwane/Pretoria ,Serbia,0.0,1.0,Ghana,,South Africa
+2010.0,2010-06-13 20:30:00,Group Stage,Durban Stadium,Durban ,Germany,4.0,0.0,Australia,,South Africa
+2010.0,2010-06-14 13:30:00,Group Stage,Soccer City Stadium,Johannesburg ,Netherlands,2.0,0.0,Denmark,,South Africa
+2010.0,2010-06-14 16:00:00,Group Stage,Free State Stadium,Mangaung/Bloemfontein ,Japan,1.0,0.0,Cameroon,,South Africa
+2010.0,2010-06-14 20:30:00,Group Stage,Cape Town Stadium,Cape Town ,Italy,1.0,1.0,Paraguay,,South Africa
+2010.0,2010-06-15 13:30:00,Group Stage,Royal Bafokeng Sports Palace,Phokeng ,New Zealand,1.0,1.0,Slovakia,,South Africa
+2010.0,2010-06-15 16:00:00,Group Stage,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,CCôte d'Ivoire,0.0,0.0,Portugal,,South Africa
+2010.0,2010-06-15 20:30:00,Group Stage,Ellis Park Stadium,Johannesburg ,Brazil,2.0,1.0,Korea DPR,,South Africa
+2010.0,2010-06-16 13:30:00,Group Stage,Mbombela Stadium,Nelspruit ,Honduras,0.0,1.0,Chile,,South Africa
+2010.0,2010-06-16 16:00:00,Group Stage,Durban Stadium,Durban ,Spain,0.0,1.0,Switzerland,,South Africa
+2010.0,2010-06-16 20:30:00,Group Stage,Loftus Versfeld Stadium,Tshwane/Pretoria ,South Africa,0.0,3.0,Uruguay,,South Africa
+2010.0,2010-06-17 13:30:00,Group Stage,Soccer City Stadium,Johannesburg ,Argentina,4.0,1.0,Republic of Korea,,South Africa
+2010.0,2010-06-17 16:00:00,Group Stage,Free State Stadium,Mangaung/Bloemfontein ,Greece,2.0,1.0,Nigeria,,South Africa
+2010.0,2010-06-17 20:30:00,Group Stage,Peter Mokaba Stadium,Polokwane ,France,0.0,2.0,Mexico,,South Africa
+2010.0,2010-06-18 13:30:00,Group Stage,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Germany,0.0,1.0,Serbia,,South Africa
+2010.0,2010-06-18 16:00:00,Group Stage,Ellis Park Stadium,Johannesburg ,Slovenia,2.0,2.0,United States,,South Africa
+2010.0,2010-06-18 20:30:00,Group Stage,Cape Town Stadium,Cape Town ,England,0.0,0.0,Algeria,,South Africa
+2010.0,2010-06-19 13:30:00,Group Stage,Durban Stadium,Durban ,Netherlands,1.0,0.0,Japan,,South Africa
+2010.0,2010-06-19 16:00:00,Group Stage,Royal Bafokeng Sports Palace,Phokeng ,Ghana,1.0,1.0,Australia,,South Africa
+2010.0,2010-06-19 20:30:00,Group Stage,Loftus Versfeld Stadium,Tshwane/Pretoria ,Cameroon,1.0,2.0,Denmark,,South Africa
+2010.0,2010-06-20 13:30:00,Group Stage,Free State Stadium,Mangaung/Bloemfontein ,Slovakia,0.0,2.0,Paraguay,,South Africa
+2010.0,2010-06-20 16:00:00,Group Stage,Mbombela Stadium,Nelspruit ,Italy,1.0,1.0,New Zealand,,South Africa
+2010.0,2010-06-20 20:30:00,Group Stage,Soccer City Stadium,Johannesburg ,Brazil,3.0,1.0,CCôte d'Ivoire,,South Africa
+2010.0,2010-06-21 13:30:00,Group Stage,Cape Town Stadium,Cape Town ,Portugal,7.0,0.0,Korea DPR,,South Africa
+2010.0,2010-06-21 16:00:00,Group Stage,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Chile,1.0,0.0,Switzerland,,South Africa
+2010.0,2010-06-21 20:30:00,Group Stage,Ellis Park Stadium,Johannesburg ,Spain,2.0,0.0,Honduras,,South Africa
+2010.0,2010-06-22 16:00:00,Group Stage,Royal Bafokeng Sports Palace,Phokeng ,Mexico,0.0,1.0,Uruguay,,South Africa
+2010.0,2010-06-22 16:00:00,Group Stage,Free State Stadium,Mangaung/Bloemfontein ,France,1.0,2.0,South Africa,,South Africa
+2010.0,2010-06-22 20:30:00,Group Stage,Durban Stadium,Durban ,Nigeria,2.0,2.0,Republic of Korea,,South Africa
+2010.0,2010-06-22 20:30:00,Group Stage,Peter Mokaba Stadium,Polokwane ,Greece,0.0,2.0,Argentina,,South Africa
+2010.0,2010-06-23 16:00:00,Group Stage,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Slovenia,0.0,1.0,England,,South Africa
+2010.0,2010-06-23 16:00:00,Group Stage,Loftus Versfeld Stadium,Tshwane/Pretoria ,United States,1.0,0.0,Algeria,,South Africa
+2010.0,2010-06-23 20:30:00,Group Stage,Soccer City Stadium,Johannesburg ,Ghana,0.0,1.0,Germany,,South Africa
+2010.0,2010-06-23 20:30:00,Group Stage,Mbombela Stadium,Nelspruit ,Australia,2.0,1.0,Serbia,,South Africa
+2010.0,2010-06-24 16:00:00,Group Stage,Ellis Park Stadium,Johannesburg ,Slovakia,3.0,2.0,Italy,,South Africa
+2010.0,2010-06-24 16:00:00,Group Stage,Peter Mokaba Stadium,Polokwane ,Paraguay,0.0,0.0,New Zealand,,South Africa
+2010.0,2010-06-24 20:30:00,Group Stage,Royal Bafokeng Sports Palace,Phokeng ,Denmark,1.0,3.0,Japan,,South Africa
+2010.0,2010-06-24 20:30:00,Group Stage,Cape Town Stadium,Cape Town ,Cameroon,1.0,2.0,Netherlands,,South Africa
+2010.0,2010-06-25 16:00:00,Group Stage,Durban Stadium,Durban ,Portugal,0.0,0.0,Brazil,,South Africa
+2010.0,2010-06-25 16:00:00,Group Stage,Mbombela Stadium,Nelspruit ,Korea DPR,0.0,3.0,CCôte d'Ivoire,,South Africa
+2010.0,2010-06-25 20:30:00,Group Stage,Loftus Versfeld Stadium,Tshwane/Pretoria ,Chile,1.0,2.0,Spain,,South Africa
+2010.0,2010-06-25 20:30:00,Group Stage,Free State Stadium,Mangaung/Bloemfontein ,Switzerland,0.0,0.0,Honduras,,South Africa
+2010.0,2010-06-26 16:00:00,Round of 16,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Uruguay,2.0,1.0,Republic of Korea,,South Africa
+2010.0,2010-06-26 20:30:00,Round of 16,Royal Bafokeng Sports Palace,Phokeng ,United States,1.0,2.0,Ghana,Ghana win after extra time,South Africa
+2010.0,2010-06-27 16:00:00,Round of 16,Free State Stadium,Mangaung/Bloemfontein ,Germany,4.0,1.0,England,,South Africa
+2010.0,2010-06-27 20:30:00,Round of 16,Soccer City Stadium,Johannesburg ,Argentina,3.0,1.0,Mexico,,South Africa
+2010.0,2010-06-28 16:00:00,Round of 16,Durban Stadium,Durban ,Netherlands,2.0,1.0,Slovakia,,South Africa
+2010.0,2010-06-28 20:30:00,Round of 16,Ellis Park Stadium,Johannesburg ,Brazil,3.0,0.0,Chile,,South Africa
+2010.0,2010-06-29 16:00:00,Round of 16,Loftus Versfeld Stadium,Tshwane/Pretoria ,Paraguay,0.0,0.0,Japan,Paraguay win on penalties (5 - 3),South Africa
+2010.0,2010-06-29 20:30:00,Round of 16,Cape Town Stadium,Cape Town ,Spain,1.0,0.0,Portugal,,South Africa
+2010.0,2010-07-02 16:00:00,Quarter-finals,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Netherlands,2.0,1.0,Brazil,,South Africa
+2010.0,2010-07-02 20:30:00,Quarter-finals,Soccer City Stadium,Johannesburg ,Uruguay,1.0,1.0,Ghana,Uruguay win on penalties (4 - 2),South Africa
+2010.0,2010-07-03 16:00:00,Quarter-finals,Cape Town Stadium,Cape Town ,Argentina,0.0,4.0,Germany,,South Africa
+2010.0,2010-07-03 20:30:00,Quarter-finals,Ellis Park Stadium,Johannesburg ,Paraguay,0.0,1.0,Spain,,South Africa
+2010.0,2010-07-06 20:30:00,Semi-finals,Cape Town Stadium,Cape Town ,Uruguay,2.0,3.0,Netherlands,,South Africa
+2010.0,2010-07-07 20:30:00,Semi-finals,Durban Stadium,Durban ,Germany,0.0,1.0,Spain,,South Africa
+2010.0,2010-07-10 20:30:00,Third Place Match,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Uruguay,2.0,3.0,Germany,,South Africa
+2010.0,2010-07-11 20:30:00,Final,Soccer City Stadium,Johannesburg ,Netherlands,0.0,1.0,Spain,Spain win after extra time,South Africa
+2014.0,2014-06-12 17:00:00,Group Stage,Arena de Sao Paulo,Sao Paulo ,Brazil,3.0,1.0,Croatia,,Brazil
+2014.0,2014-06-13 13:00:00,Group Stage,Estadio das Dunas,Natal ,Mexico,1.0,0.0,Cameroon,,Brazil
+2014.0,2014-06-13 16:00:00,Group Stage,Arena Fonte Nova,Salvador ,Spain,1.0,5.0,Netherlands,,Brazil
+2014.0,2014-06-13 18:00:00,Group Stage,Arena Pantanal,Cuiaba ,Chile,3.0,1.0,Australia,,Brazil
+2014.0,2014-06-14 13:00:00,Group Stage,Estadio Mineirao,Belo Horizonte ,Colombia,3.0,0.0,Greece,,Brazil
+2014.0,2014-06-14 16:00:00,Group Stage,Estadio Castelao,Fortaleza ,Uruguay,1.0,3.0,Costa Rica,,Brazil
+2014.0,2014-06-14 18:00:00,Group Stage,Arena Amazonia,Manaus ,England,1.0,2.0,Italy,,Brazil
+2014.0,2014-06-14 22:00:00,Group Stage,Arena Pernambuco,Recife ,CCôte d'Ivoire,2.0,1.0,Japan,,Brazil
+2014.0,2014-06-15 13:00:00,Group Stage,Estadio Nacional,Brasilia ,Switzerland,2.0,1.0,Ecuador,,Brazil
+2014.0,2014-06-15 16:00:00,Group Stage,Estadio Beira-Rio,Porto Alegre ,France,3.0,0.0,Honduras,,Brazil
+2014.0,2014-06-15 19:00:00,Group Stage,Estadio do Maracana,Rio De Janeiro ,Argentina,2.0,1.0,Bosnia and Herzegovina,,Brazil
+2014.0,2014-06-16 13:00:00,Group Stage,Arena Fonte Nova,Salvador ,Germany,4.0,0.0,Portugal,,Brazil
+2014.0,2014-06-16 16:00:00,Group Stage,Arena da Baixada,Curitiba ,Iran,0.0,0.0,Nigeria,,Brazil
+2014.0,2014-06-16 19:00:00,Group Stage,Estadio das Dunas,Natal ,Ghana,1.0,2.0,United States,,Brazil
+2014.0,2014-06-17 13:00:00,Group Stage,Estadio Mineirao,Belo Horizonte ,Belgium,2.0,1.0,Algeria,,Brazil
+2014.0,2014-06-17 16:00:00,Group Stage,Estadio Castelao,Fortaleza ,Brazil,0.0,0.0,Mexico,,Brazil
+2014.0,2014-06-17 18:00:00,Group Stage,Arena Pantanal,Cuiaba ,Russia,1.0,1.0,Republic of Korea,,Brazil
+2014.0,2014-06-18 13:00:00,Group Stage,Estadio Beira-Rio,Porto Alegre ,Australia,2.0,3.0,Netherlands,,Brazil
+2014.0,2014-06-18 16:00:00,Group Stage,Estadio do Maracana,Rio De Janeiro ,Spain,0.0,2.0,Chile,,Brazil
+2014.0,2014-06-18 18:00:00,Group Stage,Arena Amazonia,Manaus ,Cameroon,0.0,4.0,Croatia,,Brazil
+2014.0,2014-06-19 13:00:00,Group Stage,Estadio Nacional,Brasilia ,Colombia,2.0,1.0,CCôte d'Ivoire,,Brazil
+2014.0,2014-06-19 16:00:00,Group Stage,Arena de Sao Paulo,Sao Paulo ,Uruguay,2.0,1.0,England,,Brazil
+2014.0,2014-06-19 19:00:00,Group Stage,Estadio das Dunas,Natal ,Japan,0.0,0.0,Greece,,Brazil
+2014.0,2014-06-20 13:00:00,Group Stage,Arena Pernambuco,Recife ,Italy,0.0,1.0,Costa Rica,,Brazil
+2014.0,2014-06-20 16:00:00,Group Stage,Arena Fonte Nova,Salvador ,Switzerland,2.0,5.0,France,,Brazil
+2014.0,2014-06-20 19:00:00,Group Stage,Arena da Baixada,Curitiba ,Honduras,1.0,2.0,Ecuador,,Brazil
+2014.0,2014-06-21 13:00:00,Group Stage,Estadio Mineirao,Belo Horizonte ,Argentina,1.0,0.0,Iran,,Brazil
+2014.0,2014-06-21 16:00:00,Group Stage,Estadio Castelao,Fortaleza ,Germany,2.0,2.0,Ghana,,Brazil
+2014.0,2014-06-21 18:00:00,Group Stage,Arena Pantanal,Cuiaba ,Nigeria,1.0,0.0,Bosnia and Herzegovina,,Brazil
+2014.0,2014-06-22 13:00:00,Group Stage,Estadio do Maracana,Rio De Janeiro ,Belgium,1.0,0.0,Russia,,Brazil
+2014.0,2014-06-22 16:00:00,Group Stage,Estadio Beira-Rio,Porto Alegre ,Republic of Korea,2.0,4.0,Algeria,,Brazil
+2014.0,2014-06-22 18:00:00,Group Stage,Arena Amazonia,Manaus ,United States,2.0,2.0,Portugal,,Brazil
+2014.0,2014-06-23 13:00:00,Group Stage,Arena da Baixada,Curitiba ,Australia,0.0,3.0,Spain,,Brazil
+2014.0,2014-06-23 13:00:00,Group Stage,Arena de Sao Paulo,Sao Paulo ,Netherlands,2.0,0.0,Chile,,Brazil
+2014.0,2014-06-23 17:00:00,Group Stage,Estadio Nacional,Brasilia ,Cameroon,1.0,4.0,Brazil,,Brazil
+2014.0,2014-06-23 17:00:00,Group Stage,Arena Pernambuco,Recife ,Croatia,1.0,3.0,Mexico,,Brazil
+2014.0,2014-06-24 13:00:00,Group Stage,Estadio das Dunas,Natal ,Italy,0.0,1.0,Uruguay,,Brazil
+2014.0,2014-06-24 13:00:00,Group Stage,Estadio Mineirao,Belo Horizonte ,Costa Rica,0.0,0.0,England,,Brazil
+2014.0,2014-06-24 16:00:00,Group Stage,Arena Pantanal,Cuiaba ,Japan,1.0,4.0,Colombia,,Brazil
+2014.0,2014-06-24 17:00:00,Group Stage,Estadio Castelao,Fortaleza ,Greece,2.0,1.0,CCôte d'Ivoire,,Brazil
+2014.0,2014-06-25 13:00:00,Group Stage,Estadio Beira-Rio,Porto Alegre ,Nigeria,2.0,3.0,Argentina,,Brazil
+2014.0,2014-06-25 13:00:00,Group Stage,Arena Fonte Nova,Salvador ,Bosnia and Herzegovina,3.0,1.0,Iran,,Brazil
+2014.0,2014-06-25 16:00:00,Group Stage,Arena Amazonia,Manaus ,Honduras,0.0,3.0,Switzerland,,Brazil
+2014.0,2014-06-25 17:00:00,Group Stage,Estadio do Maracana,Rio De Janeiro ,Ecuador,0.0,0.0,France,,Brazil
+2014.0,2014-06-26 13:00:00,Group Stage,Arena Pernambuco,Recife ,United States,0.0,1.0,Germany,,Brazil
+2014.0,2014-06-26 13:00:00,Group Stage,Estadio Nacional,Brasilia ,Portugal,2.0,1.0,Ghana,,Brazil
+2014.0,2014-06-26 17:00:00,Group Stage,Arena de Sao Paulo,Sao Paulo ,Republic of Korea,0.0,1.0,Belgium,,Brazil
+2014.0,2014-06-26 17:00:00,Group Stage,Arena da Baixada,Curitiba ,Algeria,1.0,1.0,Russia,,Brazil
+2014.0,2014-06-28 13:00:00,Round of 16,Estadio Mineirao,Belo Horizonte ,Brazil,1.0,1.0,Chile,Brazil win on penalties (3 - 2),Brazil
+2014.0,2014-06-28 17:00:00,Round of 16,Estadio do Maracana,Rio De Janeiro ,Colombia,2.0,0.0,Uruguay,,Brazil
+2014.0,2014-06-30 13:00:00,Round of 16,Estadio Nacional,Brasilia ,France,2.0,0.0,Nigeria,,Brazil
+2014.0,2014-06-30 17:00:00,Round of 16,Estadio Beira-Rio,Porto Alegre ,Germany,2.0,1.0,Algeria,Germany win after extra time,Brazil
+2014.0,2014-07-04 17:00:00,Quarter-finals,Estadio Castelao,Fortaleza ,Brazil,2.0,1.0,Colombia,,Brazil
+2014.0,2014-07-04 13:00:00,Quarter-finals,Estadio do Maracana,Rio De Janeiro ,France,0.0,1.0,Germany,,Brazil
+2014.0,2014-07-08 17:00:00,Semi-finals,Estadio Mineirao,Belo Horizonte ,Brazil,1.0,7.0,Germany,,Brazil
+2014.0,2014-07-12 17:00:00,Third Place Match,Estadio Nacional,Brasilia ,Brazil,0.0,3.0,Netherlands,,Brazil
+2014.0,2014-07-13 16:00:00,Final,Estadio do Maracana,Rio De Janeiro ,Germany,1.0,0.0,Argentina,Germany win after extra time,Brazil
+2014.0,2014-07-09 17:00:00,Semi-finals,Arena de Sao Paulo,Sao Paulo ,Netherlands,0.0,0.0,Argentina,Argentina win on penalties (2 - 4),Brazil
+2014.0,2014-07-05 17:00:00,Quarter-finals,Arena Fonte Nova,Salvador ,Netherlands,0.0,0.0,Costa Rica,Netherlands win on penalties (4 - 3),Brazil
+2014.0,2014-07-05 13:00:00,Quarter-finals,Estadio Nacional,Brasilia ,Argentina,1.0,0.0,Belgium,,Brazil
+2014.0,2014-06-29 13:00:00,Round of 16,Estadio Castelao,Fortaleza ,Netherlands,2.0,1.0,Mexico,,Brazil
+2014.0,2014-06-29 17:00:00,Round of 16,Arena Pernambuco,Recife ,Costa Rica,1.0,1.0,Greece,Costa Rica win on penalties (5 - 3),Brazil
+2014.0,2014-07-01 13:00:00,Round of 16,Arena de Sao Paulo,Sao Paulo ,Argentina,1.0,0.0,Switzerland,Argentina win after extra time,Brazil
+2014.0,2014-07-01 17:00:00,Round of 16,Arena Fonte Nova,Salvador ,Belgium,2.0,1.0,United States,Belgium win after extra time,Brazil
+2018.0,2018-06-14 18:00:00,Group Stage,Luzhniki Stadium,Moscow,Russia,5.0,0.0,Saudi Arabia,,Russia
+2018.0,2018-06-15 17:00:00,Group Stage,Central Stadium,Yekaterinburg,Egypt,0.0,1.0,Uruguay,,Russia
+2018.0,2018-06-15 18:00:00,Group Stage,Krestovsky Stadium,Saint Petersburg,Morocco,0.0,1.0,Iran,,Russia
+2018.0,2018-06-15 21:00:00,Group Stage,Fisht Olympic Stadium,Sochi,Portugal,3.0,3.0,Spain,,Russia
+2018.0,2018-06-16 13:00:00,Group Stage,Kazan Arena,Kazan,France,2.0,1.0,Australia,,Russia
+2018.0,2018-06-16 16:00:00,Group Stage,Otkritie Arena,Moscow,Argentina,1.0,1.0,Iceland,,Russia
+2018.0,2018-06-16 19:00:00,Group Stage,Mordovia Arena,Saransk,Peru,0.0,1.0,Denmark,,Russia
+2018.0,2018-06-16 21:00:00,Group Stage,Kaliningrad Stadium,Kaliningrad,Croatia,2.0,0.0,Nigeria,,Russia
+2018.0,2018-06-17 16:00:00,Group Stage,Samara Arena,Samara,Costa Rica,0.0,1.0,Serbia,,Russia
+2018.0,2018-06-17 18:00:00,Group Stage,Luzhniki Stadium,Moscow,Germany,0.0,1.0,Mexico,,Russia
+2018.0,2018-06-17 21:00:00,Group Stage,Rostov Arena,Rostov-on-Don,Brazil,1.0,1.0,Switzerland,,Russia
+2018.0,2018-06-18 15:00:00,Group Stage,Nizhny Novgorod Stadium,Nizhny Novgorod,Sweden,1.0,0.0,Republic of Korea,,Russia
+2018.0,2018-06-18 18:00:00,Group Stage,Fisht Olympic Stadium,Sochi,Belgium,3.0,0.0,Panama,,Russia
+2018.0,2018-06-18 21:00:00,Group Stage,Volgograd Arena,Volgograd,Tunisia,1.0,2.0,England,,Russia
+2018.0,2018-06-19 15:00:00,Group Stage,Mordovia Arena,Saransk,Colombia,1.0,2.0,Japan,,Russia
+2018.0,2018-06-19 18:00:00,Group Stage,Otkritie Arena,Moscow,Poland,1.0,2.0,Senegal,,Russia
+2018.0,2018-06-19 21:00:00,Group Stage,Krestovsky Stadium,Saint Petersburg,Russia,3.0,1.0,Egypt,,Russia
+2018.0,2018-06-20 15:00:00,Group Stage,Luzhniki Stadium,Moscow,Portugal,1.0,0.0,Morocco,,Russia
+2018.0,2018-06-20 18:00:00,Group Stage,Rostov Arena,Rostov-on-Don,Uruguay,1.0,0.0,Saudi Arabia,,Russia
+2018.0,2018-06-20 21:00:00,Group Stage,Kazan Arena,Kazan,Iran,0.0,1.0,Spain,,Russia
+2018.0,2018-06-21 16:00:00,Group Stage,Samara Arena,Samara,Denmark,1.0,1.0,Australia,,Russia
+2018.0,2018-06-21 20:00:00,Group Stage,Central Stadium,Yekaterinburg,France,1.0,0.0,Peru,,Russia
+2018.0,2018-06-21 21:00:00,Group Stage,Nizhny Novgorod Stadium,Nizhny Novgorod,Argentina,0.0,3.0,Croatia,,Russia
+2018.0,2018-06-22 15:00:00,Group Stage,Krestovsky Stadium,Saint Petersburg,Brazil,2.0,0.0,Costa Rica,,Russia
+2018.0,2018-06-22 18:00:00,Group Stage,Volgograd Arena,Volgograd,Nigeria,2.0,0.0,Iceland,,Russia
+2018.0,2018-06-22 20:00:00,Group Stage,Kaliningrad Stadium,Kaliningrad,Serbia,1.0,2.0,Switzerland,,Russia
+2018.0,2018-06-23 15:00:00,Group Stage,Otkritie Arena,Moscow,Belgium,5.0,2.0,Tunisia,,Russia
+2018.0,2018-06-23 18:00:00,Group Stage,Rostov Arena,Rostov-on-Don,Republic of Korea,1.0,2.0,Mexico,,Russia
+2018.0,2018-06-23 21:00:00,Group Stage,Fisht Olympic Stadium,Sochi,Germany,2.0,1.0,Sweden,,Russia
+2018.0,2018-06-24 15:00:00,Group Stage,Nizhny Novgorod Stadium,Nizhny Novgorod,England,6.0,1.0,Panama,,Russia
+2018.0,2018-06-24 20:00:00,Group Stage,Central Stadium,Yekaterinburg,Japan,2.0,2.0,Senegal,,Russia
+2018.0,2018-06-24 21:00:00,Group Stage,Kazan Arena,Kazan,Poland,0.0,3.0,Colombia,,Russia
+2018.0,2018-06-25 17:00:00,Group Stage,Volgograd Arena,Volgograd,Saudi Arabia,2.0,1.0,Egypt,,Russia
+2018.0,2018-06-25 18:00:00,Group Stage,Samara Arena,Samara,Uruguay,3.0,0.0,Russia,,Russia
+2018.0,2018-06-25 20:00:00,Group Stage,Kaliningrad Stadium,Kaliningrad,Spain,2.0,2.0,Morocco,,Russia
+2018.0,2018-06-25 21:00:00,Group Stage,Mordovia Arena,Saransk,Iran,1.0,1.0,Portugal,,Russia
+2018.0,2018-06-26 17:00:00,Group Stage,Fisht Olympic Stadium,Sochi,Australia,0.0,2.0,Peru,,Russia
+2018.0,2018-06-26 17:00:00,Group Stage,Luzhniki Stadium,Moscow,Denmark,0.0,0.0,France,,Russia
+2018.0,2018-06-26 21:00:00,Group Stage,Rostov Arena,Rostov-on-Don,Iceland,1.0,2.0,Croatia,,Russia
+2018.0,2018-06-26 21:00:00,Group Stage,Krestovsky Stadium,Saint Petersburg,Nigeria,1.0,2.0,Argentina,,Russia
+2018.0,2018-06-27 17:00:00,Group Stage,Kazan Arena,Kazan,Republic of Korea,2.0,0.0,Germany,,Russia
+2018.0,2018-06-27 19:00:00,Group Stage,Central Stadium,Yekaterinburg,Mexico,0.0,3.0,Sweden,,Russia
+2018.0,2018-06-27 21:00:00,Group Stage,Otkritie Arena,Moscow,Serbia,0.0,2.0,Brazil,,Russia
+2018.0,2018-06-27 21:00:00,Group Stage,Nizhny Novgorod Stadium,Nizhny Novgorod,Switzerland,2.0,2.0,Costa Rica,,Russia
+2018.0,2018-06-28 17:00:00,Group Stage,Volgograd Arena,Volgograd,Japan,0.0,1.0,Poland,,Russia
+2018.0,2018-06-28 18:00:00,Group Stage,Samara Arena,Samara,Senegal,0.0,1.0,Colombia,,Russia
+2018.0,2018-06-28 20:00:00,Group Stage,Kaliningrad Stadium,Kaliningrad,England,0.0,1.0,Belgium,,Russia
+2018.0,2018-06-28 21:00:00,Group Stage,Mordovia Arena,Saransk,Panama,1.0,2.0,Tunisia,,Russia
+2018.0,2018-06-30 17:00:00,Round of 16,Kazan Arena,Kazan,France,4.0,3.0,Argentina,,Russia
+2018.0,2018-06-30 21:00:00,Round of 16,Fisht Olympic Stadium,Sochi,Uruguay,2.0,1.0,Portugal,,Russia
+2018.0,2018-07-01 17:00:00,Round of 16,Luzhniki Stadium,Moscow,Spain,1.0,1.0,Russia,Russia win on penalties (4 - 3),Russia
+2018.0,2018-07-01 21:00:00,Round of 16,Nizhny Novgorod Stadium,Nizhny Novgorod,Croatia,1.0,1.0,Denmark,Croatia win on penalties (3 - 2),Russia
+2018.0,2018-07-02 18:00:00,Round of 16,Samara Arena,Samara,Brazil,2.0,0.0,Mexico,,Russia
+2018.0,2018-07-02 21:00:00,Round of 16,Rostov Arena,Rostov-on-Don,Belgium,3.0,2.0,Japan,,Russia
+2018.0,2018-07-03 17:00:00,Round of 16,Krestovsky Stadium,Saint Petersburg,Sweden,1.0,0.0,Switzerland,,Russia
+2018.0,2018-07-03 21:00:00,Round of 16,Otkritie Arena,Moscow,Colombia,1.0,1.0,England,England win on penalties (4 - 3),Russia
+2018.0,2018-07-06 17:00:00,Quarter-finals,Nizhny Novgorod Stadium,Nizhny Novgorod,Uruguay,0.0,2.0,France,,Russia
+2018.0,2018-07-06 21:00:00,Quarter-finals,Kazan Arena,Kazan,Brazil,1.0,2.0,Belgium,,Russia
+2018.0,2018-07-07 18:00:00,Quarter-finals,Samara Arena,Samara,Sweden,0.0,2.0,England,,Russia
+2018.0,2018-07-07 21:00:00,Quarter-finals,Fisht Olympic Stadium,Sochi,Russia,2.0,2.0,Croatia,Croatia win on penalties (4 - 3),Russia
+2018.0,2018-07-10 21:00:00,Semi-finals,Krestovsky Stadium,Saint Petersburg,France,1.0,0.0,Belgium,,Russia
+2018.0,2018-07-11 21:00:00,Semi-finals,Luzhniki Stadium,Moscow,Croatia,2.0,1.0,England,Croatia win after extra time,Russia
+2018.0,2018-07-14 17:00:00,Third Place Match,Krestovsky Stadium,Saint Petersburg,Belgium,2.0,0.0,England,,Russia
+2018.0,2018-07-15 18:00:00,Final,Luzhniki Stadium,Moscow,France,4.0,2.0,Croatia,,Russia
+2022.0,2022-11-20 19:00:00,Group Stage,Al Bayt Stadium,Al Khor,Qatar,0.0,2.0,Ecuador,,Qatar
+2022.0,2022-11-21 16:00:00,Group Stage,Khalifa International Stadium,Al Rayyan,England,6.0,2.0,Iran,,Qatar
+2022.0,2022-11-21 19:00:00,Group Stage,Al Thumama Stadium,Doha,Senegal,0.0,2.0,Netherlands,,Qatar
+2022.0,2022-11-21 22:00:00,Group Stage,Ahmad bin Ali Stadium,Al Rayyan,United States,1.0,1.0,Wales,,Qatar
+2022.0,2022-11-22 13:00:00,Group Stage,Lusail Stadium,Lusail,Argentina,1.0,2.0,Saudi Arabia,,Qatar
+2022.0,2022-11-22 16:00:00,Group Stage,Education City Stadium,Al Rayyan,Denmark,0.0,0.0,Tunisia,,Qatar
+2022.0,2022-11-22 19:00:00,Group Stage,Stadium 974,Doha,Mexico,0.0,0.0,Poland,,Qatar
+2022.0,2022-11-22 22:00:00,Group Stage,Al Janoub Stadium,Al Wakrah,France,4.0,1.0,Australia,,Qatar
+2022.0,2022-11-23 13:00:00,Group Stage,Al Bayt Stadium,Al Khor,Morocco,0.0,0.0,Croatia,,Qatar
+2022.0,2022-11-23 16:00:00,Group Stage,Khalifa International Stadium,Al Rayyan,Germany,1.0,2.0,Japan,,Qatar
+2022.0,2022-11-23 19:00:00,Group Stage,Al Thumama Stadium,Doha,Spain,7.0,0.0,Costa Rica,,Qatar
+2022.0,2022-11-23 22:00:00,Group Stage,Ahmad bin Ali Stadium,Al Rayyan,Belgium,1.0,0.0,Canada,,Qatar
+2022.0,2022-11-24 13:00:00,Group Stage,Al Janoub Stadium,Al Wakrah,Switzerland,1.0,0.0,Cameroon,,Qatar
+2022.0,2022-11-24 16:00:00,Group Stage,Education City Stadium,Al Rayyan,Uruguay,0.0,0.0,Republic of Korea,,Qatar
+2022.0,2022-11-24 19:00:00,Group Stage,Stadium 974,Doha,Portugal,3.0,2.0,Ghana,,Qatar
+2022.0,2022-11-24 22:00:00,Group Stage,Lusail Stadium,Lusail,Brazil,2.0,0.0,Serbia,,Qatar
+2022.0,2022-11-25 13:00:00,Group Stage,Ahmad bin Ali Stadium,Al Rayyan,Wales,0.0,2.0,Iran,,Qatar
+2022.0,2022-11-25 16:00:00,Group Stage,Al Thumama Stadium,Doha,Qatar,1.0,3.0,Senegal,,Qatar
+2022.0,2022-11-25 19:00:00,Group Stage,Khalifa International Stadium,Al Rayyan,Netherlands,1.0,1.0,Ecuador,,Qatar
+2022.0,2022-11-25 22:00:00,Group Stage,Al Bayt Stadium,Al Khor,England,0.0,0.0,United States,,Qatar
+2022.0,2022-11-26 13:00:00,Group Stage,Al Janoub Stadium,Al Wakrah,Tunisia,0.0,1.0,Australia,,Qatar
+2022.0,2022-11-26 16:00:00,Group Stage,Education City Stadium,Al Rayyan,Poland,2.0,0.0,Saudi Arabia,,Qatar
+2022.0,2022-11-26 19:00:00,Group Stage,Stadium 974,Doha,France,2.0,1.0,Denmark,,Qatar
+2022.0,2022-11-26 22:00:00,Group Stage,Lusail Stadium,Lusail,Argentina,2.0,0.0,Mexico,,Qatar
+2022.0,2022-11-27 13:00:00,Group Stage,Ahmad bin Ali Stadium,Al Rayyan,Japan,0.0,1.0,Costa Rica,,Qatar
+2022.0,2022-11-27 16:00:00,Group Stage,Al Thumama Stadium,Doha,Belgium,0.0,2.0,Morocco,,Qatar
+2022.0,2022-11-27 19:00:00,Group Stage,Khalifa International Stadium,Al Rayyan,Croatia,4.0,1.0,Canada,,Qatar
+2022.0,2022-11-27 22:00:00,Group Stage,Al Bayt Stadium,Al Khor,Spain,1.0,1.0,Germany,,Qatar
+2022.0,2022-11-28 13:00:00,Group Stage,Al Janoub Stadium,Al Wakrah,Cameroon,3.0,3.0,Serbia,,Qatar
+2022.0,2022-11-28 16:00:00,Group Stage,Education City Stadium,Al Rayyan,Republic of Korea,2.0,3.0,Ghana,,Qatar
+2022.0,2022-11-28 19:00:00,Group Stage,Stadium 974,Doha,Brazil,1.0,0.0,Switzerland,,Qatar
+2022.0,2022-11-28 22:00:00,Group Stage,Lusail Stadium,Lusail,Portugal,2.0,0.0,Uruguay,,Qatar
+2022.0,2022-11-29 18:00:00,Group Stage,Khalifa International Stadium,Al Rayyan,Ecuador,1.0,2.0,Senegal,,Qatar
+2022.0,2022-11-29 18:00:00,Group Stage,Al Bayt Stadium,Al Khor,Netherlands,2.0,0.0,Qatar,,Qatar
+2022.0,2022-11-29 22:00:00,Group Stage,Al Thumama Stadium,Doha,Iran,0.0,1.0,United States,,Qatar
+2022.0,2022-11-29 22:00:00,Group Stage,Ahmad bin Ali Stadium,Al Rayyan,Wales,0.0,3.0,England,,Qatar
+2022.0,2022-11-30 18:00:00,Group Stage,Al Janoub Stadium,Al Wakrah,Australia,1.0,0.0,Denmark,,Qatar
+2022.0,2022-11-30 18:00:00,Group Stage,Education City Stadium,Al Rayyan,Tunisia,1.0,0.0,France,,Qatar
+2022.0,2022-11-30 22:00:00,Group Stage,Stadium 974,Doha,Poland,0.0,2.0,Argentina,,Qatar
+2022.0,2022-11-30 22:00:00,Group Stage,Lusail Stadium,Lusail,Saudi Arabia,1.0,2.0,Mexico,,Qatar
+2022.0,2022-12-01 18:00:00,Group Stage,Al Thumama Stadium,Doha,Canada,1.0,2.0,Morocco,,Qatar
+2022.0,2022-12-01 18:00:00,Group Stage,Ahmad bin Ali Stadium,Al Rayyan,Croatia,0.0,0.0,Belgium,,Qatar
+2022.0,2022-12-01 22:00:00,Group Stage,Al Bayt Stadium,Al Khor,Costa Rica,2.0,4.0,Germany,,Qatar
+2022.0,2022-12-01 22:00:00,Group Stage,Khalifa International Stadium,Al Rayyan,Japan,2.0,1.0,Spain,,Qatar
+2022.0,2022-12-02 18:00:00,Group Stage,Al Janoub Stadium,Al Wakrah,Ghana,0.0,2.0,Uruguay,,Qatar
+2022.0,2022-12-02 18:00:00,Group Stage,Education City Stadium,Al Rayyan,Republic of Korea,2.0,1.0,Portugal,,Qatar
+2022.0,2022-12-02 22:00:00,Group Stage,Lusail Stadium,Lusail,Cameroon,1.0,0.0,Brazil,,Qatar
+2022.0,2022-12-02 22:00:00,Group Stage,Stadium 974,Doha,Serbia,2.0,3.0,Switzerland,,Qatar
+2022.0,2022-12-03 18:00:00,Round of 16,Khalifa International Stadium,Al Rayyan,Netherlands,3.0,1.0,United States,,Qatar
+2022.0,2022-12-03 22:00:00,Round of 16,Ahmad bin Ali Stadium,Al Rayyan,Argentina,2.0,1.0,Australia,,Qatar
+2022.0,2022-12-04 18:00:00,Round of 16,Al Thumama Stadium,Doha,France,3.0,1.0,Poland,,Qatar
+2022.0,2022-12-04 22:00:00,Round of 16,Al Bayt Stadium,Al Khor,England,3.0,0.0,Senegal,,Qatar
+2022.0,2022-12-05 18:00:00,Round of 16,Al Janoub Stadium,Al Wakrah,Japan,1.0,1.0,Croatia,Croatia win on penalties (3 - 1),Qatar
+2022.0,2022-12-05 22:00:00,Round of 16,Stadium 974,Doha,Brazil,4.0,1.0,Republic of Korea,,Qatar
+2022.0,2022-12-06 18:00:00,Round of 16,Education City Stadium,Al Rayyan,Morocco,0.0,0.0,Spain,Morocco win on penalties (3 - 0),Qatar
+2022.0,2022-12-06 22:00:00,Round of 16,Lusail Stadium,Lusail,Portugal,6.0,1.0,Switzerland,,Qatar
+2022.0,2022-12-09 18:00:00,Quarter-finals,Education City Stadium,Al Rayyan,Croatia,1.0,1.0,Brazil,Croatia win on penalties (4 - 2),Qatar
+2022.0,2022-12-09 22:00:00,Quarter-finals,Lusail Stadium,Lusail,Netherlands,2.0,2.0,Argentina,Argentina win on penalties (4 - 3),Qatar
+2022.0,2022-12-10 18:00:00,Quarter-finals,Al Thumama Stadium,Doha,Morocco,1.0,0.0,Portugal,,Qatar
+2022.0,2022-12-10 22:00:00,Quarter-finals,Al Bayt Stadium,Al Khor,England,1.0,2.0,France,,Qatar
+2022.0,2022-12-13 22:00:00,Semi-finals,Lusail Stadium,Lusail,Argentina,3.0,0.0,Croatia,,Qatar
+2022.0,2022-12-14 22:00:00,Semi-finals,Al Bayt Stadium,Al Khor,France,2.0,0.0,Morocco,,Qatar
+2022.0,2022-12-17 18:00:00,Third Place Match,Khalifa International Stadium,Al Rayyan,Croatia,2.0,1.0,Morocco,,Qatar
+2022.0,2022-12-18 18:00:00,Final,Lusail Stadium,Lusail,Argentina,3.0,3.0,France,Argentina win on penalties (4 - 2),Qatar
+2026.0,,Group Stage,Mexico City Stadium,Mexico City,Mexico,2.0,0.0,South Africa,,United States/Canada/Mexico
+2026.0,,Group Stage,Guadalajara Stadium,Guadalajara,Republic of Korea,2.0,1.0,Czechia,,United States/Canada/Mexico
+2026.0,,Group Stage,Toronto Stadium,Toronto,Canada,1.0,1.0,Bosnia and Herzegovina,,United States/Canada/Mexico
+2026.0,,Group Stage,Los Angeles Stadium,Los Angeles,United States,4.0,1.0,Paraguay,,United States/Canada/Mexico
+2026.0,,Group Stage,Boston Stadium,Boston,Haiti,0.0,1.0,Scotland,,United States/Canada/Mexico
+2026.0,,Group Stage,BC Place Vancouver,Vancouver,Australia,2.0,0.0,Türkiye,,United States/Canada/Mexico
+2026.0,,Group Stage,New York New Jersey Stadium,New Jersey,Brazil,1.0,1.0,Morocco,,United States/Canada/Mexico
+2026.0,,Group Stage,San Francisco Bay Area Stadium,San Francisco,Qatar,1.0,1.0,Switzerland,,United States/Canada/Mexico
+2026.0,,Group Stage,Houston Stadium,Houston,Germany,7.0,1.0,Curaçao,,United States/Canada/Mexico
+2026.0,,Group Stage,Dallas Stadium,Dallas,Netherlands,2.0,2.0,Japan,,United States/Canada/Mexico
+2026.0,,Group Stage,Philadelphia Stadium,Philadelphia,Ivory Coast,1.0,0.0,Ecuador,,United States/Canada/Mexico
+2026.0,,Group Stage,Monterrey Stadium,Monterrey,Sweden,5.0,1.0,Tunisia,,United States/Canada/Mexico
+2026.0,,Group Stage,Atlanta Stadium,Atlanta,Spain,0.0,0.0,Cape Verde,,United States/Canada/Mexico
+2026.0,,Group Stage,Seattle Stadium,Seattle,Belgium,1.0,1.0,Egypt,,United States/Canada/Mexico
+2026.0,,Group Stage,Miami Stadium,Miami,Saudi Arabia,1.0,1.0,Uruguay,,United States/Canada/Mexico
+2026.0,,Group Stage,Los Angeles Stadium,Los Angeles,Iran,2.0,2.0,New Zealand,,United States/Canada/Mexico
+2026.0,,Group Stage,New York New Jersey Stadium,New Jersey,France,3.0,1.0,Senegal,,United States/Canada/Mexico
+2026.0,,Group Stage,Boston Stadium,Boston,Iraq,1.0,4.0,Norway,,United States/Canada/Mexico
+2026.0,,Group Stage,Kansas City Stadium,Kansas City,Argentina,3.0,0.0,Algeria,,United States/Canada/Mexico
+2026.0,,Group Stage,San Francisco Bay Area Stadium,San Francisco,Austria,3.0,1.0,Jordan,,United States/Canada/Mexico
+2026.0,,Group Stage,Houston Stadium,Houston,Portugal,1.0,1.0,DR Congo,,United States/Canada/Mexico
+2026.0,,Group Stage,Dallas Stadium,Dallas,England,4.0,2.0,Croatia,,United States/Canada/Mexico
+2026.0,,Group Stage,Toronto Stadium,Toronto,Ghana,1.0,0.0,Panama,,United States/Canada/Mexico
+2026.0,,Group Stage,Mexico City Stadium,Mexico City,Uzbekistan,1.0,3.0,Colombia,,United States/Canada/Mexico
+2026.0,,Group Stage,Atlanta Stadium,Atlanta,Czechia,1.0,1.0,South Africa,,United States/Canada/Mexico
+2026.0,,Group Stage,Los Angeles Stadium,Los Angeles,Switzerland,4.0,1.0,Bosnia and Herzegovina,,United States/Canada/Mexico
+2026.0,,Group Stage,BC Place Vancouver,Vancouver,Canada,6.0,0.0,Qatar,,United States/Canada/Mexico
+2026.0,,Group Stage,Guadalajara Stadium,Guadalajara,Mexico,1.0,0.0,Republic of Korea,,United States/Canada/Mexico
+2026.0,,Group Stage,Seattle Stadium,Seattle,United States,1.0,0.0,Australia,,United States/Canada/Mexico
+2026.0,,Group Stage,Boston Stadium,Boston,Scotland,0.0,1.0,Morocco,,United States/Canada/Mexico
+2026.0,,Group Stage,Philadelphia Stadium,Philadelphia,Brazil,3.0,0.0,Haiti,,United States/Canada/Mexico
+2026.0,,Group Stage,Santa Clara Stadium,Santa Clara,Türkiye,0.0,1.0,Paraguay,,United States/Canada/Mexico
+2026.0,,Group Stage,Houston Stadium,Houston,Netherlands,5.0,1.0,Sweden,,United States/Canada/Mexico
+2026.0,,Group Stage,Toronto Stadium,Toronto,Germany,2.0,1.0,Ivory Coast,,United States/Canada/Mexico
+2026.0,,Group Stage,Kansas City Stadium,Kansas City,Ecuador,0.0,0.0,Curaçao,,United States/Canada/Mexico
+2026.0,,Group Stage,Guadalajara Stadium,Guadalajara,Tunisia,0.0,4.0,Japan,,United States/Canada/Mexico
+2026.0,,Group Stage,Atlanta Stadium,Atlanta,Spain,4.0,0.0,Saudi Arabia,,United States/Canada/Mexico
+2026.0,,Group Stage,Los Angeles Stadium,Los Angeles,Belgium,0.0,0.0,Iran,,United States/Canada/Mexico
+2026.0,,Group Stage,Miami Stadium,Miami,Uruguay,2.0,2.0,Cape Verde,,United States/Canada/Mexico
+2026.0,,Group Stage,Vancouver Stadium,Vancouver,New Zealand,1.0,3.0,Egypt,,United States/Canada/Mexico
+2026.0,,Group Stage,Toronto Stadium,Toronto,Panama,0.0,1.0,Croatia,,United States/Canada/Mexico
+2026.0,,Group Stage,Zapopan Stadium,Zapopan,Colombia,1.0,0.0,DR Congo,,United States/Canada/Mexico
+2026.0,,Group Stage,Vancouver Stadium,Vancouver,Switzerland,2.0,1.0,Canada,,United States/Canada/Mexico
+2026.0,,Group Stage,Seattle Stadium,Seattle,Bosnia and Herzegovina,3.0,1.0,Qatar,,United States/Canada/Mexico
+2026.0,,Group Stage,Atlanta Stadium,Atlanta,Morocco,4.0,2.0,Haiti,,United States/Canada/Mexico
+2026.0,,Group Stage,Miami Stadium,Miami,Scotland,0.0,3.0,Brazil,,United States/Canada/Mexico
+2026.0,,Group Stage,Guadalajara Stadium,Guadalajara,South Africa,1.0,0.0,Republic of Korea,,United States/Canada/Mexico
+2026.0,,Group Stage,Mexico City Stadium,Mexico City,Czechia,0.0,3.0,Mexico,,United States/Canada/Mexico
+2026.0,,Group Stage,Philadelphia Stadium,Philadelphia,Curaçao,0.0,2.0,Ivory Coast,,United States/Canada/Mexico
+2026.0,,Group Stage,New Jersey Stadium,New Jersey,Ecuador,2.0,1.0,Germany,,United States/Canada/Mexico
+2026.0,,Group Stage,Kansas City Stadium,Kansas City,Tunisia,1.0,3.0,Netherlands,,United States/Canada/Mexico
+2026.0,,Group Stage,Arlington Stadium,Arlington,Japan,1.0,1.0,Sweden,,United States/Canada/Mexico
+2026.0,,Group Stage,Los Angeles Stadium,Los Angeles,Türkiye,3.0,2.0,United States,,United States/Canada/Mexico
+2026.0,,Group Stage,Santa Clara Stadium,Santa Clara,Paraguay,0.0,0.0,Australia,,United States/Canada/Mexico
+2026.0,,Group Stage,Foxborough Stadium,Foxborough,Norway,1.0,4.0,France,,United States/Canada/Mexico
+2026.0,,Group Stage,Toronto Stadium,Toronto,Senegal,5.0,0.0,Iraq,,United States/Canada/Mexico
+2026.0,,Group Stage,Houston Stadium,Houston,Cape Verde,0.0,0.0,Saudi Arabia,,United States/Canada/Mexico
+2026.0,,Group Stage,Zapopan Stadium,Zapopan,Uruguay,0.0,1.0,Spain,,United States/Canada/Mexico
+2026.0,,Group Stage,Vancouver Stadium,Vancouver,New Zealand,1.0,5.0,Belgium,,United States/Canada/Mexico
+2026.0,,Group Stage,Seattle Stadium,Seattle,Egypt,1.0,1.0,Iran,,United States/Canada/Mexico
+2026.0,,Group Stage,New Jersey Stadium,New Jersey,Panama,0.0,2.0,England,,United States/Canada/Mexico
+2026.0,,Group Stage,Philadelphia Stadium,Philadelphia,Croatia,2.0,1.0,Ghana,,United States/Canada/Mexico
+2026.0,,Round of 32,Los Angeles Stadium,Los Angeles,South Africa,0.0,1.0,Canada,,United States/Canada/Mexico
+2026.0,,Round of 32,Boston Stadium,Boston,Germany,1.0,1.0,Paraguay,Paraguay win on penalties (4 - 3),United States/Canada/Mexico
+2026.0,,Round of 32,Estadio Monterrey,Monterrey,Netherlands,1.0,1.0,Morocco,Morocco win on penalties (3 - 2),United States/Canada/Mexico
+2026.0,,Round of 32,Houston Stadium,Houston,Brazil,2.0,1.0,Japan,,United States/Canada/Mexico
+2026.0,,Round of 32,New York New Jersey Stadium,New Jersey,France,3.0,0.0,Sweden,,United States/Canada/Mexico
+2026.0,,Round of 32,Dallas Stadium,Dallas,Ivory Coast,1.0,2.0,Norway,,United States/Canada/Mexico
+2026.0,,Round of 32,Mexico City Stadium,Mexico City,Mexico,2.0,0.0,Ecuador,,United States/Canada/Mexico
+2026.0,,Round of 32,Atlanta Stadium,Atlanta,England,2.0,1.0,DR Congo,,United States/Canada/Mexico
+2026.0,,Round of 32,Seattle Stadium,Seattle,Belgium,3.0,2.0,Senegal,Belgium win after extra time,United States/Canada/Mexico
+2026.0,,Round of 32,San Francisco Bay Area Stadium,San Francisco,United States,2.0,0.0,Bosnia and Herzegovina,,United States/Canada/Mexico
+2026.0,,Round of 32,Toronto Stadium,Toronto,Portugal,2.0,1.0,Croatia,,United States/Canada/Mexico
+2026.0,,Round of 32,Los Angeles Stadium,Los Angeles,Spain,3.0,0.0,Austria,,United States/Canada/Mexico
+2026.0,,Round of 32,BC Place Vancouver,Vancouver,Switzerland,2.0,0.0,Algeria,,United States/Canada/Mexico
+2026.0,,Round of 32,Miami Stadium,Miami,Australia,1.0,1.0,Egypt,Egypt win on penalties (4 - 2),United States/Canada/Mexico
+2026.0,,Round of 32,Miami Stadium,Miami,Argentina,3.0,2.0,Cape Verde,Argentina win after extra time,United States/Canada/Mexico
+2026.0,,Round of 32,Kansas City Stadium,Kansas City,Colombia,1.0,0.0,Ghana,,United States/Canada/Mexico
+2026.0,,Round of 16,NRG Stadium,Houston,Canada,0.0,3.0,Morocco,,United States/Canada/Mexico
+2026.0,,Round of 16,Lincoln Financial Field,Philadelphia,Paraguay,0.0,1.0,France,,United States/Canada/Mexico
+2026.0,,Round of 16,New York New Jersey Stadium,New Jersey,Brazil,1.0,2.0,Norway,,United States/Canada/Mexico
+2026.0,,Round of 16,Banorte Stadium,Monterrey,Mexico,2.0,3.0,England,,United States/Canada/Mexico
+2026.0,,Round of 16,AT&T Stadium,Dallas,Portugal,0.0,1.0,Spain,,United States/Canada/Mexico
+2026.0,,Round of 16,Lumen Field,Seattle,United States,1.0,4.0,Belgium,,United States/Canada/Mexico
+2026.0,,Round of 16,Mercedes-Benz Stadium,Atlanta,Argentina,3.0,2.0,Egypt,,United States/Canada/Mexico
+2026.0,,Round of 16,BC Place,Vancouver,Switzerland,0.0,0.0,Colombia,Switzerland win on penalties (4 - 3),United States/Canada/Mexico
+2026.0,,Quarter-finals,Gillette Stadium,Boston,France,2.0,0.0,Morocco,,United States/Canada/Mexico
+2026.0,,Quarter-finals,SoFi Stadium,Los Angeles,Spain,2.0,1.0,Belgium,,United States/Canada/Mexico
+2026.0,,Quarter-finals,Miami Stadium,Miami,Norway,1.0,2.0,England,England win after extra time,United States/Canada/Mexico
+2026.0,,Quarter-finals,GEHA Field at Arrowhead Stadium,Kansas City,Argentina,3.0,1.0,Switzerland,Argentina win after extra time,United States/Canada/Mexico
+2026.0,,Semi-finals,AT&T Stadium,Dallas,France,0.0,2.0,Spain,,United States/Canada/Mexico
+2026.0,,Semi-finals,Mercedes-Benz Stadium,Atlanta,England,1.0,2.0,Argentina,,United States/Canada/Mexico
+2026.0,,Third Place Match,Miami Stadium,Miami,France,4.0,6.0,England,,United States/Canada/Mexico
+2026.0,,Final,New York New Jersey Stadium,New Jersey,Spain,1.0,0.0,Argentina,Spain win after extra time,United States/Canada/Mexico

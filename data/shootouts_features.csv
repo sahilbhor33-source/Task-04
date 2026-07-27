@@ -1,0 +1,353 @@
+Tournament_Year,Match_Stage,Team_A,Team_B,Shooter_Team,Shooter_Name,Goalkeeper_Name,Kick_Number,Team_Kick_Number,Score_Before_Kick,Is_Must_Score,Is_Winning_Kick,Shoot_Outcome,Match_Key,Shootout_Length,Is_Goal,Is_Must_Score_Bool,Sudden_Death_Flag
+1982,Semi-finals,Germany FR,France,France,Alain Giresse,Harald Schumacher,1,1,0-0,No,No,Goal,"(1982, 'Semi-finals', 'Germany FR', 'France')",12,True,False,False
+1982,Semi-finals,Germany FR,France,Germany FR,Manfred Kaltz,Jean-Luc Ettori,2,1,0-1,No,No,Goal,"(1982, 'Semi-finals', 'Germany FR', 'France')",12,True,False,False
+1982,Semi-finals,Germany FR,France,France,Manuel Amoros,Harald Schumacher,3,2,1-1,No,No,Goal,"(1982, 'Semi-finals', 'Germany FR', 'France')",12,True,False,False
+1982,Semi-finals,Germany FR,France,Germany FR,Paul Breitner,Jean-Luc Ettori,4,2,1-2,No,No,Goal,"(1982, 'Semi-finals', 'Germany FR', 'France')",12,True,False,False
+1982,Semi-finals,Germany FR,France,France,Dominique Rocheteau,Harald Schumacher,5,3,2-2,No,No,Goal,"(1982, 'Semi-finals', 'Germany FR', 'France')",12,True,False,False
+1982,Semi-finals,Germany FR,France,Germany FR,Uli Stielike,Jean-Luc Ettori,6,3,2-3,No,No,Saved,"(1982, 'Semi-finals', 'Germany FR', 'France')",12,False,False,False
+1982,Semi-finals,Germany FR,France,France,Didier Six,Harald Schumacher,7,4,2-3,No,No,Saved,"(1982, 'Semi-finals', 'Germany FR', 'France')",12,False,False,False
+1982,Semi-finals,Germany FR,France,Germany FR,Pierre Littbarski,Jean-Luc Ettori,8,4,2-3,No,No,Goal,"(1982, 'Semi-finals', 'Germany FR', 'France')",12,True,False,False
+1982,Semi-finals,Germany FR,France,France,Michel Platini,Harald Schumacher,9,5,3-3,No,No,Goal,"(1982, 'Semi-finals', 'Germany FR', 'France')",12,True,False,False
+1982,Semi-finals,Germany FR,France,Germany FR,Karl-Heinz Rummenigge,Jean-Luc Ettori,10,5,3-4,Yes,No,Goal,"(1982, 'Semi-finals', 'Germany FR', 'France')",12,True,True,False
+1982,Semi-finals,Germany FR,France,France,Maxime Bossis,Harald Schumacher,11,6,4-4,No,No,Saved,"(1982, 'Semi-finals', 'Germany FR', 'France')",12,False,False,True
+1982,Semi-finals,Germany FR,France,Germany FR,Horst Hrubesch,Jean-Luc Ettori,12,6,4-4,No,Yes,Goal,"(1982, 'Semi-finals', 'Germany FR', 'France')",12,True,False,True
+1986,Quarter-finals,Belgium,Spain,Belgium,Franky Vercauteren,Andoni Zubizarreta,1,1,0-0,No,No,Goal,"(1986, 'Quarter-finals', 'Belgium', 'Spain')",9,True,False,False
+1986,Quarter-finals,Belgium,Spain,Spain,Señor,Jean-Marie Pfaff,2,1,1-0,No,No,Goal,"(1986, 'Quarter-finals', 'Belgium', 'Spain')",9,True,False,False
+1986,Quarter-finals,Belgium,Spain,Belgium,Enzo Scifo,Andoni Zubizarreta,3,2,1-1,No,No,Goal,"(1986, 'Quarter-finals', 'Belgium', 'Spain')",9,True,False,False
+1986,Quarter-finals,Belgium,Spain,Spain,Eloy Olaya,Jean-Marie Pfaff,4,2,1-2,No,No,Saved,"(1986, 'Quarter-finals', 'Belgium', 'Spain')",9,False,False,False
+1986,Quarter-finals,Belgium,Spain,Belgium,Hugo Broos,Andoni Zubizarreta,5,3,1-2,No,No,Goal,"(1986, 'Quarter-finals', 'Belgium', 'Spain')",9,True,False,False
+1986,Quarter-finals,Belgium,Spain,Spain,Chendo,Jean-Marie Pfaff,6,3,1-3,No,No,Goal,"(1986, 'Quarter-finals', 'Belgium', 'Spain')",9,True,False,False
+1986,Quarter-finals,Belgium,Spain,Belgium,Stephane Demol,Andoni Zubizarreta,7,4,2-3,No,No,Goal,"(1986, 'Quarter-finals', 'Belgium', 'Spain')",9,True,False,False
+1986,Quarter-finals,Belgium,Spain,Spain,Butragueño,Andoni Zubizarreta,8,4,2-4,No,No,Goal,"(1986, 'Quarter-finals', 'Belgium', 'Spain')",9,True,False,False
+1986,Quarter-finals,Belgium,Spain,Belgium,Leo Van Der Elst,Andoni Zubizarreta,9,5,3-4,No,Yes,Goal,"(1986, 'Quarter-finals', 'Belgium', 'Spain')",9,True,False,False
+1986,Quarter-finals,Brazil,France,Brazil,Sócrates,Joël Bats,1,1,0-0,No,No,Saved,"(1986, 'Quarter-finals', 'Brazil', 'France')",11,False,False,False
+1986,Quarter-finals,Brazil,France,France,Yannick Stopyra,Carlos,2,1,0-0,No,No,Goal,"(1986, 'Quarter-finals', 'Brazil', 'France')",11,True,False,False
+1986,Quarter-finals,Brazil,France,Brazil,Alemão,Joël Bats,3,2,0-1,No,No,Goal,"(1986, 'Quarter-finals', 'Brazil', 'France')",11,True,False,False
+1986,Quarter-finals,Brazil,France,Brazil,Alemão,Joël Bats,3,2,1-0,No,No,Goal,"(1986, 'Quarter-finals', 'Brazil', 'France')",11,True,False,False
+1986,Quarter-finals,Brazil,France,France,Manuel Amoros,Carlos,4,2,1-1,No,No,Goal,"(1986, 'Quarter-finals', 'Brazil', 'France')",11,True,False,False
+1986,Quarter-finals,Brazil,France,Brazil,Zico,Joël Bats,5,3,2-1,No,No,Goal,"(1986, 'Quarter-finals', 'Brazil', 'France')",11,True,False,False
+1986,Quarter-finals,Brazil,France,France,Bruno Bellone,Carlos,6,3,2-2,No,No,Goal,"(1986, 'Quarter-finals', 'Brazil', 'France')",11,True,False,False
+1986,Quarter-finals,Brazil,France,Brazil,Branco,Joël Bats,7,4,3-2,No,No,Goal,"(1986, 'Quarter-finals', 'Brazil', 'France')",11,True,False,False
+1986,Quarter-finals,Brazil,France,France,Michel Platini,Carlos,8,4,3-3,No,No,Missed,"(1986, 'Quarter-finals', 'Brazil', 'France')",11,False,False,False
+1986,Quarter-finals,Brazil,France,Brazil,Júlio César,Joël Bats,9,5,3-3,No,No,Missed,"(1986, 'Quarter-finals', 'Brazil', 'France')",11,False,False,False
+1986,Quarter-finals,Brazil,France,France,Luis Fernández,Carlos,10,5,3-3,No,Yes,Goal,"(1986, 'Quarter-finals', 'Brazil', 'France')",11,True,False,False
+1986,Quarter-finals,Germany FR,Mexico,Germany FR,Klaus Allofs,Pablo Larios,1,1,0-0,No,No,Goal,"(1986, 'Quarter-finals', 'Germany FR', 'Mexico')",7,True,False,False
+1986,Quarter-finals,Germany FR,Mexico,Mexico,Manuel Negrete,Harald Schumacher,2,1,1-0,No,No,Goal,"(1986, 'Quarter-finals', 'Germany FR', 'Mexico')",7,True,False,False
+1986,Quarter-finals,Germany FR,Mexico,Germany FR,Andreas Brehme,Pablo Larios,3,2,1-1,No,No,Goal,"(1986, 'Quarter-finals', 'Germany FR', 'Mexico')",7,True,False,False
+1986,Quarter-finals,Germany FR,Mexico,Mexico,Fernando Quirarte,Harald Schumacher,4,2,1-2,No,No,Saved,"(1986, 'Quarter-finals', 'Germany FR', 'Mexico')",7,False,False,False
+1986,Quarter-finals,Germany FR,Mexico,Germany FR,Lothar Matthäus,Pablo Larios,5,3,1-2,No,No,Goal,"(1986, 'Quarter-finals', 'Germany FR', 'Mexico')",7,True,False,False
+1986,Quarter-finals,Germany FR,Mexico,Mexico,Raúl Servín,Harald Schumacher,6,3,1-3,No,No,Saved,"(1986, 'Quarter-finals', 'Germany FR', 'Mexico')",7,False,False,False
+1986,Quarter-finals,Germany FR,Mexico,Germany FR,Pierre Littbarski,Pablo Larios,7,4,1-3,No,Yes,Goal,"(1986, 'Quarter-finals', 'Germany FR', 'Mexico')",7,True,False,False
+1990,Round of 16,Republic of Ireland,Romania,Republic of Ireland,Kevin Sheedy,Silviu Lung,1,1,0-0,No,No,Goal,"(1990, 'Round of 16', 'Republic of Ireland', 'Romania')",10,True,False,False
+1990,Round of 16,Republic of Ireland,Romania,Romania,Gheorghe Hagi,Pat Bonner,2,1,1-0,No,No,Goal,"(1990, 'Round of 16', 'Republic of Ireland', 'Romania')",10,True,False,False
+1990,Round of 16,Republic of Ireland,Romania,Republic of Ireland,Ray Houghton,Silviu Lung,3,2,1-1,No,No,Goal,"(1990, 'Round of 16', 'Republic of Ireland', 'Romania')",10,True,False,False
+1990,Round of 16,Republic of Ireland,Romania,Romania,Dănuț Lupu,Pat Bonner,4,2,1-2,No,No,Goal,"(1990, 'Round of 16', 'Republic of Ireland', 'Romania')",10,True,False,False
+1990,Round of 16,Republic of Ireland,Romania,Republic of Ireland,Andy Townsend,Silviu Lung,5,3,2-2,No,No,Goal,"(1990, 'Round of 16', 'Republic of Ireland', 'Romania')",10,True,False,False
+1990,Round of 16,Republic of Ireland,Romania,Romania,Ioan Sabău,Pat Bonner,6,3,2-3,No,No,Goal,"(1990, 'Round of 16', 'Republic of Ireland', 'Romania')",10,True,False,False
+1990,Round of 16,Republic of Ireland,Romania,Republic of Ireland,Tony Cascarino,Silviu Lung,7,4,3-3,No,No,Goal,"(1990, 'Round of 16', 'Republic of Ireland', 'Romania')",10,True,False,False
+1990,Round of 16,Republic of Ireland,Romania,Romania,Ioan Lupescu,Pat Bonner,8,4,3-4,No,No,Goal,"(1990, 'Round of 16', 'Republic of Ireland', 'Romania')",10,True,False,False
+1990,Round of 16,Republic of Ireland,Romania,Republic of Ireland,David O'Leary,Silviu Lung,9,5,4-4,No,No,Goal,"(1990, 'Round of 16', 'Republic of Ireland', 'Romania')",10,True,False,False
+1990,Round of 16,Republic of Ireland,Romania,Romania,Daniel Timofte,Pat Bonner,10,5,4-5,Yes,Yes,Saved,"(1990, 'Round of 16', 'Republic of Ireland', 'Romania')",10,False,True,False
+1990,Quarter-finals,Argentina,Yugoslavia,Argentina,José Serrizuela,Tomislav Ivković,1,1,0-0,No,No,Goal,"(1990, 'Quarter-finals', 'Argentina', 'Yugoslavia')",10,True,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Yugoslavia,Dragan Stojković,Sergio Goycochea,2,1,1-0,No,No,Missed,"(1990, 'Quarter-finals', 'Argentina', 'Yugoslavia')",10,False,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Argentina,Jorge Burruchaga,Tomislav Ivković,3,2,1-0,No,No,Goal,"(1990, 'Quarter-finals', 'Argentina', 'Yugoslavia')",10,True,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Yugoslavia,Robert Prosinečki,Sergio Goycochea,4,2,2-0,No,No,Goal,"(1990, 'Quarter-finals', 'Argentina', 'Yugoslavia')",10,True,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Argentina,Diego Maradona,Tomislav Ivković,5,3,1-2,No,No,Saved,"(1990, 'Quarter-finals', 'Argentina', 'Yugoslavia')",10,False,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Yugoslavia,Dejan Savićević,Sergio Goycochea,6,3,1-2,No,No,Goal,"(1990, 'Quarter-finals', 'Argentina', 'Yugoslavia')",10,True,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Argentina,Pedro Troglio,Tomislav Ivković,7,4,2-2,No,No,Missed,"(1990, 'Quarter-finals', 'Argentina', 'Yugoslavia')",10,False,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Yugoslavia,Dragoljub Brnović,Sergio Goycochea,8,4,2-2,No,No,Saved,"(1990, 'Quarter-finals', 'Argentina', 'Yugoslavia')",10,False,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Argentina,Gustavo Dezotti,Tomislav Ivković,9,5,2-2,No,No,Goal,"(1990, 'Quarter-finals', 'Argentina', 'Yugoslavia')",10,True,False,False
+1990,Quarter-finals,Argentina,Yugoslavia,Yugoslavia,Faruk Hadžibegić,Sergio Goycochea,10,5,2-3,Yes,Yes,Saved,"(1990, 'Quarter-finals', 'Argentina', 'Yugoslavia')",10,False,True,False
+1990,Semi-finals,Argentina,Italy,Italy,Franco Baresi,Sergio Goycochea,1,1,0-0,No,No,Goal,"(1990, 'Semi-finals', 'Argentina', 'Italy')",9,True,False,False
+1990,Semi-finals,Argentina,Italy,Argentina,José Serrizuela,Walter Zenga,2,1,0-1,No,No,Goal,"(1990, 'Semi-finals', 'Argentina', 'Italy')",9,True,False,False
+1990,Semi-finals,Argentina,Italy,Italy,Roberto Baggio,Sergio Goycochea,3,2,1-1,No,No,Goal,"(1990, 'Semi-finals', 'Argentina', 'Italy')",9,True,False,False
+1990,Semi-finals,Argentina,Italy,Argentina,Jorge Burruchaga,Walter Zenga,4,2,2-1,No,No,Goal,"(1990, 'Semi-finals', 'Argentina', 'Italy')",9,True,False,False
+1990,Semi-finals,Argentina,Italy,Italy,Luigi De Agostini,Sergio Goycochea,5,3,2-2,No,No,Goal,"(1990, 'Semi-finals', 'Argentina', 'Italy')",9,True,False,False
+1990,Semi-finals,Argentina,Italy,Argentina,Julio Olarticoechea,Walter Zenga,6,3,3-2,No,No,Goal,"(1990, 'Semi-finals', 'Argentina', 'Italy')",9,True,False,False
+1990,Semi-finals,Argentina,Italy,Italy,Roberto Donadoni,Sergio Goycochea,7,4,3-3,No,No,Saved,"(1990, 'Semi-finals', 'Argentina', 'Italy')",9,False,False,False
+1990,Semi-finals,Argentina,Italy,Argentina,Diego Maradona,Walter Zenga,8,4,3-3,No,No,Goal,"(1990, 'Semi-finals', 'Argentina', 'Italy')",9,True,False,False
+1990,Semi-finals,Argentina,Italy,Italy,Aldo Serena,Sergio Goycochea,9,5,4-3,Yes,Yes,Saved,"(1990, 'Semi-finals', 'Argentina', 'Italy')",9,False,True,False
+1990,Semi-finals,Germany FR,England,Germany FR,Andreas Brehme,Peter Shilton,1,1,0-0,No,No,Goal,"(1990, 'Semi-finals', 'Germany FR', 'England')",9,True,False,False
+1990,Semi-finals,Germany FR,England,England,Gary Lineker,Bodo Illgner,2,1,1-0,No,No,Goal,"(1990, 'Semi-finals', 'Germany FR', 'England')",9,True,False,False
+1990,Semi-finals,Germany FR,England,Germany FR,Lothar Matthäus,Peter Shilton,3,2,1-1,No,No,Goal,"(1990, 'Semi-finals', 'Germany FR', 'England')",9,True,False,False
+1990,Semi-finals,Germany FR,England,England,Peter Beardsley,Bodo Illgner,4,2,1-2,No,No,Goal,"(1990, 'Semi-finals', 'Germany FR', 'England')",9,True,False,False
+1990,Semi-finals,Germany FR,England,Germany FR,Karl-Heinz Riedle,Peter Shilton,5,3,2-2,No,No,Goal,"(1990, 'Semi-finals', 'Germany FR', 'England')",9,True,False,False
+1990,Semi-finals,Germany FR,England,England,David Platt,Bodo Illgner,6,3,2-3,No,No,Goal,"(1990, 'Semi-finals', 'Germany FR', 'England')",9,True,False,False
+1990,Semi-finals,Germany FR,England,Germany FR,Olaf Thon,Peter Shilton,7,4,3-3,No,No,Goal,"(1990, 'Semi-finals', 'Germany FR', 'England')",9,True,False,False
+1990,Semi-finals,Germany FR,England,England,Stuart Pearce,Bodo Illgner,8,4,3-4,No,No,Saved,"(1990, 'Semi-finals', 'Germany FR', 'England')",9,False,False,False
+1990,Semi-finals,Germany FR,England,England,Chris Waddle,Bodo Illgner,9,5,3-4,Yes,Yes,Missed,"(1990, 'Semi-finals', 'Germany FR', 'England')",9,False,True,False
+1994,Round of 16,Mexico,Bulgaria,Bulgaria,Krasimir Balakov,Jorge Campos,1,1,0-0,No,No,Saved,"(1994, 'Round of 16', 'Mexico', 'Bulgaria')",8,False,False,False
+1994,Round of 16,Mexico,Bulgaria,Mexico,Alberto García Aspe,Borislav Mihaylov,2,1,0-0,No,No,Missed,"(1994, 'Round of 16', 'Mexico', 'Bulgaria')",8,False,False,False
+1994,Round of 16,Mexico,Bulgaria,Bulgaria,Boncho Genchev,Jorge Campos,3,2,0-0,No,No,Goal,"(1994, 'Round of 16', 'Mexico', 'Bulgaria')",8,True,False,False
+1994,Round of 16,Mexico,Bulgaria,Mexico,Marcelino Bernal,Borislav Mihaylov,4,2,0-1,No,No,Saved,"(1994, 'Round of 16', 'Mexico', 'Bulgaria')",8,False,False,False
+1994,Round of 16,Mexico,Bulgaria,Bulgaria,Daniel Borimirov,Jorge Campos,5,3,0-1,No,No,Goal,"(1994, 'Round of 16', 'Mexico', 'Bulgaria')",8,True,False,False
+1994,Round of 16,Mexico,Bulgaria,Mexico,Jorge Rodríguez,Borislav Mihaylov,6,3,0-2,No,No,Saved,"(1994, 'Round of 16', 'Mexico', 'Bulgaria')",8,False,False,False
+1994,Round of 16,Mexico,Bulgaria,Bulgaria,Yordan Letchkov,Jorge Campos,7,4,0-2,No,Yes,Goal,"(1994, 'Round of 16', 'Mexico', 'Bulgaria')",8,True,False,False
+1994,Round of 16,Mexico,Bulgaria,Mexico,Claudio Suárez,Borislav Mihaylov,8,4,2-1,Yes,No,Goal,"(1994, 'Round of 16', 'Mexico', 'Bulgaria')",8,True,True,False
+1994,Quarter-finals,Romania,Sweden,Sweden,Håkan Mild,Florian Prunea,1,1,0-0,No,No,Missed,"(1994, 'Quarter-finals', 'Romania', 'Sweden')",12,False,False,False
+1994,Quarter-finals,Romania,Sweden,Romania,Radu Răducioiu,Thomas Ravelli,2,1,0-0,No,No,Goal,"(1994, 'Quarter-finals', 'Romania', 'Sweden')",12,True,False,False
+1994,Quarter-finals,Romania,Sweden,Sweden,Kennet Andersson,Florian Prunea,3,2,0-1,No,No,Goal,"(1994, 'Quarter-finals', 'Romania', 'Sweden')",12,True,False,False
+1994,Quarter-finals,Romania,Sweden,Romania,Gheorghe Hagi,Thomas Ravelli,4,2,1-1,No,No,Goal,"(1994, 'Quarter-finals', 'Romania', 'Sweden')",12,True,False,False
+1994,Quarter-finals,Romania,Sweden,Sweden,Tomas Brolin,Florian Prunea,5,3,2-1,No,No,Goal,"(1994, 'Quarter-finals', 'Romania', 'Sweden')",12,True,False,False
+1994,Quarter-finals,Romania,Sweden,Romania,Ioan Lupescu,Thomas Ravelli,6,3,2-2,No,No,Goal,"(1994, 'Quarter-finals', 'Romania', 'Sweden')",12,True,False,False
+1994,Quarter-finals,Romania,Sweden,Sweden,Klas Ingesson,Florian Prunea,7,4,3-2,No,No,Goal,"(1994, 'Quarter-finals', 'Romania', 'Sweden')",12,True,False,False
+1994,Quarter-finals,Romania,Sweden,Romania,Dan Petrescu,Thomas Ravelli,8,4,3-3,No,No,Saved,"(1994, 'Quarter-finals', 'Romania', 'Sweden')",12,False,False,False
+1994,Quarter-finals,Romania,Sweden,Sweden,Roland Nilsson,Florian Prunea,9,5,3-3,No,No,Goal,"(1994, 'Quarter-finals', 'Romania', 'Sweden')",12,True,False,False
+1994,Quarter-finals,Romania,Sweden,Romania,Ilie Dumitrescu,Thomas Ravelli,10,5,3-4,Yes,No,Goal,"(1994, 'Quarter-finals', 'Romania', 'Sweden')",12,True,True,False
+1994,Quarter-finals,Romania,Sweden,Sweden,Henrik Larsson,Florian Prunea,11,6,4-4,No,No,Goal,"(1994, 'Quarter-finals', 'Romania', 'Sweden')",12,True,False,True
+1994,Quarter-finals,Romania,Sweden,Romania,Miodrag Belodedici,Thomas Ravelli,12,6,5-4,Yes,Yes,Saved,"(1994, 'Quarter-finals', 'Romania', 'Sweden')",12,False,True,True
+1994,Final,Brazil,Italy,Italy,Franco Baresi,Taffarel,1,1,0-0,No,No,Missed,"(1994, 'Final', 'Brazil', 'Italy')",9,False,False,False
+1994,Final,Brazil,Italy,Brazil,Márcio Santos,Gianluca Pagliuca,2,1,0-0,No,No,Saved,"(1994, 'Final', 'Brazil', 'Italy')",9,False,False,False
+1994,Final,Brazil,Italy,Italy,Demetrio Albertini,Taffarel,3,2,0-0,No,No,Goal,"(1994, 'Final', 'Brazil', 'Italy')",9,True,False,False
+1994,Final,Brazil,Italy,Brazil,Romário,Gianluca Pagliuca,4,2,0-1,No,No,Goal,"(1994, 'Final', 'Brazil', 'Italy')",9,True,False,False
+1994,Final,Brazil,Italy,Italy,Alberico Evani,Taffarel,5,3,1-1,No,No,Goal,"(1994, 'Final', 'Brazil', 'Italy')",9,True,False,False
+1994,Final,Brazil,Italy,Brazil,Branco,Gianluca Pagliuca,6,3,2-1,No,No,Goal,"(1994, 'Final', 'Brazil', 'Italy')",9,True,False,False
+1994,Final,Brazil,Italy,Italy,Daniele Massaro,Taffarel,7,4,2-2,No,No,Saved,"(1994, 'Final', 'Brazil', 'Italy')",9,False,False,False
+1994,Final,Brazil,Italy,Brazil,Dunga,Gianluca Pagliuca,8,4,2-2,No,No,Goal,"(1994, 'Final', 'Brazil', 'Italy')",9,True,False,False
+1994,Final,Brazil,Italy,Italy,Roberto Baggio,Taffarel,9,5,3-2,Yes,Yes,Missed,"(1994, 'Final', 'Brazil', 'Italy')",9,False,True,False
+1998,Round of 16,Argentina,England,England,Alan Shearer,Carlos Roa,1,1,0-0,No,No,Goal,"(1998, 'Round of 16', 'Argentina', 'England')",9,True,False,False
+1998,Round of 16,Argentina,England,Argentina,Sergio Berti,Carlos Roa,2,1,0-1,No,No,Goal,"(1998, 'Round of 16', 'Argentina', 'England')",9,True,False,False
+1998,Round of 16,Argentina,England,England,Paul Ince,Carlos Roa,3,2,1-1,No,No,Saved,"(1998, 'Round of 16', 'Argentina', 'England')",9,False,False,False
+1998,Round of 16,Argentina,England,Argentina,Hernán Crespo,David Seaman,4,2,1-1,No,No,Saved,"(1998, 'Round of 16', 'Argentina', 'England')",9,False,False,False
+1998,Round of 16,Argentina,England,England,Paul Merson,Carlos Roa,5,3,1-1,No,No,Goal,"(1998, 'Round of 16', 'Argentina', 'England')",9,True,False,False
+1998,Round of 16,Argentina,England,Argentina,Juan Sebastián Verón,David Seaman,6,3,2-1,No,No,Goal,"(1998, 'Round of 16', 'Argentina', 'England')",9,True,False,False
+1998,Round of 16,Argentina,England,England,Michael Owen,Carlos Roa,7,4,2-2,No,No,Goal,"(1998, 'Round of 16', 'Argentina', 'England')",9,True,False,False
+1998,Round of 16,Argentina,England,Argentina,Marcelo Gallardo,David Seaman,8,4,3-2,No,No,Goal,"(1998, 'Round of 16', 'Argentina', 'England')",9,True,False,False
+1998,Round of 16,Argentina,England,England,David Batty,Carlos Roa,9,5,3-3,Yes,Yes,Saved,"(1998, 'Round of 16', 'Argentina', 'England')",9,False,True,False
+1998,Quarter-finals,Italy,France,France,Zinedine Zidane,Gianluca Pagliuca,1,1,0-0,No,No,Goal,"(1998, 'Quarter-finals', 'Italy', 'France')",10,True,False,False
+1998,Quarter-finals,Italy,France,Italy,Roberto Baggio,Fabien Barthez,2,1,0-1,No,No,Goal,"(1998, 'Quarter-finals', 'Italy', 'France')",10,True,False,False
+1998,Quarter-finals,Italy,France,France,Bixente Lizarazu,Gianluca Pagliuca,3,2,1-1,No,No,Saved,"(1998, 'Quarter-finals', 'Italy', 'France')",10,False,False,False
+1998,Quarter-finals,Italy,France,Italy,Demetrio Albertini,Fabien Barthez,4,2,1-1,No,No,Saved,"(1998, 'Quarter-finals', 'Italy', 'France')",10,False,False,False
+1998,Quarter-finals,Italy,France,France,David Trezeguet,Gianluca Pagliuca,5,3,1-1,No,No,Goal,"(1998, 'Quarter-finals', 'Italy', 'France')",10,True,False,False
+1998,Quarter-finals,Italy,France,Italy,Alessandro Costacurta,Fabien Barthez,6,3,2-1,No,No,Goal,"(1998, 'Quarter-finals', 'Italy', 'France')",10,True,False,False
+1998,Quarter-finals,Italy,France,France,Thierry Henry,Gianluca Pagliuca,7,4,2-2,No,No,Goal,"(1998, 'Quarter-finals', 'Italy', 'France')",10,True,False,False
+1998,Quarter-finals,Italy,France,Italy,Christian Vieri,Fabien Barthez,8,4,3-2,No,No,Goal,"(1998, 'Quarter-finals', 'Italy', 'France')",10,True,False,False
+1998,Quarter-finals,Italy,France,France,Laurent Blanc,Gianluca Pagliuca,9,5,3-3,No,No,Goal,"(1998, 'Quarter-finals', 'Italy', 'France')",10,True,False,False
+1998,Quarter-finals,Italy,France,Italy,Luigi Di Biagio,Fabien Barthez,10,5,4-3,Yes,Yes,Missed,"(1998, 'Quarter-finals', 'Italy', 'France')",10,False,True,False
+1998,Semi-finals,Brazil,Netherlands,Brazil,Ronaldo,Edwin van der Sar,1,1,0-0,No,No,Goal,"(1998, 'Semi-finals', 'Brazil', 'Netherlands')",8,True,False,False
+1998,Semi-finals,Brazil,Netherlands,Netherlands,Frank de Boer,Taffarel,2,1,1-0,No,No,Goal,"(1998, 'Semi-finals', 'Brazil', 'Netherlands')",8,True,False,False
+1998,Semi-finals,Brazil,Netherlands,Brazil,Rivaldo,Edwin van der Sar,3,2,1-1,No,No,Goal,"(1998, 'Semi-finals', 'Brazil', 'Netherlands')",8,True,False,False
+1998,Semi-finals,Brazil,Netherlands,Netherlands,Dennis Bergkamp,Taffarel,4,2,1-2,No,No,Goal,"(1998, 'Semi-finals', 'Brazil', 'Netherlands')",8,True,False,False
+1998,Semi-finals,Brazil,Netherlands,Brazil,Emerson,Edwin van der Sar,5,3,2-2,No,No,Goal,"(1998, 'Semi-finals', 'Brazil', 'Netherlands')",8,True,False,False
+1998,Semi-finals,Brazil,Netherlands,Netherlands,Phillip Cocu,Taffarel,6,3,2-3,No,No,Saved,"(1998, 'Semi-finals', 'Brazil', 'Netherlands')",8,False,False,False
+1998,Semi-finals,Brazil,Netherlands,Brazil,Dunga,Edwin van der Sar,7,4,2-3,No,No,Goal,"(1998, 'Semi-finals', 'Brazil', 'Netherlands')",8,True,False,False
+1998,Semi-finals,Brazil,Netherlands,Netherlands,Ronald de Boer,Taffarel,8,4,2-4,Yes,Yes,Saved,"(1998, 'Semi-finals', 'Brazil', 'Netherlands')",8,False,True,False
+2002,Round of 16,Spain,Republic of Ireland,Spain,Robbie Keane,Iker Casillas,1,1,0-0,No,No,Goal,"(2002, 'Round of 16', 'Spain', 'Republic of Ireland')",9,True,False,False
+2002,Round of 16,Spain,Republic of Ireland,Republic of Ireland,Ian Harte,Iker Casillas,2,1,1-0,No,No,Saved,"(2002, 'Round of 16', 'Spain', 'Republic of Ireland')",9,False,False,False
+2002,Round of 16,Spain,Republic of Ireland,Spain,Rubén Baraja,Shay Given,3,2,1-0,No,No,Goal,"(2002, 'Round of 16', 'Spain', 'Republic of Ireland')",9,True,False,False
+2002,Round of 16,Spain,Republic of Ireland,Republic of Ireland,David Connolly,Iker Casillas,4,2,2-0,No,No,Saved,"(2002, 'Round of 16', 'Spain', 'Republic of Ireland')",9,False,False,False
+2002,Round of 16,Spain,Republic of Ireland,Spain,Juanfran,Shay Given,5,3,2-0,No,No,Missed,"(2002, 'Round of 16', 'Spain', 'Republic of Ireland')",9,False,False,False
+2002,Round of 16,Spain,Republic of Ireland,Republic of Ireland,Kevin Kilbane,Iker Casillas,6,3,2-0,No,No,Saved,"(2002, 'Round of 16', 'Spain', 'Republic of Ireland')",9,False,False,False
+2002,Round of 16,Spain,Republic of Ireland,Spain,Juan Carlos Valerón,Shay Given,7,4,2-0,No,No,Missed,"(2002, 'Round of 16', 'Spain', 'Republic of Ireland')",9,False,False,False
+2002,Round of 16,Spain,Republic of Ireland,Republic of Ireland,Matt Holland,Iker Casillas,8,4,2-0,No,No,Goal,"(2002, 'Round of 16', 'Spain', 'Republic of Ireland')",9,True,False,False
+2002,Round of 16,Spain,Republic of Ireland,Spain,Gaizka Mendieta,Shay Given,9,5,1-2,No,Yes,Goal,"(2002, 'Round of 16', 'Spain', 'Republic of Ireland')",9,True,False,False
+2002,Quarter-finals,Spain,Republic of Korea,Spain,Joaquín,Lee Woon-jae,1,1,0-0,No,No,Saved,"(2002, 'Quarter-finals', 'Spain', 'Republic of Korea')",9,False,False,False
+2002,Quarter-finals,Spain,Republic of Korea,Republic of Korea,Hwang Sun-hong,Iker Casillas,2,1,0-0,No,No,Goal,"(2002, 'Quarter-finals', 'Spain', 'Republic of Korea')",9,True,False,False
+2002,Quarter-finals,Spain,Republic of Korea,Spain,Rubén Baraja,Lee Woon-jae,3,2,0-1,No,No,Goal,"(2002, 'Quarter-finals', 'Spain', 'Republic of Korea')",9,True,False,False
+2002,Quarter-finals,Spain,Republic of Korea,Republic of Korea,Park Ji-sung,Iker Casillas,4,2,1-1,No,No,Goal,"(2002, 'Quarter-finals', 'Spain', 'Republic of Korea')",9,True,False,False
+2002,Quarter-finals,Spain,Republic of Korea,Spain,Xavi,Lee Woon-jae,5,3,2-1,No,No,Goal,"(2002, 'Quarter-finals', 'Spain', 'Republic of Korea')",9,True,False,False
+2002,Quarter-finals,Spain,Republic of Korea,Republic of Korea,Seol Ki-hyeon,Iker Casillas,6,3,2-2,No,No,Goal,"(2002, 'Quarter-finals', 'Spain', 'Republic of Korea')",9,True,False,False
+2002,Quarter-finals,Spain,Republic of Korea,Spain,Fernando Morientes,Lee Woon-jae,7,4,3-2,No,No,Goal,"(2002, 'Quarter-finals', 'Spain', 'Republic of Korea')",9,True,False,False
+2002,Quarter-finals,Spain,Republic of Korea,Republic of Korea,Ahn Jung-hwan,Iker Casillas,8,4,3-3,No,No,Goal,"(2002, 'Quarter-finals', 'Spain', 'Republic of Korea')",9,True,False,False
+2002,Quarter-finals,Spain,Republic of Korea,Republic of Korea,Hong Myung-bo,Iker Casillas,9,5,4-3,No,Yes,Goal,"(2002, 'Quarter-finals', 'Spain', 'Republic of Korea')",9,True,False,False
+2006,Round of 16,Ukraine,Switzerland,Ukraine,Andriy Shevchenko,Pascal Zuberbühler,1,1,0-0,No,No,Saved,"(2006, 'Round of 16', 'Ukraine', 'Switzerland')",7,False,False,False
+2006,Round of 16,Ukraine,Switzerland,Switzerland,Marco Streller,Oleksandr Shovkovskyi,2,1,0-0,No,No,Saved,"(2006, 'Round of 16', 'Ukraine', 'Switzerland')",7,False,False,False
+2006,Round of 16,Ukraine,Switzerland,Ukraine,Artem Milevskyi,Pascal Zuberbühler,3,2,0-0,No,No,Goal,"(2006, 'Round of 16', 'Ukraine', 'Switzerland')",7,True,False,False
+2006,Round of 16,Ukraine,Switzerland,Switzerland,Tranquillo Barnetta,Oleksandr Shovkovskyi,4,2,1-0,No,No,Missed,"(2006, 'Round of 16', 'Ukraine', 'Switzerland')",7,False,False,False
+2006,Round of 16,Ukraine,Switzerland,Ukraine,Serhiy Rebrov,Pascal Zuberbühler,5,3,1-0,No,No,Goal,"(2006, 'Round of 16', 'Ukraine', 'Switzerland')",7,True,False,False
+2006,Round of 16,Ukraine,Switzerland,Switzerland,Ricardo Cabanas,Oleksandr Shovkovskyi,6,3,2-0,No,No,Saved,"(2006, 'Round of 16', 'Ukraine', 'Switzerland')",7,False,False,False
+2006,Round of 16,Ukraine,Switzerland,Ukraine,Oleh Husyev,Pascal Zuberbühler,7,4,2-0,No,Yes,Goal,"(2006, 'Round of 16', 'Ukraine', 'Switzerland')",7,True,False,False
+2006,Quarter-finals,Germany,Argentina,Germany,Oliver Neuville,Leonardo Franco,1,1,0-0,No,No,Goal,"(2006, 'Quarter-finals', 'Germany', 'Argentina')",8,True,False,False
+2006,Quarter-finals,Germany,Argentina,Argentina,Julio Ricardo Cruz,Jens Lehmann,2,1,1-0,No,No,Goal,"(2006, 'Quarter-finals', 'Germany', 'Argentina')",8,True,False,False
+2006,Quarter-finals,Germany,Argentina,Germany,Michael Ballack,Leonardo Franco,3,2,1-1,No,No,Goal,"(2006, 'Quarter-finals', 'Germany', 'Argentina')",8,True,False,False
+2006,Quarter-finals,Germany,Argentina,Argentina,Roberto Ayala,Jens Lehmann,4,2,1-2,No,No,Saved,"(2006, 'Quarter-finals', 'Germany', 'Argentina')",8,False,False,False
+2006,Quarter-finals,Germany,Argentina,Germany,Lukas Podolski,Leonardo Franco,5,3,1-2,No,No,Goal,"(2006, 'Quarter-finals', 'Germany', 'Argentina')",8,True,False,False
+2006,Quarter-finals,Germany,Argentina,Argentina,Maxi Rodríguez,Jens Lehmann,6,3,1-3,No,No,Goal,"(2006, 'Quarter-finals', 'Germany', 'Argentina')",8,True,False,False
+2006,Quarter-finals,Germany,Argentina,Germany,Tim Borowski,Leonardo Franco,7,4,2-3,No,No,Goal,"(2006, 'Quarter-finals', 'Germany', 'Argentina')",8,True,False,False
+2006,Quarter-finals,Germany,Argentina,Argentina,Esteban Cambiasso,Jens Lehmann,8,4,2-4,Yes,Yes,Saved,"(2006, 'Quarter-finals', 'Germany', 'Argentina')",8,False,True,False
+2006,Quarter-finals,Portugal,England,Portugal,Simão Sabrosa,Paul Robinson,1,1,0-0,No,No,Goal,"(2006, 'Quarter-finals', 'Portugal', 'England')",9,True,False,False
+2006,Quarter-finals,Portugal,England,England,Frank Lampard,Ricardo,2,1,1-0,No,No,Saved,"(2006, 'Quarter-finals', 'Portugal', 'England')",9,False,False,False
+2006,Quarter-finals,Portugal,England,Portugal,Hugo Viana,Paul Robinson,3,2,1-0,No,No,Missed,"(2006, 'Quarter-finals', 'Portugal', 'England')",9,False,False,False
+2006,Quarter-finals,Portugal,England,England,Owen Hargreaves,Ricardo,4,2,1-0,No,No,Goal,"(2006, 'Quarter-finals', 'Portugal', 'England')",9,True,False,False
+2006,Quarter-finals,Portugal,England,Portugal,Petit,Paul Robinson,5,3,1-1,No,No,Missed,"(2006, 'Quarter-finals', 'Portugal', 'England')",9,False,False,False
+2006,Quarter-finals,Portugal,England,England,Steven Gerrard,Ricardo,6,3,1-1,No,No,Saved,"(2006, 'Quarter-finals', 'Portugal', 'England')",9,False,False,False
+2006,Quarter-finals,Portugal,England,Portugal,Hélder Postiga,Paul Robinson,7,4,1-1,No,No,Goal,"(2006, 'Quarter-finals', 'Portugal', 'England')",9,True,False,False
+2006,Quarter-finals,Portugal,England,England,Jamie Carragher,Ricardo,8,4,1-2,No,No,Saved,"(2006, 'Quarter-finals', 'Portugal', 'England')",9,False,False,False
+2006,Quarter-finals,Portugal,England,Portugal,Cristiano Ronaldo,Paul Robinson,9,5,1-2,No,Yes,Goal,"(2006, 'Quarter-finals', 'Portugal', 'England')",9,True,False,False
+2006,Final,Italy,France,Italy,Andrea Pirlo,Fabien Barthez,1,1,0-0,No,No,Goal,"(2006, 'Final', 'Italy', 'France')",9,True,False,False
+2006,Final,Italy,France,France,Sylvain Wiltord,Gianluigi Buffon,2,1,1-0,No,No,Goal,"(2006, 'Final', 'Italy', 'France')",9,True,False,False
+2006,Final,Italy,France,Italy,Marco Materazzi,Fabien Barthez,3,2,1-1,No,No,Goal,"(2006, 'Final', 'Italy', 'France')",9,True,False,False
+2006,Final,Italy,France,France,David Trezeguet,Gianluigi Buffon,4,2,1-2,No,No,Missed,"(2006, 'Final', 'Italy', 'France')",9,False,False,False
+2006,Final,Italy,France,Italy,Daniele De Rossi,Fabien Barthez,5,3,1-2,No,No,Goal,"(2006, 'Final', 'Italy', 'France')",9,True,False,False
+2006,Final,Italy,France,France,Éric Abidal,Gianluigi Buffon,6,3,1-3,No,No,Goal,"(2006, 'Final', 'Italy', 'France')",9,True,False,False
+2006,Final,Italy,France,Italy,Alessandro Del Piero,Fabien Barthez,7,4,2-3,No,No,Goal,"(2006, 'Final', 'Italy', 'France')",9,True,False,False
+2006,Final,Italy,France,France,Willy Sagnol,Gianluigi Buffon,8,4,2-4,No,No,Goal,"(2006, 'Final', 'Italy', 'France')",9,True,False,False
+2006,Final,Italy,France,Italy,Fabio Grosso,Fabien Barthez,9,5,3-4,No,Yes,Goal,"(2006, 'Final', 'Italy', 'France')",9,True,False,False
+2010,Round of 16,Paraguay,Japan,Paraguay,Édgar Barreto,Eiji Kawashima,1,1,0-0,No,No,Goal,"(2010, 'Round of 16', 'Paraguay', 'Japan')",9,True,False,False
+2010,Round of 16,Paraguay,Japan,Japan,Yasuhito Endō,Justo Villar,2,1,1-0,No,No,Goal,"(2010, 'Round of 16', 'Paraguay', 'Japan')",9,True,False,False
+2010,Round of 16,Paraguay,Japan,Paraguay,Lucas Barrios,Eiji Kawashima,3,2,1-1,No,No,Goal,"(2010, 'Round of 16', 'Paraguay', 'Japan')",9,True,False,False
+2010,Round of 16,Paraguay,Japan,Japan,Yuki Abe,Justo Villar,4,2,1-2,No,No,Goal,"(2010, 'Round of 16', 'Paraguay', 'Japan')",9,True,False,False
+2010,Round of 16,Paraguay,Japan,Paraguay,Cristian Riveros,Eiji Kawashima,5,3,2-2,No,No,Goal,"(2010, 'Round of 16', 'Paraguay', 'Japan')",9,True,False,False
+2010,Round of 16,Paraguay,Japan,Japan,Yuichi Komano,Justo Villar,6,3,2-3,No,No,Missed,"(2010, 'Round of 16', 'Paraguay', 'Japan')",9,False,False,False
+2010,Round of 16,Paraguay,Japan,Paraguay,Nelson Valdez,Eiji Kawashima,7,4,2-3,No,No,Goal,"(2010, 'Round of 16', 'Paraguay', 'Japan')",9,True,False,False
+2010,Round of 16,Paraguay,Japan,Japan,Keisuke Honda,Justo Villar,8,4,2-4,No,No,Goal,"(2010, 'Round of 16', 'Paraguay', 'Japan')",9,True,False,False
+2010,Round of 16,Paraguay,Japan,Paraguay,Óscar Cardozo,Eiji Kawashima,9,5,3-4,No,Yes,Goal,"(2010, 'Round of 16', 'Paraguay', 'Japan')",9,True,False,False
+2010,Quarter-finals,Uruguay,Ghana,Uruguay,Diego Forlán,Richard Kingson,1,1,0-0,No,No,Goal,"(2010, 'Quarter-finals', 'Uruguay', 'Ghana')",9,True,False,False
+2010,Quarter-finals,Uruguay,Ghana,Ghana,Asamoah Gyan,Fernando Muslera,2,1,1-0,No,No,Goal,"(2010, 'Quarter-finals', 'Uruguay', 'Ghana')",9,True,False,False
+2010,Quarter-finals,Uruguay,Ghana,Uruguay,Mauricio Victorino,Richard Kingson,3,2,1-1,No,No,Goal,"(2010, 'Quarter-finals', 'Uruguay', 'Ghana')",9,True,False,False
+2010,Quarter-finals,Uruguay,Ghana,Ghana,Appiah,Fernando Muslera,4,2,1-2,No,No,Goal,"(2010, 'Quarter-finals', 'Uruguay', 'Ghana')",9,True,False,False
+2010,Quarter-finals,Uruguay,Ghana,Uruguay,Andrés Scotti,Richard Kingson,5,3,2-2,No,No,Goal,"(2010, 'Quarter-finals', 'Uruguay', 'Ghana')",9,True,False,False
+2010,Quarter-finals,Uruguay,Ghana,Ghana,John Mensah,Fernando Muslera,6,3,2-3,No,No,Saved,"(2010, 'Quarter-finals', 'Uruguay', 'Ghana')",9,False,False,False
+2010,Quarter-finals,Uruguay,Ghana,Uruguay,Maxi Pereira,Richard Kingson,7,4,2-3,No,No,Missed,"(2010, 'Quarter-finals', 'Uruguay', 'Ghana')",9,False,False,False
+2010,Quarter-finals,Uruguay,Ghana,Ghana,Dominic Adiyiah,Fernando Muslera,8,4,2-3,No,No,Saved,"(2010, 'Quarter-finals', 'Uruguay', 'Ghana')",9,False,False,False
+2010,Quarter-finals,Uruguay,Ghana,Uruguay,Sebastián Abreu,Richard Kingson,9,5,2-3,No,Yes,Goal,"(2010, 'Quarter-finals', 'Uruguay', 'Ghana')",9,True,False,False
+2014,Round of 16,Brazil,Chile,Brazil,David Luiz,Claudio Bravo,1,1,0-0,No,No,Goal,"(2014, 'Round of 16', 'Brazil', 'Chile')",10,True,False,False
+2014,Round of 16,Brazil,Chile,Chile,Mauricio Pinilla,Júlio César,2,1,1-0,No,No,Saved,"(2014, 'Round of 16', 'Brazil', 'Chile')",10,False,False,False
+2014,Round of 16,Brazil,Chile,Brazil,Willian,Claudio Bravo,3,2,1-0,No,No,Missed,"(2014, 'Round of 16', 'Brazil', 'Chile')",10,False,False,False
+2014,Round of 16,Brazil,Chile,Chile,Alexis Sánchez,Júlio César,4,2,1-0,No,No,Saved,"(2014, 'Round of 16', 'Brazil', 'Chile')",10,False,False,False
+2014,Round of 16,Brazil,Chile,Brazil,Marcelo,Claudio Bravo,5,3,1-0,No,No,Goal,"(2014, 'Round of 16', 'Brazil', 'Chile')",10,True,False,False
+2014,Round of 16,Brazil,Chile,Chile,Charles Aránguiz,Júlio César,6,3,1-2,No,No,Goal,"(2014, 'Round of 16', 'Brazil', 'Chile')",10,True,False,False
+2014,Round of 16,Brazil,Chile,Brazil,Hulk,Claudio Bravo,7,4,1-2,No,No,Saved,"(2014, 'Round of 16', 'Brazil', 'Chile')",10,False,False,False
+2014,Round of 16,Brazil,Chile,Chile,Marcelo Díaz,Júlio César,8,4,2-2,No,No,Goal,"(2014, 'Round of 16', 'Brazil', 'Chile')",10,True,False,False
+2014,Round of 16,Brazil,Chile,Brazil,Neymar,Claudio Bravo,9,5,2-2,No,No,Goal,"(2014, 'Round of 16', 'Brazil', 'Chile')",10,True,False,False
+2014,Round of 16,Brazil,Chile,Chile,Gonzalo Jara,Júlio César,10,5,2-3,Yes,Yes,Missed,"(2014, 'Round of 16', 'Brazil', 'Chile')",10,False,True,False
+2014,Round of 16,Costa Rica,Greece,Costa Rica,Celso Borges,Orestis Karnezis,1,1,0-0,No,No,Goal,"(2014, 'Round of 16', 'Costa Rica', 'Greece')",9,True,False,False
+2014,Round of 16,Costa Rica,Greece,Greece,Mitroglou,Keylor Navas,2,1,1-0,No,No,Goal,"(2014, 'Round of 16', 'Costa Rica', 'Greece')",9,True,False,False
+2014,Round of 16,Costa Rica,Greece,Costa Rica,Bryan Ruiz,Orestis Karnezis,3,2,1-1,No,No,Goal,"(2014, 'Round of 16', 'Costa Rica', 'Greece')",9,True,False,False
+2014,Round of 16,Costa Rica,Greece,Greece,Lazaros Christodoulopoulos,Keylor Navas,4,2,2-2,No,No,Goal,"(2014, 'Round of 16', 'Costa Rica', 'Greece')",9,True,False,False
+2014,Round of 16,Costa Rica,Greece,Costa Rica,Giancarlo González,Orestis Karnezis,5,3,2-2,No,No,Goal,"(2014, 'Round of 16', 'Costa Rica', 'Greece')",9,True,False,False
+2014,Round of 16,Costa Rica,Greece,Greece,José Holebas,Keylor Navas,6,3,3-3,No,No,Goal,"(2014, 'Round of 16', 'Costa Rica', 'Greece')",9,True,False,False
+2014,Round of 16,Costa Rica,Greece,Costa Rica,Joel Campbell,Orestis Karnezis,7,4,3-3,No,No,Goal,"(2014, 'Round of 16', 'Costa Rica', 'Greece')",9,True,False,False
+2014,Round of 16,Costa Rica,Greece,Greece,Theofanis Gekas,Keylor Navas,8,4,4-4,No,No,Saved,"(2014, 'Round of 16', 'Costa Rica', 'Greece')",9,False,False,False
+2014,Round of 16,Costa Rica,Greece,Costa Rica,Michael Umaña,Orestis Karnezis,9,5,4-4,No,Yes,Goal,"(2014, 'Round of 16', 'Costa Rica', 'Greece')",9,True,False,False
+2014,Quarter-finals,Netherlands,Costa Rica,Netherlands,Robin van Persie,Keylor Navas,1,1,0-0,No,No,Goal,"(2014, 'Quarter-finals', 'Netherlands', 'Costa Rica')",8,True,False,False
+2014,Quarter-finals,Netherlands,Costa Rica,Costa Rica,Celso Borges,Tim Krul,2,1,1-0,No,No,Goal,"(2014, 'Quarter-finals', 'Netherlands', 'Costa Rica')",8,True,False,False
+2014,Quarter-finals,Netherlands,Costa Rica,Netherlands,Arjen Robben,Keylor Navas,3,2,1-1,No,No,Goal,"(2014, 'Quarter-finals', 'Netherlands', 'Costa Rica')",8,True,False,False
+2014,Quarter-finals,Netherlands,Costa Rica,Costa Rica,Bryan Ruiz,Tim Krul,4,2,1-2,No,No,Saved,"(2014, 'Quarter-finals', 'Netherlands', 'Costa Rica')",8,False,False,False
+2014,Quarter-finals,Netherlands,Costa Rica,Netherlands,Wesley Sneijder,Keylor Navas,5,3,1-2,No,No,Goal,"(2014, 'Quarter-finals', 'Netherlands', 'Costa Rica')",8,True,False,False
+2014,Quarter-finals,Netherlands,Costa Rica,Costa Rica,Giancarlo González,Tim Krul,6,3,2-3,No,No,Goal,"(2014, 'Quarter-finals', 'Netherlands', 'Costa Rica')",8,True,False,False
+2014,Quarter-finals,Netherlands,Costa Rica,Netherlands,Dirk Kuyt,Keylor Navas,7,4,2-3,No,No,Goal,"(2014, 'Quarter-finals', 'Netherlands', 'Costa Rica')",8,True,False,False
+2014,Quarter-finals,Netherlands,Costa Rica,Costa Rica,Michael Umaña,Tim Krul,8,4,2-4,Yes,Yes,Saved,"(2014, 'Quarter-finals', 'Netherlands', 'Costa Rica')",8,False,True,False
+2014,Semi-finals,Netherlands,Argentina,Argentina,Ron Vlaar,Sergio Romero,1,1,0-0,No,No,Saved,"(2014, 'Semi-finals', 'Netherlands', 'Argentina')",8,False,False,False
+2014,Semi-finals,Netherlands,Argentina,Netherlands,Lionel Messi,Jasper Cillessen,2,1,0-1,No,No,Goal,"(2014, 'Semi-finals', 'Netherlands', 'Argentina')",8,True,False,False
+2014,Semi-finals,Netherlands,Argentina,Argentina,Arjen Robben,Sergio Romero,3,2,1-1,No,No,Goal,"(2014, 'Semi-finals', 'Netherlands', 'Argentina')",8,True,False,False
+2014,Semi-finals,Netherlands,Argentina,Netherlands,Ezequiel Garay,Jasper Cillessen,4,2,2-1,No,No,Goal,"(2014, 'Semi-finals', 'Netherlands', 'Argentina')",8,True,False,False
+2014,Semi-finals,Netherlands,Argentina,Argentina,Wesley Sneijder,Sergio Romero,5,3,2-1,No,No,Saved,"(2014, 'Semi-finals', 'Netherlands', 'Argentina')",8,False,False,False
+2014,Semi-finals,Netherlands,Argentina,Netherlands,Sergio Agüero,Jasper Cillessen,6,3,3-1,No,No,Goal,"(2014, 'Semi-finals', 'Netherlands', 'Argentina')",8,True,False,False
+2014,Semi-finals,Netherlands,Argentina,Argentina,Dirk Kuyt,Sergio Romero,7,4,3-2,No,No,Goal,"(2014, 'Semi-finals', 'Netherlands', 'Argentina')",8,True,False,False
+2014,Semi-finals,Netherlands,Argentina,Netherlands,Maxi Rodríguez,Jasper Cillessen,8,4,3-2,No,Yes,Goal,"(2014, 'Semi-finals', 'Netherlands', 'Argentina')",8,True,False,False
+2018,Round of 16,Colombia,England,Colombia,Radamel Falcao,Jordan Pickford,1,1,0-0,No,No,Goal,"(2018, 'Round of 16', 'Colombia', 'England')",10,True,False,False
+2018,Round of 16,Colombia,England,England,Harry Kane,David Ospina,2,1,1-0,No,No,Goal,"(2018, 'Round of 16', 'Colombia', 'England')",10,True,False,False
+2018,Round of 16,Colombia,England,Colombia,Juan Cuadrado,Jordan Pickford,3,2,1-1,No,No,Goal,"(2018, 'Round of 16', 'Colombia', 'England')",10,True,False,False
+2018,Round of 16,Colombia,England,England,Marcus Rashford,David Ospina,4,2,1-2,No,No,Goal,"(2018, 'Round of 16', 'Colombia', 'England')",10,True,False,False
+2018,Round of 16,Colombia,England,Colombia,Luis Muriel,Jordan Pickford,5,3,2-2,No,No,Goal,"(2018, 'Round of 16', 'Colombia', 'England')",10,True,False,False
+2018,Round of 16,Colombia,England,England,Jordan Henderson,David Ospina,6,3,2-3,No,No,Saved,"(2018, 'Round of 16', 'Colombia', 'England')",10,False,False,False
+2018,Round of 16,Colombia,England,Colombia,Mateus Uribe,Jordan Pickford,7,4,2-3,No,No,Missed,"(2018, 'Round of 16', 'Colombia', 'England')",10,False,False,False
+2018,Round of 16,Colombia,England,England,Kieran Trippier,David Ospina,8,4,2-3,No,No,Goal,"(2018, 'Round of 16', 'Colombia', 'England')",10,True,False,False
+2018,Round of 16,Colombia,England,Colombia,Carlos Bacca,Jordan Pickford,9,5,3-3,No,No,Saved,"(2018, 'Round of 16', 'Colombia', 'England')",10,False,False,False
+2018,Round of 16,Colombia,England,England,Eric Dier,David Ospina,10,5,3-3,No,Yes,Goal,"(2018, 'Round of 16', 'Colombia', 'England')",10,True,False,False
+2018,Round of 16,Croatia,Denmark,Denmark,Christian Eriksen,Danijel Subašić,1,1,0-0,No,No,Saved,"(2018, 'Round of 16', 'Croatia', 'Denmark')",10,False,False,False
+2018,Round of 16,Croatia,Denmark,Croatia,Milan Badelj,Kasper Schmeichel,2,1,0-0,No,No,Saved,"(2018, 'Round of 16', 'Croatia', 'Denmark')",10,False,False,False
+2018,Round of 16,Croatia,Denmark,Denmark,Simon Kjær,Danijel Subašić,3,2,0-0,No,No,Goal,"(2018, 'Round of 16', 'Croatia', 'Denmark')",10,True,False,False
+2018,Round of 16,Croatia,Denmark,Croatia,Andrej Kramarić,Kasper Schmeichel,4,2,0-1,No,No,Goal,"(2018, 'Round of 16', 'Croatia', 'Denmark')",10,True,False,False
+2018,Round of 16,Croatia,Denmark,Denmark,Michael Krohn-Dehli,Danijel Subašić,5,3,1-1,No,No,Goal,"(2018, 'Round of 16', 'Croatia', 'Denmark')",10,True,False,False
+2018,Round of 16,Croatia,Denmark,Croatia,Luka Modrić,Kasper Schmeichel,6,3,2-1,No,No,Goal,"(2018, 'Round of 16', 'Croatia', 'Denmark')",10,True,False,False
+2018,Round of 16,Croatia,Denmark,Denmark,Lasse Schöne,Danijel Subašić,7,4,2-2,No,No,Saved,"(2018, 'Round of 16', 'Croatia', 'Denmark')",10,False,False,False
+2018,Round of 16,Croatia,Denmark,Croatia,Josip Pivarić,Kasper Schmeichel,8,4,2-2,No,No,Saved,"(2018, 'Round of 16', 'Croatia', 'Denmark')",10,False,False,False
+2018,Round of 16,Croatia,Denmark,Denmark,Nicolai Jørgensen,Danijel Subašić,9,5,2-2,No,No,Saved,"(2018, 'Round of 16', 'Croatia', 'Denmark')",10,False,False,False
+2018,Round of 16,Croatia,Denmark,Croatia,Ivan Rakitić,Kasper Schmeichel,10,5,2-2,No,Yes,Goal,"(2018, 'Round of 16', 'Croatia', 'Denmark')",10,True,False,False
+2018,Round of 16,Spain,Russia,Spain,Andrés Iniesta,Igor Akinfeev,1,1,0-0,No,No,Goal,"(2018, 'Round of 16', 'Spain', 'Russia')",8,True,False,False
+2018,Round of 16,Spain,Russia,Russia,Fedor Smolov,David de Gea,2,1,1-0,No,No,Goal,"(2018, 'Round of 16', 'Spain', 'Russia')",8,True,False,False
+2018,Round of 16,Spain,Russia,Spain,Gerard Piqué,Igor Akinfeev,3,2,1-1,No,No,Goal,"(2018, 'Round of 16', 'Spain', 'Russia')",8,True,False,False
+2018,Round of 16,Spain,Russia,Russia,Sergey Ignashevich,David de Gea,4,2,1-2,No,No,Goal,"(2018, 'Round of 16', 'Spain', 'Russia')",8,True,False,False
+2018,Round of 16,Spain,Russia,Spain,Koke,Igor Akinfeev,5,3,2-2,No,No,Saved,"(2018, 'Round of 16', 'Spain', 'Russia')",8,False,False,False
+2018,Round of 16,Spain,Russia,Russia,Aleksandr Golovin,David de Gea,6,3,2-2,No,No,Goal,"(2018, 'Round of 16', 'Spain', 'Russia')",8,True,False,False
+2018,Round of 16,Spain,Russia,Spain,Iago Aspas,Igor Akinfeev,7,4,3-2,No,No,Saved,"(2018, 'Round of 16', 'Spain', 'Russia')",8,False,False,False
+2018,Round of 16,Spain,Russia,Russia,Denis Cheryshev,David de Gea,8,4,3-2,No,No,Goal,"(2018, 'Round of 16', 'Spain', 'Russia')",8,True,False,False
+2018,Quarter-finals,Russia,Croatia,Russia,Fedor Smolov,Danijel Subašić,1,1,0-0,No,No,Saved,"(2018, 'Quarter-finals', 'Russia', 'Croatia')",10,False,False,False
+2018,Quarter-finals,Russia,Croatia,Croatia,Marcelo Brozović,Igor Akinfeev,2,1,0-0,No,No,Goal,"(2018, 'Quarter-finals', 'Russia', 'Croatia')",10,True,False,False
+2018,Quarter-finals,Russia,Croatia,Russia,Alan Dzagoev,Danijel Subašić,3,2,0-1,No,No,Goal,"(2018, 'Quarter-finals', 'Russia', 'Croatia')",10,True,False,False
+2018,Quarter-finals,Russia,Croatia,Croatia,Mateo Kovačić,Igor Akinfeev,4,2,1-1,No,No,Saved,"(2018, 'Quarter-finals', 'Russia', 'Croatia')",10,False,False,False
+2018,Quarter-finals,Russia,Croatia,Russia,Mário Fernandes,Danijel Subašić,5,3,1-1,No,No,Missed,"(2018, 'Quarter-finals', 'Russia', 'Croatia')",10,False,False,False
+2018,Quarter-finals,Russia,Croatia,Croatia,Luka Modrić,Igor Akinfeev,6,3,1-1,No,No,Goal,"(2018, 'Quarter-finals', 'Russia', 'Croatia')",10,True,False,False
+2018,Quarter-finals,Russia,Croatia,Russia,Denis Cheryshev,Danijel Subašić,7,4,2-1,No,No,Goal,"(2018, 'Quarter-finals', 'Russia', 'Croatia')",10,True,False,False
+2018,Quarter-finals,Russia,Croatia,Croatia,Domagoj Vida,Igor Akinfeev,8,4,2-2,No,No,Goal,"(2018, 'Quarter-finals', 'Russia', 'Croatia')",10,True,False,False
+2018,Quarter-finals,Russia,Croatia,Russia,Daler Kuzyayev,Danijel Subašić,9,5,3-2,No,No,Goal,"(2018, 'Quarter-finals', 'Russia', 'Croatia')",10,True,False,False
+2018,Quarter-finals,Russia,Croatia,Croatia,Ivan Rakitić,Igor Akinfeev,10,5,3-3,No,Yes,Goal,"(2018, 'Quarter-finals', 'Russia', 'Croatia')",10,True,False,False
+2022,Round of 16,Japan,Croatia,Japan,Takumi Minamino,Dominik Livaković,1,1,0-0,No,No,Saved,"(2022, 'Round of 16', 'Japan', 'Croatia')",8,False,False,False
+2022,Round of 16,Japan,Croatia,Croatia,Nikola Vlašić,Shūichi Gonda,2,1,0-0,No,No,Goal,"(2022, 'Round of 16', 'Japan', 'Croatia')",8,True,False,False
+2022,Round of 16,Japan,Croatia,Japan,Kaoru Mitoma,Dominik Livaković,3,2,0-1,No,No,Saved,"(2022, 'Round of 16', 'Japan', 'Croatia')",8,False,False,False
+2022,Round of 16,Japan,Croatia,Croatia,Marcelo Brozović,Shūichi Gonda,4,2,0-1,No,No,Goal,"(2022, 'Round of 16', 'Japan', 'Croatia')",8,True,False,False
+2022,Round of 16,Japan,Croatia,Japan,Takuma Asano,Dominik Livaković,5,3,0-2,No,No,Goal,"(2022, 'Round of 16', 'Japan', 'Croatia')",8,True,False,False
+2022,Round of 16,Japan,Croatia,Croatia,Marko Livaja,Shūichi Gonda,6,3,2-1,No,No,Missed,"(2022, 'Round of 16', 'Japan', 'Croatia')",8,False,False,False
+2022,Round of 16,Japan,Croatia,Japan,Maya Yoshida,Dominik Livaković,7,4,2-1,No,No,Saved,"(2022, 'Round of 16', 'Japan', 'Croatia')",8,False,False,False
+2022,Round of 16,Japan,Croatia,Croatia,Mario Pašalić,Shūichi Gonda,8,4,2-1,No,Yes,Goal,"(2022, 'Round of 16', 'Japan', 'Croatia')",8,True,False,False
+2022,Round of 16,Morocco,Spain,Morocco,Abdelhamid Sabiri,Unai Simón,1,1,0-0,No,No,Goal,"(2022, 'Round of 16', 'Morocco', 'Spain')",7,True,False,False
+2022,Round of 16,Morocco,Spain,Spain,Pablo Sarabia,Yassine Bounou,2,1,1-0,No,No,Missed,"(2022, 'Round of 16', 'Morocco', 'Spain')",7,False,False,False
+2022,Round of 16,Morocco,Spain,Morocco,Hakim Ziyech,Unai Simón,3,2,1-0,No,No,Goal,"(2022, 'Round of 16', 'Morocco', 'Spain')",7,True,False,False
+2022,Round of 16,Morocco,Spain,Spain,Carlos Soler,Yassine Bounou,4,2,2-0,No,No,Saved,"(2022, 'Round of 16', 'Morocco', 'Spain')",7,False,False,False
+2022,Round of 16,Morocco,Spain,Morocco,Badr Benoun,Unai Simón,5,3,2-0,No,No,Saved,"(2022, 'Round of 16', 'Morocco', 'Spain')",7,False,False,False
+2022,Round of 16,Morocco,Spain,Spain,Sergio Busquets,Yassine Bounou,6,3,2-0,No,No,Saved,"(2022, 'Round of 16', 'Morocco', 'Spain')",7,False,False,False
+2022,Round of 16,Morocco,Spain,Morocco,Achraf Hakimi,Unai Simón,7,4,2-0,No,Yes,Goal,"(2022, 'Round of 16', 'Morocco', 'Spain')",7,True,False,False
+2022,Quarter-finals,Croatia,Brazil,Croatia,Nikola Vlašić,Alisson,1,1,0-0,No,No,Goal,"(2022, 'Quarter-finals', 'Croatia', 'Brazil')",8,True,False,False
+2022,Quarter-finals,Croatia,Brazil,Brazil,Rodrygo,Dominik Livaković,2,1,1-0,No,No,Saved,"(2022, 'Quarter-finals', 'Croatia', 'Brazil')",8,False,False,False
+2022,Quarter-finals,Croatia,Brazil,Croatia,Lovro Majer,Alisson,3,2,1-0,No,No,Goal,"(2022, 'Quarter-finals', 'Croatia', 'Brazil')",8,True,False,False
+2022,Quarter-finals,Croatia,Brazil,Brazil,Casemiro,Dominik Livaković,4,2,2-0,No,No,Goal,"(2022, 'Quarter-finals', 'Croatia', 'Brazil')",8,True,False,False
+2022,Quarter-finals,Croatia,Brazil,Croatia,Luka Modrić,Alisson,5,3,1-2,No,No,Goal,"(2022, 'Quarter-finals', 'Croatia', 'Brazil')",8,True,False,False
+2022,Quarter-finals,Croatia,Brazil,Brazil,Pedro,Dominik Livaković,6,3,1-3,No,No,Goal,"(2022, 'Quarter-finals', 'Croatia', 'Brazil')",8,True,False,False
+2022,Quarter-finals,Croatia,Brazil,Croatia,Mislav Oršić,Alisson,7,4,2-3,No,No,Goal,"(2022, 'Quarter-finals', 'Croatia', 'Brazil')",8,True,False,False
+2022,Quarter-finals,Croatia,Brazil,Brazil,Marquinhos,Dominik Livaković,8,4,2-4,Yes,Yes,Missed,"(2022, 'Quarter-finals', 'Croatia', 'Brazil')",8,False,True,False
+2022,Quarter-finals,Netherlands,Argentina,Netherlands,Virgil van Dijk,Emiliano Martínez,1,1,0-0,No,No,Saved,"(2022, 'Quarter-finals', 'Netherlands', 'Argentina')",10,False,False,False
+2022,Quarter-finals,Netherlands,Argentina,Argentina,Lionel Messi,Andries Noppert,2,1,0-0,No,No,Goal,"(2022, 'Quarter-finals', 'Netherlands', 'Argentina')",10,True,False,False
+2022,Quarter-finals,Netherlands,Argentina,Netherlands,Steven Berghuis,Emiliano Martínez,3,2,0-1,No,No,Saved,"(2022, 'Quarter-finals', 'Netherlands', 'Argentina')",10,False,False,False
+2022,Quarter-finals,Netherlands,Argentina,Argentina,Leandro Paredes,Andries Noppert,4,2,0-1,No,No,Goal,"(2022, 'Quarter-finals', 'Netherlands', 'Argentina')",10,True,False,False
+2022,Quarter-finals,Netherlands,Argentina,Netherlands,Teun Koopmeiners,Emiliano Martínez,5,3,0-2,No,No,Goal,"(2022, 'Quarter-finals', 'Netherlands', 'Argentina')",10,True,False,False
+2022,Quarter-finals,Netherlands,Argentina,Argentina,Gonzalo Montiel,Andries Noppert,6,3,2-1,No,No,Goal,"(2022, 'Quarter-finals', 'Netherlands', 'Argentina')",10,True,False,False
+2022,Quarter-finals,Netherlands,Argentina,Netherlands,Wout Weghorst,Emiliano Martínez,7,4,3-1,No,No,Goal,"(2022, 'Quarter-finals', 'Netherlands', 'Argentina')",10,True,False,False
+2022,Quarter-finals,Netherlands,Argentina,Argentina,Enzo Fernández,Andries Noppert,8,4,3-2,No,No,Missed,"(2022, 'Quarter-finals', 'Netherlands', 'Argentina')",10,False,False,False
+2022,Quarter-finals,Netherlands,Argentina,Netherlands,Luuk de Jong,Emiliano Martínez,9,5,3-2,No,No,Goal,"(2022, 'Quarter-finals', 'Netherlands', 'Argentina')",10,True,False,False
+2022,Quarter-finals,Netherlands,Argentina,Argentina,Lautaro Martínez,Andries Noppert,10,5,3-3,No,Yes,Goal,"(2022, 'Quarter-finals', 'Netherlands', 'Argentina')",10,True,False,False
+2022,Final,Argentina,France,France,Kylian Mbappé,Emiliano Martínez,1,1,0-0,No,No,Goal,"(2022, 'Final', 'Argentina', 'France')",8,True,False,False
+2022,Final,Argentina,France,Argentina,Lionel Messi,Hugo Lloris,2,1,0-1,No,No,Goal,"(2022, 'Final', 'Argentina', 'France')",8,True,False,False
+2022,Final,Argentina,France,France,Kingsley Coman,Emiliano Martínez,3,2,1-1,No,No,Saved,"(2022, 'Final', 'Argentina', 'France')",8,False,False,False
+2022,Final,Argentina,France,Argentina,Paulo Dybala,Hugo Lloris,4,2,1-1,No,No,Goal,"(2022, 'Final', 'Argentina', 'France')",8,True,False,False
+2022,Final,Argentina,France,France,Aurélien Tchouaméni,Emiliano Martínez,5,3,2-1,No,No,Missed,"(2022, 'Final', 'Argentina', 'France')",8,False,False,False
+2022,Final,Argentina,France,Argentina,Leandro Paredes,Hugo Lloris,6,3,2-1,No,No,Goal,"(2022, 'Final', 'Argentina', 'France')",8,True,False,False
+2022,Final,Argentina,France,France,Randal Kolo Muani,Emiliano Martínez,7,4,3-1,No,No,Goal,"(2022, 'Final', 'Argentina', 'France')",8,True,False,False
+2022,Final,Argentina,France,Argentina,Gonzalo Montiel,Hugo Lloris,8,4,3-2,No,Yes,Goal,"(2022, 'Final', 'Argentina', 'France')",8,True,False,False
+2026,Round of 32,Germany,Paraguay,Germany,Florian Wirtz,Roberto Fernández,1,1,0-0,No,No,Goal,"(2026, 'Round of 32', 'Germany', 'Paraguay')",10,True,False,False
+2026,Round of 32,Germany,Paraguay,Paraguay,Julio Enciso,Marc-André ter Stegen,2,1,1-0,No,No,Goal,"(2026, 'Round of 32', 'Germany', 'Paraguay')",10,True,False,False
+2026,Round of 32,Germany,Paraguay,Germany,Kai Havertz,Roberto Fernández,3,2,1-1,No,No,Missed,"(2026, 'Round of 32', 'Germany', 'Paraguay')",10,False,False,False
+2026,Round of 32,Germany,Paraguay,Paraguay,Miguel Almirón,Marc-André ter Stegen,4,2,1-1,No,No,Goal,"(2026, 'Round of 32', 'Germany', 'Paraguay')",10,True,False,False
+2026,Round of 32,Germany,Paraguay,Germany,Jamal Musiala,Roberto Fernández,5,3,1-2,No,No,Goal,"(2026, 'Round of 32', 'Germany', 'Paraguay')",10,True,False,False
+2026,Round of 32,Germany,Paraguay,Paraguay,Mathias Villasanti,Marc-André ter Stegen,6,3,2-2,No,No,Goal,"(2026, 'Round of 32', 'Germany', 'Paraguay')",10,True,False,False
+2026,Round of 32,Germany,Paraguay,Germany,Niclas Füllkrug,Roberto Fernández,7,4,2-3,No,No,Goal,"(2026, 'Round of 32', 'Germany', 'Paraguay')",10,True,False,False
+2026,Round of 32,Germany,Paraguay,Paraguay,Ramón Sosa,Marc-André ter Stegen,8,4,3-3,No,No,Missed,"(2026, 'Round of 32', 'Germany', 'Paraguay')",10,False,False,False
+2026,Round of 32,Germany,Paraguay,Germany,Joshua Kimmich,Roberto Fernández,9,5,3-3,No,No,Missed,"(2026, 'Round of 32', 'Germany', 'Paraguay')",10,False,False,False
+2026,Round of 32,Germany,Paraguay,Paraguay,Gustavo Gómez,Marc-André ter Stegen,10,5,3-3,No,Yes,Goal,"(2026, 'Round of 32', 'Germany', 'Paraguay')",10,True,False,False
+2026,Round of 32,Netherlands,Morocco,Netherlands,Cody Gakpo,Yassine Bounou,1,1,0-0,No,No,Goal,"(2026, 'Round of 32', 'Netherlands', 'Morocco')",9,True,False,False
+2026,Round of 32,Netherlands,Morocco,Morocco,Achraf Hakimi,Bart Verbruggen,2,1,1-0,No,No,Goal,"(2026, 'Round of 32', 'Netherlands', 'Morocco')",9,True,False,False
+2026,Round of 32,Netherlands,Morocco,Netherlands,Xavi Simons,Yassine Bounou,3,2,1-1,No,No,Missed,"(2026, 'Round of 32', 'Netherlands', 'Morocco')",9,False,False,False
+2026,Round of 32,Netherlands,Morocco,Morocco,Hakim Ziyech,Bart Verbruggen,4,2,1-1,No,No,Goal,"(2026, 'Round of 32', 'Netherlands', 'Morocco')",9,True,False,False
+2026,Round of 32,Netherlands,Morocco,Netherlands,Tijjani Reijnders,Yassine Bounou,5,3,1-2,No,No,Goal,"(2026, 'Round of 32', 'Netherlands', 'Morocco')",9,True,False,False
+2026,Round of 32,Netherlands,Morocco,Morocco,Sofyan Amrabat,Bart Verbruggen,6,3,2-2,No,No,Missed,"(2026, 'Round of 32', 'Netherlands', 'Morocco')",9,False,False,False
+2026,Round of 32,Netherlands,Morocco,Netherlands,Donyell Malen,Yassine Bounou,7,4,2-2,No,No,Missed,"(2026, 'Round of 32', 'Netherlands', 'Morocco')",9,False,False,False
+2026,Round of 32,Netherlands,Morocco,Morocco,Youssef En-Nesyri,Bart Verbruggen,8,4,2-2,No,No,Goal,"(2026, 'Round of 32', 'Netherlands', 'Morocco')",9,True,False,False
+2026,Round of 32,Netherlands,Morocco,Netherlands,Jeremie Frimpong,Yassine Bounou,9,5,2-3,Yes,No,Missed,"(2026, 'Round of 32', 'Netherlands', 'Morocco')",9,False,True,False
+2026,Round of 32,Australia,Egypt,Australia,Harry Souttar,Mohamed El Shenawy,1,1,0-0,No,No,Missed,"(2026, 'Round of 32', 'Australia', 'Egypt')",8,False,False,False
+2026,Round of 32,Australia,Egypt,Egypt,Mostafa Mohamed,Mathew Ryan,2,1,0-0,No,No,Goal,"(2026, 'Round of 32', 'Australia', 'Egypt')",8,True,False,False
+2026,Round of 32,Australia,Egypt,Australia,Jackson Irvine,Mohamed El Shenawy,3,2,0-1,No,No,Goal,"(2026, 'Round of 32', 'Australia', 'Egypt')",8,True,False,False
+2026,Round of 32,Australia,Egypt,Egypt,Omar Marmoush,Mathew Ryan,4,2,1-1,No,No,Goal,"(2026, 'Round of 32', 'Australia', 'Egypt')",8,True,False,False
+2026,Round of 32,Australia,Egypt,Australia,Craig Goodwin,Mohamed El Shenawy,5,3,1-2,No,No,Goal,"(2026, 'Round of 32', 'Australia', 'Egypt')",8,True,False,False
+2026,Round of 32,Australia,Egypt,Egypt,Trezeguet,Mathew Ryan,6,3,2-2,No,No,Goal,"(2026, 'Round of 32', 'Australia', 'Egypt')",8,True,False,False
+2026,Round of 32,Australia,Egypt,Australia,Riley McGree,Mohamed El Shenawy,7,4,2-3,No,No,Missed,"(2026, 'Round of 32', 'Australia', 'Egypt')",8,False,False,False
+2026,Round of 32,Australia,Egypt,Egypt,Mohamed Salah,Mathew Ryan,8,4,2-3,No,Yes,Goal,"(2026, 'Round of 32', 'Australia', 'Egypt')",8,True,False,False
+2026,Round of 16,Switzerland,Colombia,Switzerland,Manuel Akanji,Camilo Vargas,1,1,0-0,No,No,Goal,"(2026, 'Round of 16', 'Switzerland', 'Colombia')",9,True,False,False
+2026,Round of 16,Switzerland,Colombia,Colombia,Luis Díaz,Yann Sommer,2,1,1-0,No,No,Goal,"(2026, 'Round of 16', 'Switzerland', 'Colombia')",9,True,False,False
+2026,Round of 16,Switzerland,Colombia,Switzerland,Granit Xhaka,Camilo Vargas,3,2,1-1,No,No,Goal,"(2026, 'Round of 16', 'Switzerland', 'Colombia')",9,True,False,False
+2026,Round of 16,Switzerland,Colombia,Colombia,James Rodríguez,Yann Sommer,4,2,2-1,No,No,Missed,"(2026, 'Round of 16', 'Switzerland', 'Colombia')",9,False,False,False
+2026,Round of 16,Switzerland,Colombia,Switzerland,Remo Freuler,Camilo Vargas,5,3,2-1,No,No,Goal,"(2026, 'Round of 16', 'Switzerland', 'Colombia')",9,True,False,False
+2026,Round of 16,Switzerland,Colombia,Colombia,Jhon Durán,Yann Sommer,6,3,3-1,No,No,Goal,"(2026, 'Round of 16', 'Switzerland', 'Colombia')",9,True,False,False
+2026,Round of 16,Switzerland,Colombia,Switzerland,Breel Embolo,Camilo Vargas,7,4,3-2,No,No,Missed,"(2026, 'Round of 16', 'Switzerland', 'Colombia')",9,False,False,False
+2026,Round of 16,Switzerland,Colombia,Colombia,Daniel Muñoz,Yann Sommer,8,4,3-2,No,No,Goal,"(2026, 'Round of 16', 'Switzerland', 'Colombia')",9,True,False,False
+2026,Round of 16,Switzerland,Colombia,Switzerland,Zeki Amdouni,Camilo Vargas,9,5,3-3,No,Yes,Goal,"(2026, 'Round of 16', 'Switzerland', 'Colombia')",9,True,False,False
